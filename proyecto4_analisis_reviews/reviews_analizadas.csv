@@ -1,0 +1,112 @@
+ID,Fecha,Cliente,Producto,Rating,Comentario,Sentimiento,Temas
+1,2026-01-05,Micaela R.,Remera estampada,4,"Hermoso el vestido, superó mis expectativas, llegó justo para el evento.",Positivo,Envío
+2,2026-01-06,Franco C.,Vestido casual,5,"Hermoso el vestido, superó mis expectativas, llegó justo para el evento.",Positivo,Envío
+3,2026-01-11,Camila T.,Campera de jean,1,"Muy decepcionada con la compra, no la recomiendo.",Neutro,
+4,2026-01-15,María G.,Vestido de fiesta,2,La tela se ve más barata de lo que se muestra en las fotos.,Neutro,Calidad
+5,2026-01-17,Valentina S.,Zapatillas urbanas,5,"Llegó mucho antes de lo esperado, en 3 días ya lo tenía en mi casa.",Neutro,Envío
+6,2026-01-17,Ezequiel V.,Campera de jean,5,Compré 2 remeras en talles distintos y ambas calzaron justo como esperaba.,Positivo,Talles
+7,2026-01-18,Rocío M.,Campera inflable,5,"El talle me quedó perfecto, tal cual la guía de talles de la web.",Positivo,Talles
+8,2026-01-21,Santiago S.,Campera de jean,5,"La calidad de la tela es excelente, mucho mejor de lo que pensé por el precio.",Positivo,"Calidad, Precio"
+9,2026-01-21,Ignacio P.,Buzo canguro,5,"Ya lavé la campera varias veces y no se destiñó ni se deformó, muy buena calidad.",Neutro,Calidad
+10,2026-01-22,Julieta S.,Campera inflable,1,"El envío tardó casi 3 semanas, mucho más de lo prometido.",Negativo,Envío
+11,2026-01-25,Juan P.,Vestido casual,5,"El talle me quedó perfecto, tal cual la guía de talles de la web.",Positivo,Talles
+12,2026-01-25,Valentina S.,Vestido casual,2,Escribí varias veces por WhatsApp y tardaron días en contestar.,Negativo,"Envío, Atención al cliente"
+13,2026-01-27,Federico A.,Vestido de fiesta,5,"El envío fue rapidísimo y llegó todo perfecto, sin ningún daño.",Positivo,Envío
+14,2026-01-28,Rocío M.,Jean chupín,4,"Repetí compra, siempre quedo conforme con todo.",Positivo,
+15,2026-02-04,Carlos R.,Campera de jean,1,"El talle me quedó chico, la guía de talles no es real.",Negativo,Talles
+16,2026-02-04,Micaela R.,Remera estampada,5,"El talle me quedó perfecto, tal cual la guía de talles de la web.",Positivo,Talles
+17,2026-02-05,Juan P.,Buzo canguro,5,"La atención por Instagram fue excelente, me respondieron todas las dudas al toque.",Positivo,Atención al cliente
+18,2026-02-05,Julieta S.,Campera inflable,4,"Ya lavé la campera varias veces y no se destiñó ni se deformó, muy buena calidad.",Neutro,Calidad
+19,2026-02-08,María G.,Vestido de fiesta,2,Me pareció carísimo para la calidad que tiene la prenda.,Negativo,"Calidad, Precio"
+20,2026-02-08,Franco C.,Vestido casual,1,Escribí varias veces por WhatsApp y tardaron días en contestar.,Negativo,"Envío, Atención al cliente"
+21,2026-02-09,Ignacio P.,Vestido de fiesta,5,"Hermoso el vestido, superó mis expectativas, llegó justo para el evento.",Positivo,Envío
+22,2026-02-09,Nicolás R.,Vestido de fiesta,5,"Repetí compra, siempre quedo conforme con todo.",Positivo,
+23,2026-02-11,Valentina S.,Vestido de fiesta,2,"Llegó el pedido incompleto, faltaba una prenda y todavía estoy esperando el reembolso.",Negativo,"Envío, Atención al cliente"
+24,2026-02-11,Antonella G.,Vestido casual,4,"Buena relación precio-calidad, no es lo más barato pero vale la pena.",Positivo,"Calidad, Precio"
+25,2026-02-11,Juan P.,Vestido de fiesta,2,El paquete llegó roto y la prenda con una mancha.,Negativo,Envío
+26,2026-02-14,Federico A.,Buzo canguro,5,"La calidad de la tela es excelente, mucho mejor de lo que pensé por el precio.",Positivo,"Calidad, Precio"
+27,2026-02-14,Santiago S.,Remera estampada,5,"Buena relación precio-calidad, no es lo más barato pero vale la pena.",Positivo,"Calidad, Precio"
+28,2026-02-16,Micaela R.,Campera de jean,3,Pedí cambiar el talle y nunca me dieron una solución clara.,Negativo,Talles
+29,2026-02-17,Valentina S.,Remera estampada,2,"Muy decepcionada con la compra, no la recomiendo.",Neutro,
+30,2026-02-17,Carlos R.,Buzo canguro,3,"Pedí talle M y llegó como un talle S, tuve que devolverlo.",Neutro,"Talles, Envío"
+31,2026-02-22,Micaela R.,Vestido de fiesta,5,Compré 2 remeras en talles distintos y ambas calzaron justo como esperaba.,Positivo,Talles
+32,2026-02-25,Federico A.,Zapatillas urbanas,4,"Me ayudaron a elegir el talle correcto por WhatsApp, muy buena onda.",Positivo,"Talles, Atención al cliente"
+33,2026-02-26,Diego L.,Campera inflable,3,"A la segunda lavada ya se empezó a destejer, mala calidad.",Negativo,Calidad
+34,2026-02-27,María G.,Campera de jean,4,Compré 2 remeras en talles distintos y ambas calzaron justo como esperaba.,Positivo,Talles
+35,2026-02-28,María G.,Vestido casual,1,La tela se ve más barata de lo que se muestra en las fotos.,Neutro,Calidad
+36,2026-03-03,Milagros A.,Vestido de fiesta,3,"Llegó el pedido incompleto, faltaba una prenda y todavía estoy esperando el reembolso.",Negativo,"Envío, Atención al cliente"
+37,2026-03-03,Bruno H.,Campera inflable,1,La tela se ve más barata de lo que se muestra en las fotos.,Neutro,Calidad
+38,2026-03-03,Ezequiel V.,Campera de jean,3,"El envío llegó en el tiempo estimado, todo correcto.",Positivo,Envío
+39,2026-03-04,Diego L.,Jean chupín,4,"Repetí compra, siempre quedo conforme con todo.",Positivo,
+40,2026-03-04,Franco C.,Vestido casual,3,"Está bien, cumple, nada del otro mundo.",Neutro,
+41,2026-03-06,Tomás M.,Campera de jean,5,"Hermoso el vestido, superó mis expectativas, llegó justo para el evento.",Positivo,Envío
+42,2026-03-07,Josefina L.,Campera inflable,5,"El talle me quedó perfecto, tal cual la guía de talles de la web.",Positivo,Talles
+43,2026-03-08,Juan P.,Zapatillas urbanas,1,"El envío tardó casi 3 semanas, mucho más de lo prometido.",Negativo,Envío
+44,2026-03-12,Diego L.,Remera estampada,2,"El talle me quedó chico, la guía de talles no es real.",Negativo,Talles
+45,2026-03-20,Bruno H.,Vestido de fiesta,5,"La atención por Instagram fue excelente, me respondieron todas las dudas al toque.",Positivo,Atención al cliente
+46,2026-03-21,Tomás M.,Campera de jean,5,"Buena relación precio-calidad, no es lo más barato pero vale la pena.",Positivo,"Calidad, Precio"
+47,2026-03-21,Valentina S.,Vestido casual,5,Compré 2 remeras en talles distintos y ambas calzaron justo como esperaba.,Positivo,Talles
+48,2026-03-30,Micaela R.,Campera de jean,2,Pedí cambiar el talle y nunca me dieron una solución clara.,Negativo,Talles
+49,2026-04-01,Ezequiel V.,Zapatillas urbanas,3,Me pareció carísimo para la calidad que tiene la prenda.,Negativo,"Calidad, Precio"
+50,2026-04-03,Federico A.,Remera estampada,2,"Muy decepcionada con la compra, no la recomiendo.",Neutro,
+51,2026-04-05,Federico A.,Campera inflable,4,"Llegó mucho antes de lo esperado, en 3 días ya lo tenía en mi casa.",Neutro,Envío
+52,2026-04-06,Ezequiel V.,Remera estampada,5,"Ya lavé la campera varias veces y no se destiñó ni se deformó, muy buena calidad.",Neutro,Calidad
+53,2026-04-06,Ezequiel V.,Buzo canguro,3,"A la segunda lavada ya se empezó a destejer, mala calidad.",Negativo,Calidad
+54,2026-04-09,Santiago S.,Campera de jean,5,"Llegó mucho antes de lo esperado, en 3 días ya lo tenía en mi casa.",Neutro,Envío
+55,2026-04-11,Lucía F.,Campera inflable,1,"Pedí talle M y llegó como un talle S, tuve que devolverlo.",Neutro,"Talles, Envío"
+56,2026-04-12,Milagros A.,Vestido casual,5,"Repetí compra, siempre quedo conforme con todo.",Positivo,
+57,2026-04-13,Agustina R.,Vestido casual,5,"Me ayudaron a elegir el talle correcto por WhatsApp, muy buena onda.",Positivo,"Talles, Atención al cliente"
+58,2026-04-15,Ignacio P.,Remera estampada,5,"La atención por Instagram fue excelente, me respondieron todas las dudas al toque.",Positivo,Atención al cliente
+59,2026-04-15,Valentina S.,Buzo canguro,3,"El talle quedó normal, ni ajustado ni grande.",Neutro,Talles
+60,2026-04-18,Diego L.,Campera de jean,5,"El envío fue rapidísimo y llegó todo perfecto, sin ningún daño.",Positivo,Envío
+61,2026-04-28,Ezequiel V.,Vestido de fiesta,3,Escribí varias veces por WhatsApp y tardaron días en contestar.,Negativo,"Envío, Atención al cliente"
+62,2026-04-29,Julieta S.,Campera inflable,1,"A la segunda lavada ya se empezó a destejer, mala calidad.",Negativo,Calidad
+63,2026-04-30,Julieta S.,Campera de jean,3,"Es lo que esperaba por el precio, ni más ni menos.",Neutro,Precio
+64,2026-05-01,Julieta S.,Jean chupín,5,"La calidad de la tela es excelente, mucho mejor de lo que pensé por el precio.",Positivo,"Calidad, Precio"
+65,2026-05-01,Sofía M.,Vestido de fiesta,2,"Los talles no son consistentes, en otra compra el mismo talle me quedó distinto.",Neutro,Talles
+66,2026-05-10,Juan P.,Vestido casual,3,La tela se ve más barata de lo que se muestra en las fotos.,Neutro,Calidad
+67,2026-05-12,Sofía M.,Buzo canguro,2,"El envío tardó casi 3 semanas, mucho más de lo prometido.",Negativo,Envío
+68,2026-05-12,Carlos R.,Campera inflable,2,"Los talles no son consistentes, en otra compra el mismo talle me quedó distinto.",Neutro,Talles
+69,2026-05-13,Nicolás R.,Buzo canguro,2,Me pareció carísimo para la calidad que tiene la prenda.,Negativo,"Calidad, Precio"
+70,2026-05-18,Julieta S.,Vestido casual,2,"Los talles no son consistentes, en otra compra el mismo talle me quedó distinto.",Neutro,Talles
+71,2026-05-20,María G.,Zapatillas urbanas,3,El paquete llegó roto y la prenda con una mancha.,Negativo,Envío
+72,2026-05-22,Martín D.,Vestido casual,5,"La calidad de la tela es excelente, mucho mejor de lo que pensé por el precio.",Positivo,"Calidad, Precio"
+73,2026-05-24,Florencia O.,Campera de jean,1,"Llegó el pedido incompleto, faltaba una prenda y todavía estoy esperando el reembolso.",Negativo,"Envío, Atención al cliente"
+74,2026-05-27,Juan P.,Campera de jean,5,"El envío fue rapidísimo y llegó todo perfecto, sin ningún daño.",Positivo,Envío
+75,2026-05-29,Ezequiel V.,Buzo canguro,1,"Llegó el pedido incompleto, faltaba una prenda y todavía estoy esperando el reembolso.",Negativo,"Envío, Atención al cliente"
+76,2026-06-03,Franco C.,Vestido casual,5,"El envío fue rapidísimo y llegó todo perfecto, sin ningún daño.",Positivo,Envío
+77,2026-06-04,Juan P.,Campera de jean,4,"Buena relación precio-calidad, no es lo más barato pero vale la pena.",Positivo,"Calidad, Precio"
+78,2026-06-07,Josefina L.,Vestido casual,2,Pedí cambiar el talle y nunca me dieron una solución clara.,Negativo,Talles
+79,2026-06-09,Carlos R.,Buzo canguro,2,El paquete llegó roto y la prenda con una mancha.,Negativo,Envío
+80,2026-06-10,Josefina L.,Vestido casual,3,"Es lo que esperaba por el precio, ni más ni menos.",Neutro,Precio
+81,2026-06-13,Lucía F.,Jean chupín,4,"Llegó mucho antes de lo esperado, en 3 días ya lo tenía en mi casa.",Neutro,Envío
+82,2026-06-14,Martín D.,Campera de jean,3,"Está bien, cumple, nada del otro mundo.",Neutro,
+83,2026-06-17,Sofía M.,Vestido de fiesta,2,"A la segunda lavada ya se empezó a destejer, mala calidad.",Negativo,Calidad
+84,2026-06-18,Nicolás R.,Remera estampada,3,"El talle quedó normal, ni ajustado ni grande.",Neutro,Talles
+85,2026-06-20,Martín D.,Campera inflable,1,Escribí varias veces por WhatsApp y tardaron días en contestar.,Negativo,"Envío, Atención al cliente"
+86,2026-06-21,Ezequiel V.,Campera de jean,1,"Pedí talle M y llegó como un talle S, tuve que devolverlo.",Neutro,"Talles, Envío"
+87,2026-06-23,Ezequiel V.,Buzo canguro,3,Pedí cambiar el talle y nunca me dieron una solución clara.,Negativo,Talles
+88,2026-06-23,Valentina S.,Jean chupín,4,"Ya lavé la campera varias veces y no se destiñó ni se deformó, muy buena calidad.",Neutro,Calidad
+89,2026-06-28,Juan P.,Zapatillas urbanas,5,"El talle me quedó perfecto, tal cual la guía de talles de la web.",Positivo,Talles
+90,2026-06-30,Valentina S.,Zapatillas urbanas,5,"El envío fue rapidísimo y llegó todo perfecto, sin ningún daño.",Positivo,Envío
+91,2026-07-03,Camila T.,Zapatillas urbanas,4,"Me ayudaron a elegir el talle correcto por WhatsApp, muy buena onda.",Positivo,"Talles, Atención al cliente"
+92,2026-07-03,Diego L.,Campera de jean,2,"El envío tardó casi 3 semanas, mucho más de lo prometido.",Negativo,Envío
+93,2026-07-05,Florencia O.,Buzo canguro,5,"La calidad de la tela es excelente, mucho mejor de lo que pensé por el precio.",Positivo,"Calidad, Precio"
+94,2026-07-06,Lucía F.,Zapatillas urbanas,5,"Me ayudaron a elegir el talle correcto por WhatsApp, muy buena onda.",Positivo,"Talles, Atención al cliente"
+95,2026-07-06,Santiago S.,Campera inflable,5,"Buena relación precio-calidad, no es lo más barato pero vale la pena.",Positivo,"Calidad, Precio"
+96,2026-07-09,Valentina S.,Zapatillas urbanas,4,"Ya lavé la campera varias veces y no se destiñó ni se deformó, muy buena calidad.",Neutro,Calidad
+97,2026-07-10,Martín D.,Campera de jean,1,"Muy decepcionada con la compra, no la recomiendo.",Neutro,
+98,2026-07-10,Carlos R.,Campera inflable,5,Compré 2 remeras en talles distintos y ambas calzaron justo como esperaba.,Positivo,Talles
+99,2026-07-12,Rocío M.,Buzo canguro,5,"Repetí compra, siempre quedo conforme con todo.",Positivo,
+100,2026-07-13,Rocío M.,Campera inflable,2,"El talle me quedó chico, la guía de talles no es real.",Negativo,Talles
+101,2026-07-18,Ignacio P.,Vestido casual,3,"El envío llegó en el tiempo estimado, todo correcto.",Positivo,Envío
+102,2026-07-18,Ignacio P.,Zapatillas urbanas,2,Me pareció carísimo para la calidad que tiene la prenda.,Negativo,"Calidad, Precio"
+103,2026-07-19,Rocío M.,Vestido de fiesta,5,"Llegó mucho antes de lo esperado, en 3 días ya lo tenía en mi casa.",Neutro,Envío
+104,2026-07-21,Lucía F.,Jean chupín,1,El paquete llegó roto y la prenda con una mancha.,Negativo,Envío
+105,2026-07-22,Ezequiel V.,Jean chupín,1,"Los talles no son consistentes, en otra compra el mismo talle me quedó distinto.",Neutro,Talles
+106,2026-07-28,Josefina L.,Campera de jean,5,"Hermoso el vestido, superó mis expectativas, llegó justo para el evento.",Positivo,Envío
+107,2026-07-29,Antonella G.,Jean chupín,5,"La atención por Instagram fue excelente, me respondieron todas las dudas al toque.",Positivo,Atención al cliente
+108,2026-07-31,Milagros A.,Remera estampada,3,"Pedí talle M y llegó como un talle S, tuve que devolverlo.",Neutro,"Talles, Envío"
+109,2026-07-31,Valentina S.,Remera estampada,5,"Me ayudaron a elegir el talle correcto por WhatsApp, muy buena onda.",Positivo,"Talles, Atención al cliente"
+110,2026-08-03,Sofía M.,Zapatillas urbanas,5,"La atención por Instagram fue excelente, me respondieron todas las dudas al toque.",Positivo,Atención al cliente
+111,2026-08-07,Camila T.,Zapatillas urbanas,1,"El talle me quedó chico, la guía de talles no es real.",Negativo,Talles

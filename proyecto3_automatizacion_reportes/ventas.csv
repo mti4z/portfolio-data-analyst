@@ -1,0 +1,1696 @@
+ID Venta,Fecha,Producto,Categoría,Cantidad,Precio Unitario,Total,Cliente,Canal,Método de Pago,Año,Mes Num,Mes
+1000,2025-08-01,Campera de jean,Camperas,1,35000,35000,Consumidor Final,Instagram,Mercado Pago,2025,8,Ago 2025
+1001,2025-08-01,Remera estampada,Remeras,1,10000,10000,Consumidor Final,Local,Mercado Pago,2025,8,Ago 2025
+1002,2025-08-01,Remera básica,Remeras,1,8600,8600,Tomás Molina,Local,Mercado Pago,2025,8,Ago 2025
+1003,2025-08-02,Campera de jean,Camperas,2,34200,68400,Tomás Molina,Local,Tarjeta débito,2025,8,Ago 2025
+1004,2025-08-02,Jean chupín,Pantalones,3,24700,74100,Consumidor Final,Local,Tarjeta crédito,2025,8,Ago 2025
+1005,2025-08-02,Vestido de fiesta,Vestidos,1,31700,31700,Carlos Rodríguez,WhatsApp,Transferencia,2025,8,Ago 2025
+1006,2025-08-02,Remera estampada,Remeras,1,11300,11300,Federico Álvarez,Instagram,Efectivo,2025,8,Ago 2025
+1007,2025-08-02,Remera básica,Remeras,1,8600,8600,Martín Díaz,WhatsApp,Transferencia,2025,8,Ago 2025
+1008,2025-08-02,Campera de jean,Camperas,1,39000,39000,Federico Álvarez,Local,Tarjeta crédito,2025,8,Ago 2025
+1009,2025-08-03,Remera estampada,Remeras,1,10200,10200,Diego López,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1010,2025-08-03,Mochila,Accesorios,1,27500,27500,Juan Pérez,Local,Efectivo,2025,8,Ago 2025
+1011,2025-08-03,Gorra,Accesorios,1,7100,7100,Antonella Gómez,WhatsApp,Tarjeta crédito,2025,8,Ago 2025
+1012,2025-08-03,Jean chupín,Pantalones,1,24900,24900,Florencia Ortiz,Local,Tarjeta débito,2025,8,Ago 2025
+1013,2025-08-03,Jean chupín,Pantalones,2,25500,51000,Tomás Molina,WhatsApp,Transferencia,2025,8,Ago 2025
+1014,2025-08-03,Campera inflable,Camperas,1,47200,47200,Lucía Fernández,Instagram,Efectivo,2025,8,Ago 2025
+1015,2025-08-04,Jean clásico,Pantalones,1,24500,24500,Lucía Fernández,Local,Mercado Pago,2025,8,Ago 2025
+1016,2025-08-05,Vestido casual,Vestidos,2,19800,39600,Bruno Herrera,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1017,2025-08-05,Remera estampada,Remeras,1,10200,10200,Consumidor Final,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1018,2025-08-05,Vestido casual,Vestidos,2,21500,43000,Consumidor Final,Instagram,Mercado Pago,2025,8,Ago 2025
+1019,2025-08-05,Vestido de fiesta,Vestidos,1,33500,33500,Micaela Rojas,WhatsApp,Mercado Pago,2025,8,Ago 2025
+1020,2025-08-05,Campera inflable,Camperas,1,41300,41300,Nicolás Romero,Local,Tarjeta débito,2025,8,Ago 2025
+1021,2025-08-06,Mochila,Accesorios,1,25500,25500,Lucía Fernández,WhatsApp,Mercado Pago,2025,8,Ago 2025
+1022,2025-08-06,Gorra,Accesorios,1,7500,7500,Diego López,Local,Mercado Pago,2025,8,Ago 2025
+1023,2025-08-06,Buzo canguro,Buzos,3,20300,60900,Valentina Sánchez,Instagram,Transferencia,2025,8,Ago 2025
+1024,2025-08-07,Buzo oversize,Buzos,2,20300,40600,Lucía Fernández,Local,Mercado Pago,2025,8,Ago 2025
+1025,2025-08-07,Vestido casual,Vestidos,1,20500,20500,Consumidor Final,Instagram,Tarjeta débito,2025,8,Ago 2025
+1026,2025-08-07,Remera estampada,Remeras,2,11300,22600,Consumidor Final,Local,Transferencia,2025,8,Ago 2025
+1027,2025-08-07,Jean chupín,Pantalones,1,26200,26200,Antonella Gómez,Instagram,Transferencia,2025,8,Ago 2025
+1028,2025-08-07,Gorra,Accesorios,1,6900,6900,Federico Álvarez,Local,Transferencia,2025,8,Ago 2025
+1029,2025-08-07,Cinturón cuero,Accesorios,2,12500,25000,Carlos Rodríguez,Local,Tarjeta crédito,2025,8,Ago 2025
+1030,2025-08-08,Gorra,Accesorios,2,7000,14000,Florencia Ortiz,Local,Tarjeta débito,2025,8,Ago 2025
+1031,2025-08-08,Campera de jean,Camperas,1,39200,39200,Consumidor Final,WhatsApp,Mercado Pago,2025,8,Ago 2025
+1032,2025-08-08,Remera estampada,Remeras,1,11500,11500,Lucía Fernández,WhatsApp,Tarjeta débito,2025,8,Ago 2025
+1033,2025-08-09,Jean chupín,Pantalones,2,26900,53800,María González,WhatsApp,Tarjeta crédito,2025,8,Ago 2025
+1034,2025-08-09,Mochila,Accesorios,2,27100,54200,Bruno Herrera,Instagram,Transferencia,2025,8,Ago 2025
+1035,2025-08-09,Jean clásico,Pantalones,1,22400,22400,Consumidor Final,Instagram,Efectivo,2025,8,Ago 2025
+1036,2025-08-09,Ojotas,Calzado,1,8200,8200,Micaela Rojas,Local,Mercado Pago,2025,8,Ago 2025
+1037,2025-08-09,Remera estampada,Remeras,2,10000,20000,Consumidor Final,WhatsApp,Transferencia,2025,8,Ago 2025
+1038,2025-08-09,Remera estampada,Remeras,2,10800,21600,Juan Pérez,Instagram,Transferencia,2025,8,Ago 2025
+1039,2025-08-09,Zapatillas urbanas,Calzado,1,41100,41100,Valentina Sánchez,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1040,2025-08-10,Jean chupín,Pantalones,1,23900,23900,Florencia Ortiz,Local,Efectivo,2025,8,Ago 2025
+1041,2025-08-10,Remera básica,Remeras,1,8900,8900,Lucía Fernández,Instagram,Mercado Pago,2025,8,Ago 2025
+1042,2025-08-10,Campera de jean,Camperas,1,36200,36200,Consumidor Final,Local,Tarjeta crédito,2025,8,Ago 2025
+1043,2025-08-10,Jean clásico,Pantalones,1,23600,23600,Micaela Rojas,Local,Mercado Pago,2025,8,Ago 2025
+1044,2025-08-10,Campera de jean,Camperas,2,34800,69600,Camila Torres,Local,Efectivo,2025,8,Ago 2025
+1045,2025-08-10,Ojotas,Calzado,1,8500,8500,Agustina Ruiz,Local,Tarjeta crédito,2025,8,Ago 2025
+1046,2025-08-10,Vestido casual,Vestidos,1,22800,22800,Lucía Fernández,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1047,2025-08-10,Remera básica,Remeras,1,8600,8600,Camila Torres,Local,Transferencia,2025,8,Ago 2025
+1048,2025-08-11,Remera básica,Remeras,1,8900,8900,Sofía Martínez,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1049,2025-08-11,Vestido de fiesta,Vestidos,1,33800,33800,Consumidor Final,Local,Efectivo,2025,8,Ago 2025
+1050,2025-08-12,Mochila,Accesorios,1,28100,28100,Federico Álvarez,Instagram,Transferencia,2025,8,Ago 2025
+1051,2025-08-12,Vestido de fiesta,Vestidos,2,36400,72800,Diego López,WhatsApp,Tarjeta débito,2025,8,Ago 2025
+1052,2025-08-12,Mochila,Accesorios,1,26000,26000,Tomás Molina,WhatsApp,Tarjeta débito,2025,8,Ago 2025
+1053,2025-08-13,Remera estampada,Remeras,1,10000,10000,Valentina Sánchez,WhatsApp,Transferencia,2025,8,Ago 2025
+1054,2025-08-13,Campera inflable,Camperas,1,45900,45900,María González,Instagram,Transferencia,2025,8,Ago 2025
+1055,2025-08-13,Campera inflable,Camperas,1,41000,41000,Federico Álvarez,Instagram,Transferencia,2025,8,Ago 2025
+1056,2025-08-14,Zapatillas urbanas,Calzado,3,41200,123600,Carlos Rodríguez,WhatsApp,Tarjeta crédito,2025,8,Ago 2025
+1057,2025-08-14,Jean clásico,Pantalones,1,25100,25100,Consumidor Final,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1058,2025-08-14,Ojotas,Calzado,2,8700,17400,Carlos Rodríguez,Local,Mercado Pago,2025,8,Ago 2025
+1059,2025-08-14,Jean chupín,Pantalones,1,26200,26200,Consumidor Final,WhatsApp,Mercado Pago,2025,8,Ago 2025
+1060,2025-08-14,Zapatillas urbanas,Calzado,2,42500,85000,Federico Álvarez,Local,Tarjeta crédito,2025,8,Ago 2025
+1061,2025-08-14,Vestido de fiesta,Vestidos,1,36000,36000,Nicolás Romero,Instagram,Transferencia,2025,8,Ago 2025
+1062,2025-08-15,Vestido casual,Vestidos,1,21200,21200,Diego López,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1063,2025-08-15,Buzo canguro,Buzos,1,17600,17600,Tomás Molina,Instagram,Mercado Pago,2025,8,Ago 2025
+1064,2025-08-16,Zapatillas urbanas,Calzado,1,40600,40600,Micaela Rojas,Instagram,Tarjeta débito,2025,8,Ago 2025
+1065,2025-08-16,Zapatillas urbanas,Calzado,1,41000,41000,Agustina Ruiz,Local,Tarjeta débito,2025,8,Ago 2025
+1066,2025-08-16,Zapatillas urbanas,Calzado,1,42900,42900,Consumidor Final,Local,Transferencia,2025,8,Ago 2025
+1067,2025-08-16,Vestido de fiesta,Vestidos,2,31900,63800,Antonella Gómez,Local,Transferencia,2025,8,Ago 2025
+1068,2025-08-16,Buzo oversize,Buzos,1,19400,19400,Carlos Rodríguez,Instagram,Tarjeta débito,2025,8,Ago 2025
+1069,2025-08-16,Jean clásico,Pantalones,2,24100,48200,Bruno Herrera,Local,Efectivo,2025,8,Ago 2025
+1070,2025-08-16,Buzo oversize,Buzos,1,20400,20400,Bruno Herrera,Instagram,Transferencia,2025,8,Ago 2025
+1071,2025-08-16,Vestido de fiesta,Vestidos,2,36200,72400,Bruno Herrera,Local,Tarjeta débito,2025,8,Ago 2025
+1072,2025-08-16,Ojotas,Calzado,2,8700,17400,Camila Torres,Instagram,Mercado Pago,2025,8,Ago 2025
+1073,2025-08-17,Buzo oversize,Buzos,1,19800,19800,Agustina Ruiz,WhatsApp,Efectivo,2025,8,Ago 2025
+1074,2025-08-17,Jean clásico,Pantalones,1,23000,23000,Valentina Sánchez,Local,Transferencia,2025,8,Ago 2025
+1075,2025-08-17,Campera inflable,Camperas,1,43300,43300,Tomás Molina,Local,Mercado Pago,2025,8,Ago 2025
+1076,2025-08-17,Ojotas,Calzado,1,9300,9300,Franco Castro,Local,Tarjeta crédito,2025,8,Ago 2025
+1077,2025-08-17,Campera de jean,Camperas,2,39100,78200,Tomás Molina,Instagram,Mercado Pago,2025,8,Ago 2025
+1078,2025-08-18,Gorra,Accesorios,1,7000,7000,Tomás Molina,Instagram,Transferencia,2025,8,Ago 2025
+1079,2025-08-18,Campera inflable,Camperas,1,45900,45900,Florencia Ortiz,WhatsApp,Mercado Pago,2025,8,Ago 2025
+1080,2025-08-18,Vestido casual,Vestidos,1,21100,21100,María González,Local,Transferencia,2025,8,Ago 2025
+1081,2025-08-18,Jean clásico,Pantalones,2,22300,44600,Agustina Ruiz,Local,Tarjeta crédito,2025,8,Ago 2025
+1082,2025-08-19,Campera de jean,Camperas,2,38900,77800,Lucía Fernández,Instagram,Mercado Pago,2025,8,Ago 2025
+1083,2025-08-19,Remera básica,Remeras,3,8100,24300,Juan Pérez,Instagram,Tarjeta débito,2025,8,Ago 2025
+1084,2025-08-20,Jean chupín,Pantalones,2,25800,51600,Franco Castro,Instagram,Mercado Pago,2025,8,Ago 2025
+1085,2025-08-20,Jean chupín,Pantalones,1,24400,24400,Santiago Silva,Instagram,Efectivo,2025,8,Ago 2025
+1086,2025-08-20,Gorra,Accesorios,2,7800,15600,Consumidor Final,Local,Tarjeta crédito,2025,8,Ago 2025
+1087,2025-08-20,Vestido de fiesta,Vestidos,1,36500,36500,Valentina Sánchez,Local,Tarjeta débito,2025,8,Ago 2025
+1088,2025-08-20,Remera estampada,Remeras,1,10400,10400,Carlos Rodríguez,Instagram,Mercado Pago,2025,8,Ago 2025
+1089,2025-08-20,Gorra,Accesorios,1,7300,7300,Lucía Fernández,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1090,2025-08-21,Buzo oversize,Buzos,1,21900,21900,Florencia Ortiz,Instagram,Transferencia,2025,8,Ago 2025
+1091,2025-08-21,Jean clásico,Pantalones,2,25100,50200,Bruno Herrera,Instagram,Transferencia,2025,8,Ago 2025
+1092,2025-08-21,Buzo canguro,Buzos,2,19300,38600,Martín Díaz,WhatsApp,Efectivo,2025,8,Ago 2025
+1093,2025-08-21,Campera de jean,Camperas,2,35600,71200,Santiago Silva,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1094,2025-08-21,Remera básica,Remeras,1,8100,8100,Federico Álvarez,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1095,2025-08-22,Campera de jean,Camperas,2,38200,76400,María González,Instagram,Tarjeta débito,2025,8,Ago 2025
+1096,2025-08-22,Remera estampada,Remeras,1,10600,10600,Martín Díaz,Instagram,Transferencia,2025,8,Ago 2025
+1097,2025-08-22,Buzo oversize,Buzos,2,19200,38400,Martín Díaz,Local,Mercado Pago,2025,8,Ago 2025
+1098,2025-08-22,Campera inflable,Camperas,1,44100,44100,Bruno Herrera,Local,Transferencia,2025,8,Ago 2025
+1099,2025-08-23,Remera estampada,Remeras,2,10400,20800,Diego López,Local,Transferencia,2025,8,Ago 2025
+1100,2025-08-23,Campera de jean,Camperas,2,39800,79600,Nicolás Romero,WhatsApp,Tarjeta débito,2025,8,Ago 2025
+1101,2025-08-23,Campera de jean,Camperas,1,35200,35200,Consumidor Final,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1102,2025-08-23,Remera básica,Remeras,3,8400,25200,Sofía Martínez,Instagram,Transferencia,2025,8,Ago 2025
+1103,2025-08-23,Remera estampada,Remeras,2,10800,21600,Florencia Ortiz,Local,Efectivo,2025,8,Ago 2025
+1104,2025-08-23,Campera de jean,Camperas,2,36900,73800,Julieta Suárez,Instagram,Mercado Pago,2025,8,Ago 2025
+1105,2025-08-24,Zapatillas urbanas,Calzado,1,38800,38800,Nicolás Romero,Local,Tarjeta débito,2025,8,Ago 2025
+1106,2025-08-24,Remera estampada,Remeras,1,10600,10600,Santiago Silva,Local,Mercado Pago,2025,8,Ago 2025
+1107,2025-08-24,Buzo canguro,Buzos,1,18800,18800,Tomás Molina,Local,Mercado Pago,2025,8,Ago 2025
+1108,2025-08-24,Remera básica,Remeras,1,8600,8600,Valentina Sánchez,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1109,2025-08-24,Zapatillas urbanas,Calzado,1,39300,39300,Diego López,Local,Transferencia,2025,8,Ago 2025
+1110,2025-08-24,Ojotas,Calzado,1,8500,8500,Nicolás Romero,Instagram,Transferencia,2025,8,Ago 2025
+1111,2025-08-24,Remera estampada,Remeras,1,11400,11400,Antonella Gómez,Instagram,Tarjeta débito,2025,8,Ago 2025
+1112,2025-08-24,Buzo canguro,Buzos,1,18200,18200,Consumidor Final,Local,Tarjeta débito,2025,8,Ago 2025
+1113,2025-08-25,Campera de jean,Camperas,1,38900,38900,Florencia Ortiz,Local,Tarjeta crédito,2025,8,Ago 2025
+1114,2025-08-25,Ojotas,Calzado,1,8500,8500,Florencia Ortiz,Local,Efectivo,2025,8,Ago 2025
+1115,2025-08-25,Mochila,Accesorios,1,26600,26600,Lucía Fernández,Local,Mercado Pago,2025,8,Ago 2025
+1116,2025-08-25,Vestido de fiesta,Vestidos,3,36700,110100,Camila Torres,Instagram,Tarjeta débito,2025,8,Ago 2025
+1117,2025-08-26,Buzo oversize,Buzos,1,20300,20300,Antonella Gómez,Local,Transferencia,2025,8,Ago 2025
+1118,2025-08-26,Remera estampada,Remeras,1,10600,10600,Carlos Rodríguez,WhatsApp,Tarjeta crédito,2025,8,Ago 2025
+1119,2025-08-26,Buzo canguro,Buzos,1,18400,18400,Bruno Herrera,Local,Efectivo,2025,8,Ago 2025
+1120,2025-08-26,Campera inflable,Camperas,1,41300,41300,Micaela Rojas,WhatsApp,Efectivo,2025,8,Ago 2025
+1121,2025-08-27,Buzo canguro,Buzos,1,19100,19100,Franco Castro,Instagram,Efectivo,2025,8,Ago 2025
+1122,2025-08-27,Jean chupín,Pantalones,1,23900,23900,Franco Castro,Local,Mercado Pago,2025,8,Ago 2025
+1123,2025-08-28,Gorra,Accesorios,1,6900,6900,Bruno Herrera,Local,Tarjeta débito,2025,8,Ago 2025
+1124,2025-08-28,Cinturón cuero,Accesorios,2,12100,24200,Consumidor Final,WhatsApp,Transferencia,2025,8,Ago 2025
+1125,2025-08-29,Ojotas,Calzado,1,9200,9200,Martín Díaz,Instagram,Tarjeta débito,2025,8,Ago 2025
+1126,2025-08-29,Buzo canguro,Buzos,1,19300,19300,Sofía Martínez,WhatsApp,Tarjeta crédito,2025,8,Ago 2025
+1127,2025-08-29,Gorra,Accesorios,2,7200,14400,Micaela Rojas,Local,Efectivo,2025,8,Ago 2025
+1128,2025-08-29,Campera de jean,Camperas,2,39000,78000,Franco Castro,WhatsApp,Transferencia,2025,8,Ago 2025
+1129,2025-08-29,Vestido casual,Vestidos,1,20900,20900,Julieta Suárez,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1130,2025-08-30,Cinturón cuero,Accesorios,1,12600,12600,Martín Díaz,WhatsApp,Transferencia,2025,8,Ago 2025
+1131,2025-08-30,Remera básica,Remeras,1,8300,8300,Julieta Suárez,Local,Tarjeta débito,2025,8,Ago 2025
+1132,2025-08-30,Buzo oversize,Buzos,3,19300,57900,Agustina Ruiz,WhatsApp,Transferencia,2025,8,Ago 2025
+1133,2025-08-30,Remera estampada,Remeras,1,10700,10700,Tomás Molina,WhatsApp,Tarjeta débito,2025,8,Ago 2025
+1134,2025-08-30,Remera estampada,Remeras,1,11500,11500,Julieta Suárez,Instagram,Tarjeta crédito,2025,8,Ago 2025
+1135,2025-08-30,Cinturón cuero,Accesorios,1,12300,12300,Franco Castro,WhatsApp,Efectivo,2025,8,Ago 2025
+1136,2025-08-31,Zapatillas urbanas,Calzado,2,44100,88200,Tomás Molina,WhatsApp,Efectivo,2025,8,Ago 2025
+1137,2025-08-31,Buzo oversize,Buzos,1,19800,19800,Consumidor Final,Local,Efectivo,2025,8,Ago 2025
+1138,2025-08-31,Campera de jean,Camperas,1,36700,36700,Tomás Molina,Instagram,Tarjeta débito,2025,8,Ago 2025
+1139,2025-08-31,Jean clásico,Pantalones,1,23800,23800,Martín Díaz,Instagram,Mercado Pago,2025,8,Ago 2025
+1140,2025-08-31,Jean clásico,Pantalones,1,23900,23900,María González,WhatsApp,Transferencia,2025,8,Ago 2025
+1141,2025-08-31,Mochila,Accesorios,1,27500,27500,Consumidor Final,WhatsApp,Mercado Pago,2025,8,Ago 2025
+1142,2025-09-01,Campera de jean,Camperas,1,36600,36600,Nicolás Romero,Local,Transferencia,2025,9,Sep 2025
+1143,2025-09-01,Cinturón cuero,Accesorios,1,11700,11700,Antonella Gómez,Local,Tarjeta crédito,2025,9,Sep 2025
+1144,2025-09-01,Remera básica,Remeras,3,8500,25500,Antonella Gómez,WhatsApp,Efectivo,2025,9,Sep 2025
+1145,2025-09-02,Cinturón cuero,Accesorios,2,11800,23600,Santiago Silva,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1146,2025-09-02,Zapatillas urbanas,Calzado,1,39400,39400,Sofía Martínez,Instagram,Efectivo,2025,9,Sep 2025
+1147,2025-09-02,Campera de jean,Camperas,2,34400,68800,Sofía Martínez,Local,Tarjeta crédito,2025,9,Sep 2025
+1148,2025-09-02,Campera inflable,Camperas,2,41700,83400,Consumidor Final,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1149,2025-09-02,Vestido casual,Vestidos,1,20700,20700,Franco Castro,WhatsApp,Tarjeta crédito,2025,9,Sep 2025
+1150,2025-09-02,Ojotas,Calzado,2,9200,18400,Lucía Fernández,Local,Tarjeta débito,2025,9,Sep 2025
+1151,2025-09-03,Cinturón cuero,Accesorios,1,12500,12500,Bruno Herrera,Local,Transferencia,2025,9,Sep 2025
+1152,2025-09-03,Remera básica,Remeras,1,7800,7800,Camila Torres,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1153,2025-09-04,Remera básica,Remeras,1,8900,8900,Santiago Silva,Local,Efectivo,2025,9,Sep 2025
+1154,2025-09-04,Zapatillas urbanas,Calzado,2,43500,87000,Tomás Molina,Local,Efectivo,2025,9,Sep 2025
+1155,2025-09-04,Remera básica,Remeras,1,8300,8300,Consumidor Final,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1156,2025-09-04,Buzo canguro,Buzos,1,19500,19500,Bruno Herrera,Local,Tarjeta débito,2025,9,Sep 2025
+1157,2025-09-04,Mochila,Accesorios,1,25600,25600,Tomás Molina,WhatsApp,Tarjeta crédito,2025,9,Sep 2025
+1158,2025-09-05,Remera básica,Remeras,1,7900,7900,Martín Díaz,WhatsApp,Efectivo,2025,9,Sep 2025
+1159,2025-09-05,Zapatillas urbanas,Calzado,1,43500,43500,Juan Pérez,Local,Tarjeta débito,2025,9,Sep 2025
+1160,2025-09-05,Remera estampada,Remeras,2,11300,22600,Consumidor Final,Local,Mercado Pago,2025,9,Sep 2025
+1161,2025-09-05,Remera básica,Remeras,1,8100,8100,Antonella Gómez,Local,Mercado Pago,2025,9,Sep 2025
+1162,2025-09-06,Cinturón cuero,Accesorios,1,12700,12700,Santiago Silva,Local,Tarjeta débito,2025,9,Sep 2025
+1163,2025-09-06,Jean clásico,Pantalones,1,24500,24500,Consumidor Final,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1164,2025-09-06,Remera básica,Remeras,1,8700,8700,María González,Local,Efectivo,2025,9,Sep 2025
+1165,2025-09-06,Jean clásico,Pantalones,2,23500,47000,Franco Castro,Local,Tarjeta crédito,2025,9,Sep 2025
+1166,2025-09-06,Vestido casual,Vestidos,1,21300,21300,Santiago Silva,Local,Mercado Pago,2025,9,Sep 2025
+1167,2025-09-06,Campera de jean,Camperas,1,39700,39700,Consumidor Final,Instagram,Transferencia,2025,9,Sep 2025
+1168,2025-09-06,Buzo canguro,Buzos,1,19000,19000,Lucía Fernández,WhatsApp,Tarjeta crédito,2025,9,Sep 2025
+1169,2025-09-07,Vestido de fiesta,Vestidos,1,32200,32200,Antonella Gómez,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1170,2025-09-07,Buzo canguro,Buzos,3,19100,57300,Santiago Silva,Local,Efectivo,2025,9,Sep 2025
+1171,2025-09-07,Cinturón cuero,Accesorios,1,12900,12900,Valentina Sánchez,Local,Tarjeta débito,2025,9,Sep 2025
+1172,2025-09-07,Buzo canguro,Buzos,1,18900,18900,Carlos Rodríguez,Local,Tarjeta crédito,2025,9,Sep 2025
+1173,2025-09-07,Zapatillas urbanas,Calzado,1,43800,43800,Franco Castro,Local,Efectivo,2025,9,Sep 2025
+1174,2025-09-07,Remera estampada,Remeras,1,11100,11100,Sofía Martínez,Instagram,Mercado Pago,2025,9,Sep 2025
+1175,2025-09-07,Vestido casual,Vestidos,1,22000,22000,Tomás Molina,WhatsApp,Efectivo,2025,9,Sep 2025
+1176,2025-09-07,Campera de jean,Camperas,1,36200,36200,Valentina Sánchez,Local,Transferencia,2025,9,Sep 2025
+1177,2025-09-08,Cinturón cuero,Accesorios,1,11500,11500,Martín Díaz,WhatsApp,Mercado Pago,2025,9,Sep 2025
+1178,2025-09-08,Gorra,Accesorios,2,7400,14800,María González,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1179,2025-09-08,Remera básica,Remeras,1,8500,8500,Agustina Ruiz,Local,Tarjeta débito,2025,9,Sep 2025
+1180,2025-09-08,Cinturón cuero,Accesorios,1,12500,12500,Consumidor Final,Instagram,Efectivo,2025,9,Sep 2025
+1181,2025-09-09,Remera estampada,Remeras,2,10300,20600,Agustina Ruiz,Local,Tarjeta crédito,2025,9,Sep 2025
+1182,2025-09-09,Ojotas,Calzado,1,9400,9400,Juan Pérez,Local,Mercado Pago,2025,9,Sep 2025
+1183,2025-09-09,Remera básica,Remeras,1,8000,8000,Franco Castro,Instagram,Transferencia,2025,9,Sep 2025
+1184,2025-09-09,Campera de jean,Camperas,1,37100,37100,Carlos Rodríguez,Local,Mercado Pago,2025,9,Sep 2025
+1185,2025-09-10,Remera básica,Remeras,1,8900,8900,Consumidor Final,Local,Tarjeta débito,2025,9,Sep 2025
+1186,2025-09-11,Gorra,Accesorios,1,7000,7000,María González,Instagram,Transferencia,2025,9,Sep 2025
+1187,2025-09-11,Jean clásico,Pantalones,1,23500,23500,Bruno Herrera,WhatsApp,Tarjeta crédito,2025,9,Sep 2025
+1188,2025-09-11,Remera estampada,Remeras,1,11100,11100,Florencia Ortiz,WhatsApp,Tarjeta crédito,2025,9,Sep 2025
+1189,2025-09-11,Vestido de fiesta,Vestidos,1,33600,33600,Nicolás Romero,Local,Efectivo,2025,9,Sep 2025
+1190,2025-09-12,Vestido de fiesta,Vestidos,1,35100,35100,Tomás Molina,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1191,2025-09-12,Buzo canguro,Buzos,1,19100,19100,Nicolás Romero,Instagram,Tarjeta débito,2025,9,Sep 2025
+1192,2025-09-12,Campera inflable,Camperas,2,41000,82000,Micaela Rojas,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1193,2025-09-12,Campera inflable,Camperas,2,46000,92000,Martín Díaz,Local,Tarjeta crédito,2025,9,Sep 2025
+1194,2025-09-12,Jean chupín,Pantalones,1,24000,24000,Lucía Fernández,Local,Transferencia,2025,9,Sep 2025
+1195,2025-09-13,Buzo oversize,Buzos,2,21300,42600,Antonella Gómez,Instagram,Mercado Pago,2025,9,Sep 2025
+1196,2025-09-13,Campera inflable,Camperas,2,44700,89400,Lucía Fernández,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1197,2025-09-13,Gorra,Accesorios,1,6800,6800,Nicolás Romero,Instagram,Efectivo,2025,9,Sep 2025
+1198,2025-09-13,Remera básica,Remeras,1,8000,8000,Lucía Fernández,Instagram,Mercado Pago,2025,9,Sep 2025
+1199,2025-09-13,Buzo canguro,Buzos,1,19200,19200,Juan Pérez,Local,Mercado Pago,2025,9,Sep 2025
+1200,2025-09-13,Zapatillas urbanas,Calzado,1,41600,41600,Juan Pérez,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1201,2025-09-13,Ojotas,Calzado,1,9000,9000,Consumidor Final,Instagram,Transferencia,2025,9,Sep 2025
+1202,2025-09-14,Campera inflable,Camperas,1,42400,42400,Agustina Ruiz,Instagram,Efectivo,2025,9,Sep 2025
+1203,2025-09-14,Gorra,Accesorios,1,7100,7100,Bruno Herrera,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1204,2025-09-14,Campera de jean,Camperas,2,37900,75800,Sofía Martínez,Local,Mercado Pago,2025,9,Sep 2025
+1205,2025-09-14,Zapatillas urbanas,Calzado,1,40000,40000,Julieta Suárez,Local,Efectivo,2025,9,Sep 2025
+1206,2025-09-14,Campera de jean,Camperas,1,37900,37900,Sofía Martínez,Instagram,Mercado Pago,2025,9,Sep 2025
+1207,2025-09-15,Remera estampada,Remeras,1,10600,10600,Federico Álvarez,Local,Tarjeta débito,2025,9,Sep 2025
+1208,2025-09-15,Campera inflable,Camperas,2,43800,87600,Sofía Martínez,Local,Tarjeta crédito,2025,9,Sep 2025
+1209,2025-09-15,Cinturón cuero,Accesorios,2,12200,24400,Micaela Rojas,Local,Tarjeta crédito,2025,9,Sep 2025
+1210,2025-09-16,Vestido de fiesta,Vestidos,1,32400,32400,Santiago Silva,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1211,2025-09-16,Ojotas,Calzado,1,8700,8700,Martín Díaz,WhatsApp,Mercado Pago,2025,9,Sep 2025
+1212,2025-09-16,Campera de jean,Camperas,2,38700,77400,Martín Díaz,Local,Transferencia,2025,9,Sep 2025
+1213,2025-09-16,Mochila,Accesorios,2,26700,53400,Florencia Ortiz,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1214,2025-09-16,Gorra,Accesorios,1,7300,7300,Valentina Sánchez,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1215,2025-09-17,Cinturón cuero,Accesorios,1,12500,12500,Bruno Herrera,WhatsApp,Mercado Pago,2025,9,Sep 2025
+1216,2025-09-17,Cinturón cuero,Accesorios,1,11400,11400,Florencia Ortiz,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1217,2025-09-18,Mochila,Accesorios,1,27100,27100,María González,Local,Transferencia,2025,9,Sep 2025
+1218,2025-09-18,Vestido casual,Vestidos,1,21100,21100,Consumidor Final,Local,Tarjeta crédito,2025,9,Sep 2025
+1219,2025-09-18,Mochila,Accesorios,1,28200,28200,Sofía Martínez,Local,Tarjeta crédito,2025,9,Sep 2025
+1220,2025-09-18,Mochila,Accesorios,2,28100,56200,Consumidor Final,Instagram,Transferencia,2025,9,Sep 2025
+1221,2025-09-19,Vestido de fiesta,Vestidos,1,31900,31900,Sofía Martínez,Instagram,Mercado Pago,2025,9,Sep 2025
+1222,2025-09-19,Vestido casual,Vestidos,1,22400,22400,Carlos Rodríguez,Local,Transferencia,2025,9,Sep 2025
+1223,2025-09-19,Zapatillas urbanas,Calzado,2,40700,81400,Consumidor Final,WhatsApp,Mercado Pago,2025,9,Sep 2025
+1224,2025-09-20,Vestido de fiesta,Vestidos,1,32300,32300,Santiago Silva,Local,Mercado Pago,2025,9,Sep 2025
+1225,2025-09-20,Buzo canguro,Buzos,1,19500,19500,Federico Álvarez,Local,Mercado Pago,2025,9,Sep 2025
+1226,2025-09-20,Vestido casual,Vestidos,1,23100,23100,Julieta Suárez,WhatsApp,Efectivo,2025,9,Sep 2025
+1227,2025-09-20,Zapatillas urbanas,Calzado,1,40200,40200,Federico Álvarez,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1228,2025-09-20,Jean chupín,Pantalones,2,25900,51800,Agustina Ruiz,Local,Tarjeta crédito,2025,9,Sep 2025
+1229,2025-09-21,Vestido casual,Vestidos,1,21900,21900,Florencia Ortiz,WhatsApp,Transferencia,2025,9,Sep 2025
+1230,2025-09-21,Zapatillas urbanas,Calzado,1,38600,38600,Florencia Ortiz,Local,Tarjeta débito,2025,9,Sep 2025
+1231,2025-09-21,Remera básica,Remeras,2,8800,17600,Nicolás Romero,Instagram,Mercado Pago,2025,9,Sep 2025
+1232,2025-09-21,Buzo oversize,Buzos,1,21300,21300,Federico Álvarez,WhatsApp,Efectivo,2025,9,Sep 2025
+1233,2025-09-21,Cinturón cuero,Accesorios,1,11800,11800,Tomás Molina,WhatsApp,Transferencia,2025,9,Sep 2025
+1234,2025-09-21,Mochila,Accesorios,3,26600,79800,Franco Castro,Local,Mercado Pago,2025,9,Sep 2025
+1235,2025-09-22,Buzo canguro,Buzos,1,19300,19300,Bruno Herrera,Local,Efectivo,2025,9,Sep 2025
+1236,2025-09-22,Remera estampada,Remeras,1,10400,10400,Tomás Molina,Local,Transferencia,2025,9,Sep 2025
+1237,2025-09-22,Campera inflable,Camperas,1,45400,45400,Santiago Silva,WhatsApp,Tarjeta crédito,2025,9,Sep 2025
+1238,2025-09-22,Zapatillas urbanas,Calzado,3,43800,131400,Consumidor Final,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1239,2025-09-23,Vestido casual,Vestidos,2,22000,44000,Sofía Martínez,WhatsApp,Transferencia,2025,9,Sep 2025
+1240,2025-09-23,Remera básica,Remeras,1,8000,8000,Federico Álvarez,Local,Mercado Pago,2025,9,Sep 2025
+1241,2025-09-23,Remera básica,Remeras,1,8500,8500,Federico Álvarez,Local,Efectivo,2025,9,Sep 2025
+1242,2025-09-23,Vestido de fiesta,Vestidos,1,33400,33400,Camila Torres,Local,Efectivo,2025,9,Sep 2025
+1243,2025-09-24,Vestido casual,Vestidos,1,21700,21700,Camila Torres,Instagram,Tarjeta débito,2025,9,Sep 2025
+1244,2025-09-24,Vestido de fiesta,Vestidos,1,36300,36300,Carlos Rodríguez,Local,Efectivo,2025,9,Sep 2025
+1245,2025-09-24,Buzo oversize,Buzos,1,21100,21100,Agustina Ruiz,Instagram,Efectivo,2025,9,Sep 2025
+1246,2025-09-24,Vestido casual,Vestidos,1,22700,22700,Diego López,Instagram,Mercado Pago,2025,9,Sep 2025
+1247,2025-09-24,Jean chupín,Pantalones,1,24200,24200,Consumidor Final,Instagram,Efectivo,2025,9,Sep 2025
+1248,2025-09-25,Campera inflable,Camperas,1,43000,43000,Bruno Herrera,Local,Efectivo,2025,9,Sep 2025
+1249,2025-09-25,Remera estampada,Remeras,1,11500,11500,Micaela Rojas,Local,Transferencia,2025,9,Sep 2025
+1250,2025-09-25,Cinturón cuero,Accesorios,1,11500,11500,Lucía Fernández,Local,Mercado Pago,2025,9,Sep 2025
+1251,2025-09-25,Campera inflable,Camperas,1,46100,46100,Antonella Gómez,Local,Tarjeta débito,2025,9,Sep 2025
+1252,2025-09-26,Remera básica,Remeras,2,8300,16600,Diego López,Local,Tarjeta débito,2025,9,Sep 2025
+1253,2025-09-27,Campera inflable,Camperas,2,44000,88000,Lucía Fernández,Local,Mercado Pago,2025,9,Sep 2025
+1254,2025-09-27,Campera de jean,Camperas,1,35900,35900,Micaela Rojas,Instagram,Mercado Pago,2025,9,Sep 2025
+1255,2025-09-27,Vestido de fiesta,Vestidos,1,35000,35000,Santiago Silva,Local,Mercado Pago,2025,9,Sep 2025
+1256,2025-09-27,Remera básica,Remeras,2,7700,15400,Consumidor Final,Instagram,Mercado Pago,2025,9,Sep 2025
+1257,2025-09-27,Campera de jean,Camperas,1,38600,38600,María González,Instagram,Mercado Pago,2025,9,Sep 2025
+1258,2025-09-27,Campera de jean,Camperas,1,35900,35900,Julieta Suárez,Local,Efectivo,2025,9,Sep 2025
+1259,2025-09-27,Ojotas,Calzado,1,8700,8700,Valentina Sánchez,Local,Tarjeta débito,2025,9,Sep 2025
+1260,2025-09-27,Campera inflable,Camperas,2,42700,85400,Federico Álvarez,WhatsApp,Tarjeta débito,2025,9,Sep 2025
+1261,2025-09-28,Remera estampada,Remeras,1,10700,10700,Martín Díaz,Local,Efectivo,2025,9,Sep 2025
+1262,2025-09-28,Campera de jean,Camperas,2,39100,78200,Diego López,WhatsApp,Mercado Pago,2025,9,Sep 2025
+1263,2025-09-28,Ojotas,Calzado,1,9100,9100,Micaela Rojas,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1264,2025-09-28,Buzo oversize,Buzos,1,21900,21900,Martín Díaz,Local,Tarjeta crédito,2025,9,Sep 2025
+1265,2025-09-28,Remera básica,Remeras,1,8300,8300,Franco Castro,Local,Efectivo,2025,9,Sep 2025
+1266,2025-09-28,Cinturón cuero,Accesorios,1,11500,11500,Federico Álvarez,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1267,2025-09-28,Remera básica,Remeras,1,8400,8400,Bruno Herrera,Local,Transferencia,2025,9,Sep 2025
+1268,2025-09-29,Vestido casual,Vestidos,1,21600,21600,Santiago Silva,Instagram,Efectivo,2025,9,Sep 2025
+1269,2025-09-29,Jean clásico,Pantalones,3,23000,69000,Agustina Ruiz,Instagram,Tarjeta crédito,2025,9,Sep 2025
+1270,2025-09-30,Vestido casual,Vestidos,1,19900,19900,Consumidor Final,Instagram,Transferencia,2025,9,Sep 2025
+1271,2025-09-30,Vestido casual,Vestidos,1,21800,21800,Agustina Ruiz,WhatsApp,Tarjeta crédito,2025,9,Sep 2025
+1272,2025-09-30,Jean clásico,Pantalones,1,23800,23800,Antonella Gómez,Local,Mercado Pago,2025,9,Sep 2025
+1273,2025-09-30,Vestido casual,Vestidos,1,21700,21700,María González,Local,Efectivo,2025,9,Sep 2025
+1274,2025-10-01,Buzo canguro,Buzos,1,19900,19900,María González,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1275,2025-10-01,Zapatillas urbanas,Calzado,2,42700,85400,Juan Pérez,Instagram,Tarjeta débito,2025,10,Oct 2025
+1276,2025-10-01,Vestido casual,Vestidos,1,21800,21800,Sofía Martínez,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1277,2025-10-02,Remera estampada,Remeras,1,10600,10600,Tomás Molina,Instagram,Transferencia,2025,10,Oct 2025
+1278,2025-10-02,Vestido casual,Vestidos,2,22800,45600,Juan Pérez,Instagram,Mercado Pago,2025,10,Oct 2025
+1279,2025-10-02,Jean chupín,Pantalones,1,27300,27300,Julieta Suárez,Local,Tarjeta débito,2025,10,Oct 2025
+1280,2025-10-02,Buzo oversize,Buzos,2,20000,40000,Camila Torres,Instagram,Tarjeta débito,2025,10,Oct 2025
+1281,2025-10-02,Jean chupín,Pantalones,1,24600,24600,Nicolás Romero,Instagram,Tarjeta débito,2025,10,Oct 2025
+1282,2025-10-02,Ojotas,Calzado,2,8500,17000,Camila Torres,Local,Mercado Pago,2025,10,Oct 2025
+1283,2025-10-02,Zapatillas urbanas,Calzado,1,43400,43400,Federico Álvarez,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1284,2025-10-02,Campera de jean,Camperas,1,39600,39600,Consumidor Final,WhatsApp,Tarjeta crédito,2025,10,Oct 2025
+1285,2025-10-03,Ojotas,Calzado,1,8400,8400,Bruno Herrera,Instagram,Tarjeta débito,2025,10,Oct 2025
+1286,2025-10-03,Remera estampada,Remeras,1,10900,10900,Micaela Rojas,Local,Tarjeta débito,2025,10,Oct 2025
+1287,2025-10-03,Remera básica,Remeras,1,8100,8100,Sofía Martínez,Local,Mercado Pago,2025,10,Oct 2025
+1288,2025-10-03,Mochila,Accesorios,1,27900,27900,Franco Castro,Instagram,Tarjeta débito,2025,10,Oct 2025
+1289,2025-10-03,Gorra,Accesorios,3,7100,21300,Lucía Fernández,Instagram,Tarjeta débito,2025,10,Oct 2025
+1290,2025-10-04,Mochila,Accesorios,1,29100,29100,Diego López,WhatsApp,Efectivo,2025,10,Oct 2025
+1291,2025-10-04,Cinturón cuero,Accesorios,1,12200,12200,Nicolás Romero,WhatsApp,Efectivo,2025,10,Oct 2025
+1292,2025-10-04,Campera de jean,Camperas,1,34800,34800,Nicolás Romero,Instagram,Mercado Pago,2025,10,Oct 2025
+1293,2025-10-04,Vestido casual,Vestidos,1,22900,22900,Florencia Ortiz,Local,Efectivo,2025,10,Oct 2025
+1294,2025-10-04,Campera inflable,Camperas,1,43600,43600,Diego López,Local,Tarjeta crédito,2025,10,Oct 2025
+1295,2025-10-05,Gorra,Accesorios,1,7500,7500,Santiago Silva,WhatsApp,Transferencia,2025,10,Oct 2025
+1296,2025-10-05,Cinturón cuero,Accesorios,1,11900,11900,Carlos Rodríguez,Local,Tarjeta débito,2025,10,Oct 2025
+1297,2025-10-05,Buzo oversize,Buzos,1,19700,19700,Martín Díaz,Local,Tarjeta crédito,2025,10,Oct 2025
+1298,2025-10-05,Campera inflable,Camperas,1,45400,45400,Consumidor Final,Instagram,Tarjeta débito,2025,10,Oct 2025
+1299,2025-10-05,Remera básica,Remeras,1,8200,8200,Micaela Rojas,WhatsApp,Tarjeta crédito,2025,10,Oct 2025
+1300,2025-10-05,Ojotas,Calzado,1,9300,9300,Santiago Silva,Local,Tarjeta débito,2025,10,Oct 2025
+1301,2025-10-05,Buzo oversize,Buzos,1,21300,21300,Tomás Molina,Instagram,Transferencia,2025,10,Oct 2025
+1302,2025-10-06,Cinturón cuero,Accesorios,1,11700,11700,Lucía Fernández,Instagram,Mercado Pago,2025,10,Oct 2025
+1303,2025-10-06,Ojotas,Calzado,1,9300,9300,Consumidor Final,WhatsApp,Mercado Pago,2025,10,Oct 2025
+1304,2025-10-06,Jean chupín,Pantalones,1,24000,24000,Micaela Rojas,Local,Tarjeta débito,2025,10,Oct 2025
+1305,2025-10-06,Ojotas,Calzado,1,8200,8200,Juan Pérez,Instagram,Mercado Pago,2025,10,Oct 2025
+1306,2025-10-07,Buzo canguro,Buzos,1,17700,17700,Nicolás Romero,Instagram,Transferencia,2025,10,Oct 2025
+1307,2025-10-08,Jean chupín,Pantalones,1,23600,23600,Lucía Fernández,Instagram,Efectivo,2025,10,Oct 2025
+1308,2025-10-08,Mochila,Accesorios,2,29300,58600,Nicolás Romero,Local,Tarjeta débito,2025,10,Oct 2025
+1309,2025-10-08,Gorra,Accesorios,1,7600,7600,Federico Álvarez,WhatsApp,Transferencia,2025,10,Oct 2025
+1310,2025-10-08,Buzo oversize,Buzos,2,21800,43600,Bruno Herrera,Local,Tarjeta crédito,2025,10,Oct 2025
+1311,2025-10-09,Remera estampada,Remeras,1,10800,10800,Martín Díaz,WhatsApp,Efectivo,2025,10,Oct 2025
+1312,2025-10-09,Campera de jean,Camperas,1,38300,38300,Julieta Suárez,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1313,2025-10-09,Buzo oversize,Buzos,1,19800,19800,Carlos Rodríguez,Local,Transferencia,2025,10,Oct 2025
+1314,2025-10-09,Vestido de fiesta,Vestidos,2,36100,72200,Consumidor Final,Local,Efectivo,2025,10,Oct 2025
+1315,2025-10-10,Zapatillas urbanas,Calzado,2,38100,76200,Julieta Suárez,Local,Mercado Pago,2025,10,Oct 2025
+1316,2025-10-10,Jean chupín,Pantalones,2,26400,52800,Consumidor Final,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1317,2025-10-10,Cinturón cuero,Accesorios,2,12300,24600,Agustina Ruiz,Local,Tarjeta débito,2025,10,Oct 2025
+1318,2025-10-11,Zapatillas urbanas,Calzado,1,40400,40400,Bruno Herrera,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1319,2025-10-11,Zapatillas urbanas,Calzado,1,41300,41300,Consumidor Final,Local,Transferencia,2025,10,Oct 2025
+1320,2025-10-11,Gorra,Accesorios,1,7500,7500,Nicolás Romero,Local,Mercado Pago,2025,10,Oct 2025
+1321,2025-10-11,Buzo oversize,Buzos,1,19600,19600,Sofía Martínez,WhatsApp,Efectivo,2025,10,Oct 2025
+1322,2025-10-11,Vestido casual,Vestidos,1,21200,21200,Julieta Suárez,Local,Tarjeta débito,2025,10,Oct 2025
+1323,2025-10-11,Campera inflable,Camperas,1,46700,46700,Lucía Fernández,Instagram,Tarjeta débito,2025,10,Oct 2025
+1324,2025-10-11,Remera básica,Remeras,1,8500,8500,Lucía Fernández,Local,Mercado Pago,2025,10,Oct 2025
+1325,2025-10-12,Buzo oversize,Buzos,1,21800,21800,María González,Local,Tarjeta débito,2025,10,Oct 2025
+1326,2025-10-12,Ojotas,Calzado,1,9400,9400,Martín Díaz,Instagram,Tarjeta débito,2025,10,Oct 2025
+1327,2025-10-12,Buzo canguro,Buzos,2,19200,38400,Julieta Suárez,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1328,2025-10-12,Campera de jean,Camperas,1,37100,37100,Carlos Rodríguez,WhatsApp,Transferencia,2025,10,Oct 2025
+1329,2025-10-12,Gorra,Accesorios,2,7800,15600,Tomás Molina,Local,Tarjeta débito,2025,10,Oct 2025
+1330,2025-10-12,Ojotas,Calzado,1,8500,8500,Antonella Gómez,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1331,2025-10-12,Jean clásico,Pantalones,1,22400,22400,Martín Díaz,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1332,2025-10-13,Campera de jean,Camperas,2,37000,74000,Franco Castro,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1333,2025-10-13,Jean clásico,Pantalones,1,23600,23600,Bruno Herrera,WhatsApp,Efectivo,2025,10,Oct 2025
+1334,2025-10-14,Remera estampada,Remeras,2,11000,22000,Tomás Molina,Local,Tarjeta débito,2025,10,Oct 2025
+1335,2025-10-15,Remera estampada,Remeras,2,9900,19800,Federico Álvarez,Local,Mercado Pago,2025,10,Oct 2025
+1336,2025-10-15,Mochila,Accesorios,1,27200,27200,Consumidor Final,Instagram,Efectivo,2025,10,Oct 2025
+1337,2025-10-15,Remera básica,Remeras,1,8000,8000,María González,Instagram,Transferencia,2025,10,Oct 2025
+1338,2025-10-15,Gorra,Accesorios,2,7000,14000,Micaela Rojas,Local,Tarjeta débito,2025,10,Oct 2025
+1339,2025-10-16,Campera inflable,Camperas,1,43200,43200,Julieta Suárez,Instagram,Tarjeta débito,2025,10,Oct 2025
+1340,2025-10-16,Ojotas,Calzado,1,9000,9000,Juan Pérez,Local,Transferencia,2025,10,Oct 2025
+1341,2025-10-16,Buzo canguro,Buzos,1,17700,17700,Consumidor Final,Local,Transferencia,2025,10,Oct 2025
+1342,2025-10-17,Cinturón cuero,Accesorios,1,12700,12700,Carlos Rodríguez,WhatsApp,Efectivo,2025,10,Oct 2025
+1343,2025-10-17,Jean chupín,Pantalones,1,26800,26800,Franco Castro,Local,Efectivo,2025,10,Oct 2025
+1344,2025-10-17,Zapatillas urbanas,Calzado,2,43500,87000,Juan Pérez,Local,Tarjeta crédito,2025,10,Oct 2025
+1345,2025-10-18,Jean clásico,Pantalones,2,24200,48400,Lucía Fernández,Local,Mercado Pago,2025,10,Oct 2025
+1346,2025-10-18,Jean chupín,Pantalones,1,26700,26700,Bruno Herrera,Local,Tarjeta débito,2025,10,Oct 2025
+1347,2025-10-18,Gorra,Accesorios,3,7600,22800,Federico Álvarez,Local,Transferencia,2025,10,Oct 2025
+1348,2025-10-18,Jean chupín,Pantalones,2,24700,49400,Santiago Silva,Local,Tarjeta crédito,2025,10,Oct 2025
+1349,2025-10-18,Remera básica,Remeras,1,8600,8600,Martín Díaz,Local,Transferencia,2025,10,Oct 2025
+1350,2025-10-18,Buzo canguro,Buzos,1,19300,19300,Santiago Silva,Local,Tarjeta débito,2025,10,Oct 2025
+1351,2025-10-18,Ojotas,Calzado,1,8500,8500,Sofía Martínez,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1352,2025-10-18,Campera inflable,Camperas,1,40500,40500,Federico Álvarez,Instagram,Efectivo,2025,10,Oct 2025
+1353,2025-10-18,Jean clásico,Pantalones,1,23200,23200,Micaela Rojas,Local,Efectivo,2025,10,Oct 2025
+1354,2025-10-19,Remera estampada,Remeras,1,10100,10100,Agustina Ruiz,WhatsApp,Efectivo,2025,10,Oct 2025
+1355,2025-10-19,Campera de jean,Camperas,1,38600,38600,Bruno Herrera,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1356,2025-10-19,Vestido de fiesta,Vestidos,1,35100,35100,Camila Torres,Local,Transferencia,2025,10,Oct 2025
+1357,2025-10-19,Jean clásico,Pantalones,1,23200,23200,Franco Castro,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1358,2025-10-19,Campera de jean,Camperas,2,38300,76600,Santiago Silva,Local,Efectivo,2025,10,Oct 2025
+1359,2025-10-19,Jean clásico,Pantalones,1,25000,25000,Santiago Silva,Local,Tarjeta crédito,2025,10,Oct 2025
+1360,2025-10-19,Buzo oversize,Buzos,1,21500,21500,Santiago Silva,Local,Tarjeta crédito,2025,10,Oct 2025
+1361,2025-10-19,Vestido de fiesta,Vestidos,2,32600,65200,Julieta Suárez,WhatsApp,Tarjeta crédito,2025,10,Oct 2025
+1362,2025-10-20,Vestido de fiesta,Vestidos,2,33200,66400,Julieta Suárez,Local,Mercado Pago,2025,10,Oct 2025
+1363,2025-10-20,Jean chupín,Pantalones,1,25500,25500,Bruno Herrera,Local,Transferencia,2025,10,Oct 2025
+1364,2025-10-20,Ojotas,Calzado,1,9200,9200,Lucía Fernández,WhatsApp,Transferencia,2025,10,Oct 2025
+1365,2025-10-20,Zapatillas urbanas,Calzado,1,41800,41800,Sofía Martínez,Instagram,Transferencia,2025,10,Oct 2025
+1366,2025-10-21,Remera estampada,Remeras,1,10900,10900,Bruno Herrera,Instagram,Transferencia,2025,10,Oct 2025
+1367,2025-10-21,Vestido casual,Vestidos,1,23000,23000,Bruno Herrera,Instagram,Efectivo,2025,10,Oct 2025
+1368,2025-10-22,Zapatillas urbanas,Calzado,1,41900,41900,Consumidor Final,WhatsApp,Transferencia,2025,10,Oct 2025
+1369,2025-10-22,Gorra,Accesorios,1,7600,7600,Consumidor Final,Local,Tarjeta débito,2025,10,Oct 2025
+1370,2025-10-22,Vestido casual,Vestidos,2,21600,43200,Martín Díaz,Local,Transferencia,2025,10,Oct 2025
+1371,2025-10-22,Buzo oversize,Buzos,2,20800,41600,Federico Álvarez,WhatsApp,Transferencia,2025,10,Oct 2025
+1372,2025-10-22,Remera estampada,Remeras,1,11400,11400,Consumidor Final,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1373,2025-10-23,Campera inflable,Camperas,1,43600,43600,Franco Castro,Local,Efectivo,2025,10,Oct 2025
+1374,2025-10-23,Buzo oversize,Buzos,2,20300,40600,Consumidor Final,Local,Efectivo,2025,10,Oct 2025
+1375,2025-10-23,Remera básica,Remeras,2,8500,17000,Diego López,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1376,2025-10-23,Vestido casual,Vestidos,1,20300,20300,Florencia Ortiz,Local,Transferencia,2025,10,Oct 2025
+1377,2025-10-23,Zapatillas urbanas,Calzado,1,41800,41800,María González,Instagram,Tarjeta débito,2025,10,Oct 2025
+1378,2025-10-24,Remera básica,Remeras,2,7900,15800,Lucía Fernández,Instagram,Mercado Pago,2025,10,Oct 2025
+1379,2025-10-24,Jean clásico,Pantalones,1,22300,22300,Consumidor Final,Instagram,Transferencia,2025,10,Oct 2025
+1380,2025-10-24,Vestido casual,Vestidos,3,20800,62400,Julieta Suárez,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1381,2025-10-25,Campera inflable,Camperas,2,44700,89400,Nicolás Romero,WhatsApp,Mercado Pago,2025,10,Oct 2025
+1382,2025-10-25,Remera estampada,Remeras,1,10400,10400,Carlos Rodríguez,Local,Tarjeta débito,2025,10,Oct 2025
+1383,2025-10-25,Vestido casual,Vestidos,1,21800,21800,Tomás Molina,Local,Mercado Pago,2025,10,Oct 2025
+1384,2025-10-25,Ojotas,Calzado,2,9400,18800,Diego López,Instagram,Tarjeta débito,2025,10,Oct 2025
+1385,2025-10-25,Jean clásico,Pantalones,1,23200,23200,Consumidor Final,Local,Efectivo,2025,10,Oct 2025
+1386,2025-10-25,Buzo oversize,Buzos,1,21500,21500,Micaela Rojas,Instagram,Transferencia,2025,10,Oct 2025
+1387,2025-10-25,Zapatillas urbanas,Calzado,1,42300,42300,Diego López,Local,Efectivo,2025,10,Oct 2025
+1388,2025-10-25,Gorra,Accesorios,2,7100,14200,Bruno Herrera,Local,Transferencia,2025,10,Oct 2025
+1389,2025-10-26,Buzo oversize,Buzos,1,19300,19300,Consumidor Final,Instagram,Tarjeta crédito,2025,10,Oct 2025
+1390,2025-10-26,Vestido casual,Vestidos,2,19900,39800,Bruno Herrera,Local,Transferencia,2025,10,Oct 2025
+1391,2025-10-26,Remera estampada,Remeras,2,11000,22000,Juan Pérez,Local,Tarjeta crédito,2025,10,Oct 2025
+1392,2025-10-26,Cinturón cuero,Accesorios,2,12100,24200,Martín Díaz,Local,Mercado Pago,2025,10,Oct 2025
+1393,2025-10-26,Ojotas,Calzado,1,9100,9100,Diego López,Instagram,Tarjeta débito,2025,10,Oct 2025
+1394,2025-10-27,Cinturón cuero,Accesorios,1,11400,11400,Camila Torres,Instagram,Tarjeta débito,2025,10,Oct 2025
+1395,2025-10-27,Campera inflable,Camperas,3,42500,127500,Micaela Rojas,WhatsApp,Efectivo,2025,10,Oct 2025
+1396,2025-10-27,Jean clásico,Pantalones,3,24400,73200,Camila Torres,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1397,2025-10-28,Jean clásico,Pantalones,2,24600,49200,Julieta Suárez,Instagram,Mercado Pago,2025,10,Oct 2025
+1398,2025-10-28,Zapatillas urbanas,Calzado,1,40400,40400,Lucía Fernández,Local,Tarjeta crédito,2025,10,Oct 2025
+1399,2025-10-28,Ojotas,Calzado,2,8600,17200,Agustina Ruiz,Instagram,Efectivo,2025,10,Oct 2025
+1400,2025-10-28,Ojotas,Calzado,3,9000,27000,Lucía Fernández,Instagram,Transferencia,2025,10,Oct 2025
+1401,2025-10-29,Jean chupín,Pantalones,3,26600,79800,Agustina Ruiz,WhatsApp,Tarjeta crédito,2025,10,Oct 2025
+1402,2025-10-29,Vestido casual,Vestidos,1,21700,21700,Agustina Ruiz,WhatsApp,Efectivo,2025,10,Oct 2025
+1403,2025-10-29,Remera básica,Remeras,1,8600,8600,Carlos Rodríguez,WhatsApp,Tarjeta débito,2025,10,Oct 2025
+1404,2025-10-30,Buzo canguro,Buzos,1,19600,19600,Consumidor Final,Instagram,Tarjeta débito,2025,10,Oct 2025
+1405,2025-10-30,Cinturón cuero,Accesorios,2,11800,23600,Camila Torres,Local,Tarjeta débito,2025,10,Oct 2025
+1406,2025-10-30,Remera básica,Remeras,1,8000,8000,Martín Díaz,Local,Efectivo,2025,10,Oct 2025
+1407,2025-10-30,Ojotas,Calzado,1,8400,8400,Consumidor Final,Instagram,Mercado Pago,2025,10,Oct 2025
+1408,2025-10-31,Zapatillas urbanas,Calzado,1,37900,37900,Carlos Rodríguez,WhatsApp,Transferencia,2025,10,Oct 2025
+1409,2025-10-31,Ojotas,Calzado,1,8200,8200,Carlos Rodríguez,Local,Tarjeta crédito,2025,10,Oct 2025
+1410,2025-10-31,Mochila,Accesorios,1,26800,26800,Sofía Martínez,Instagram,Tarjeta débito,2025,10,Oct 2025
+1411,2025-10-31,Remera estampada,Remeras,1,9900,9900,Florencia Ortiz,Local,Tarjeta débito,2025,10,Oct 2025
+1412,2025-11-01,Buzo canguro,Buzos,1,18800,18800,Carlos Rodríguez,Local,Efectivo,2025,11,Nov 2025
+1413,2025-11-01,Vestido de fiesta,Vestidos,2,33300,66600,Sofía Martínez,Local,Efectivo,2025,11,Nov 2025
+1414,2025-11-01,Jean chupín,Pantalones,1,25700,25700,María González,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1415,2025-11-01,Jean chupín,Pantalones,1,25400,25400,Nicolás Romero,Instagram,Tarjeta débito,2025,11,Nov 2025
+1416,2025-11-01,Buzo oversize,Buzos,1,19700,19700,Lucía Fernández,Instagram,Efectivo,2025,11,Nov 2025
+1417,2025-11-01,Campera inflable,Camperas,2,41400,82800,Antonella Gómez,Local,Mercado Pago,2025,11,Nov 2025
+1418,2025-11-01,Zapatillas urbanas,Calzado,1,40800,40800,Lucía Fernández,Local,Efectivo,2025,11,Nov 2025
+1419,2025-11-01,Remera básica,Remeras,1,7700,7700,Consumidor Final,Instagram,Mercado Pago,2025,11,Nov 2025
+1420,2025-11-02,Campera de jean,Camperas,1,37100,37100,Julieta Suárez,Local,Mercado Pago,2025,11,Nov 2025
+1421,2025-11-02,Vestido casual,Vestidos,1,20700,20700,Micaela Rojas,WhatsApp,Tarjeta débito,2025,11,Nov 2025
+1422,2025-11-02,Vestido casual,Vestidos,1,21700,21700,Lucía Fernández,Local,Transferencia,2025,11,Nov 2025
+1423,2025-11-02,Ojotas,Calzado,3,8400,25200,Tomás Molina,Local,Mercado Pago,2025,11,Nov 2025
+1424,2025-11-02,Vestido de fiesta,Vestidos,1,35000,35000,Diego López,Local,Tarjeta débito,2025,11,Nov 2025
+1425,2025-11-02,Ojotas,Calzado,1,8800,8800,Micaela Rojas,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1426,2025-11-02,Jean clásico,Pantalones,1,24300,24300,Carlos Rodríguez,Instagram,Efectivo,2025,11,Nov 2025
+1427,2025-11-02,Campera inflable,Camperas,2,42300,84600,Consumidor Final,Instagram,Mercado Pago,2025,11,Nov 2025
+1428,2025-11-03,Vestido casual,Vestidos,1,21400,21400,Federico Álvarez,Local,Efectivo,2025,11,Nov 2025
+1429,2025-11-03,Mochila,Accesorios,1,28200,28200,Micaela Rojas,Local,Efectivo,2025,11,Nov 2025
+1430,2025-11-03,Jean chupín,Pantalones,1,24800,24800,Diego López,WhatsApp,Efectivo,2025,11,Nov 2025
+1431,2025-11-04,Vestido casual,Vestidos,2,22200,44400,Martín Díaz,Local,Transferencia,2025,11,Nov 2025
+1432,2025-11-04,Mochila,Accesorios,2,26300,52600,Consumidor Final,Local,Mercado Pago,2025,11,Nov 2025
+1433,2025-11-04,Zapatillas urbanas,Calzado,2,38900,77800,Juan Pérez,WhatsApp,Efectivo,2025,11,Nov 2025
+1434,2025-11-05,Gorra,Accesorios,2,7100,14200,María González,Local,Tarjeta crédito,2025,11,Nov 2025
+1435,2025-11-05,Vestido de fiesta,Vestidos,2,35400,70800,Federico Álvarez,Instagram,Transferencia,2025,11,Nov 2025
+1436,2025-11-05,Gorra,Accesorios,2,7600,15200,Martín Díaz,Local,Transferencia,2025,11,Nov 2025
+1437,2025-11-05,Remera básica,Remeras,1,8100,8100,María González,WhatsApp,Efectivo,2025,11,Nov 2025
+1438,2025-11-05,Gorra,Accesorios,1,7700,7700,Carlos Rodríguez,Local,Tarjeta débito,2025,11,Nov 2025
+1439,2025-11-05,Buzo canguro,Buzos,1,17700,17700,Camila Torres,Local,Tarjeta débito,2025,11,Nov 2025
+1440,2025-11-05,Mochila,Accesorios,2,26900,53800,Florencia Ortiz,WhatsApp,Efectivo,2025,11,Nov 2025
+1441,2025-11-06,Vestido de fiesta,Vestidos,1,32200,32200,Lucía Fernández,Instagram,Efectivo,2025,11,Nov 2025
+1442,2025-11-06,Buzo canguro,Buzos,1,17900,17900,Agustina Ruiz,WhatsApp,Transferencia,2025,11,Nov 2025
+1443,2025-11-06,Ojotas,Calzado,2,8500,17000,Martín Díaz,Local,Tarjeta débito,2025,11,Nov 2025
+1444,2025-11-07,Remera estampada,Remeras,1,10200,10200,Tomás Molina,Local,Tarjeta crédito,2025,11,Nov 2025
+1445,2025-11-07,Gorra,Accesorios,1,7100,7100,Carlos Rodríguez,Local,Tarjeta crédito,2025,11,Nov 2025
+1446,2025-11-07,Cinturón cuero,Accesorios,2,12400,24800,Agustina Ruiz,Local,Tarjeta débito,2025,11,Nov 2025
+1447,2025-11-07,Campera inflable,Camperas,1,40800,40800,Diego López,Local,Transferencia,2025,11,Nov 2025
+1448,2025-11-07,Cinturón cuero,Accesorios,1,12700,12700,Florencia Ortiz,Local,Tarjeta débito,2025,11,Nov 2025
+1449,2025-11-07,Remera estampada,Remeras,1,11300,11300,Sofía Martínez,Local,Transferencia,2025,11,Nov 2025
+1450,2025-11-08,Campera inflable,Camperas,1,46800,46800,Consumidor Final,Instagram,Efectivo,2025,11,Nov 2025
+1451,2025-11-08,Remera básica,Remeras,3,7900,23700,Sofía Martínez,Local,Tarjeta crédito,2025,11,Nov 2025
+1452,2025-11-08,Remera estampada,Remeras,1,10700,10700,Antonella Gómez,Local,Transferencia,2025,11,Nov 2025
+1453,2025-11-08,Buzo oversize,Buzos,1,21100,21100,Valentina Sánchez,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1454,2025-11-08,Campera de jean,Camperas,1,35000,35000,Santiago Silva,Local,Tarjeta crédito,2025,11,Nov 2025
+1455,2025-11-08,Buzo oversize,Buzos,1,20600,20600,Consumidor Final,Local,Tarjeta débito,2025,11,Nov 2025
+1456,2025-11-08,Buzo canguro,Buzos,1,20100,20100,Bruno Herrera,Instagram,Transferencia,2025,11,Nov 2025
+1457,2025-11-08,Gorra,Accesorios,2,7300,14600,Federico Álvarez,WhatsApp,Mercado Pago,2025,11,Nov 2025
+1458,2025-11-08,Campera inflable,Camperas,1,41700,41700,Martín Díaz,Local,Tarjeta crédito,2025,11,Nov 2025
+1459,2025-11-08,Remera básica,Remeras,2,8300,16600,Antonella Gómez,WhatsApp,Tarjeta débito,2025,11,Nov 2025
+1460,2025-11-08,Remera estampada,Remeras,1,10300,10300,Juan Pérez,Instagram,Tarjeta débito,2025,11,Nov 2025
+1461,2025-11-09,Buzo canguro,Buzos,1,20000,20000,Diego López,Local,Tarjeta crédito,2025,11,Nov 2025
+1462,2025-11-09,Gorra,Accesorios,2,7200,14400,Federico Álvarez,WhatsApp,Mercado Pago,2025,11,Nov 2025
+1463,2025-11-09,Jean clásico,Pantalones,1,22300,22300,Franco Castro,Instagram,Tarjeta débito,2025,11,Nov 2025
+1464,2025-11-09,Buzo oversize,Buzos,1,19100,19100,María González,Instagram,Efectivo,2025,11,Nov 2025
+1465,2025-11-09,Campera inflable,Camperas,2,41900,83800,Consumidor Final,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1466,2025-11-10,Remera básica,Remeras,1,8400,8400,Carlos Rodríguez,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1467,2025-11-10,Remera estampada,Remeras,1,11500,11500,Carlos Rodríguez,Local,Tarjeta crédito,2025,11,Nov 2025
+1468,2025-11-10,Jean clásico,Pantalones,3,24200,72600,Franco Castro,Instagram,Tarjeta débito,2025,11,Nov 2025
+1469,2025-11-11,Mochila,Accesorios,2,28500,57000,Antonella Gómez,WhatsApp,Transferencia,2025,11,Nov 2025
+1470,2025-11-11,Campera de jean,Camperas,2,35900,71800,María González,WhatsApp,Mercado Pago,2025,11,Nov 2025
+1471,2025-11-11,Buzo canguro,Buzos,2,19800,39600,Diego López,Instagram,Mercado Pago,2025,11,Nov 2025
+1472,2025-11-11,Jean chupín,Pantalones,1,23800,23800,Agustina Ruiz,Instagram,Tarjeta débito,2025,11,Nov 2025
+1473,2025-11-12,Campera inflable,Camperas,3,41600,124800,Lucía Fernández,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1474,2025-11-12,Buzo oversize,Buzos,1,19600,19600,Federico Álvarez,Local,Efectivo,2025,11,Nov 2025
+1475,2025-11-12,Ojotas,Calzado,1,8600,8600,Diego López,WhatsApp,Transferencia,2025,11,Nov 2025
+1476,2025-11-13,Buzo canguro,Buzos,1,19000,19000,Martín Díaz,Local,Efectivo,2025,11,Nov 2025
+1477,2025-11-13,Gorra,Accesorios,2,7100,14200,Carlos Rodríguez,Local,Tarjeta débito,2025,11,Nov 2025
+1478,2025-11-13,Mochila,Accesorios,1,28300,28300,Lucía Fernández,Local,Mercado Pago,2025,11,Nov 2025
+1479,2025-11-13,Mochila,Accesorios,1,25300,25300,Diego López,Instagram,Transferencia,2025,11,Nov 2025
+1480,2025-11-13,Jean clásico,Pantalones,1,22800,22800,Tomás Molina,Instagram,Mercado Pago,2025,11,Nov 2025
+1481,2025-11-13,Campera de jean,Camperas,1,35900,35900,Consumidor Final,Local,Mercado Pago,2025,11,Nov 2025
+1482,2025-11-14,Cinturón cuero,Accesorios,1,11400,11400,Consumidor Final,Local,Mercado Pago,2025,11,Nov 2025
+1483,2025-11-14,Buzo oversize,Buzos,1,19000,19000,Nicolás Romero,WhatsApp,Transferencia,2025,11,Nov 2025
+1484,2025-11-14,Cinturón cuero,Accesorios,1,12700,12700,Camila Torres,Local,Mercado Pago,2025,11,Nov 2025
+1485,2025-11-14,Buzo canguro,Buzos,1,20100,20100,Florencia Ortiz,Local,Transferencia,2025,11,Nov 2025
+1486,2025-11-15,Campera de jean,Camperas,1,35100,35100,Carlos Rodríguez,Local,Tarjeta crédito,2025,11,Nov 2025
+1487,2025-11-15,Gorra,Accesorios,1,7800,7800,Bruno Herrera,Local,Transferencia,2025,11,Nov 2025
+1488,2025-11-15,Cinturón cuero,Accesorios,1,13100,13100,Franco Castro,Instagram,Tarjeta débito,2025,11,Nov 2025
+1489,2025-11-15,Buzo oversize,Buzos,1,20100,20100,Juan Pérez,Instagram,Mercado Pago,2025,11,Nov 2025
+1490,2025-11-15,Gorra,Accesorios,1,7900,7900,Consumidor Final,WhatsApp,Transferencia,2025,11,Nov 2025
+1491,2025-11-15,Jean clásico,Pantalones,2,22200,44400,Valentina Sánchez,Local,Transferencia,2025,11,Nov 2025
+1492,2025-11-15,Remera estampada,Remeras,3,10600,31800,Sofía Martínez,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1493,2025-11-15,Campera inflable,Camperas,2,46700,93400,Consumidor Final,Local,Transferencia,2025,11,Nov 2025
+1494,2025-11-16,Vestido casual,Vestidos,1,20700,20700,María González,Instagram,Mercado Pago,2025,11,Nov 2025
+1495,2025-11-16,Vestido de fiesta,Vestidos,1,33700,33700,Sofía Martínez,Instagram,Mercado Pago,2025,11,Nov 2025
+1496,2025-11-16,Gorra,Accesorios,3,6900,20700,Consumidor Final,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1497,2025-11-16,Cinturón cuero,Accesorios,1,11900,11900,Julieta Suárez,Instagram,Mercado Pago,2025,11,Nov 2025
+1498,2025-11-16,Vestido de fiesta,Vestidos,1,32400,32400,Santiago Silva,Instagram,Transferencia,2025,11,Nov 2025
+1499,2025-11-16,Remera básica,Remeras,1,8800,8800,Juan Pérez,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1500,2025-11-16,Mochila,Accesorios,1,26600,26600,Nicolás Romero,Local,Transferencia,2025,11,Nov 2025
+1501,2025-11-16,Cinturón cuero,Accesorios,1,11400,11400,Sofía Martínez,Local,Transferencia,2025,11,Nov 2025
+1502,2025-11-16,Gorra,Accesorios,2,7100,14200,Lucía Fernández,Local,Tarjeta débito,2025,11,Nov 2025
+1503,2025-11-17,Buzo oversize,Buzos,2,21600,43200,Micaela Rojas,Instagram,Efectivo,2025,11,Nov 2025
+1504,2025-11-17,Campera de jean,Camperas,2,36500,73000,Micaela Rojas,WhatsApp,Efectivo,2025,11,Nov 2025
+1505,2025-11-17,Jean clásico,Pantalones,1,24600,24600,Martín Díaz,Local,Efectivo,2025,11,Nov 2025
+1506,2025-11-17,Mochila,Accesorios,1,26000,26000,Florencia Ortiz,Instagram,Efectivo,2025,11,Nov 2025
+1507,2025-11-17,Zapatillas urbanas,Calzado,1,40100,40100,Diego López,WhatsApp,Transferencia,2025,11,Nov 2025
+1508,2025-11-17,Vestido de fiesta,Vestidos,1,33300,33300,Camila Torres,Instagram,Efectivo,2025,11,Nov 2025
+1509,2025-11-18,Campera de jean,Camperas,1,34500,34500,Valentina Sánchez,WhatsApp,Tarjeta débito,2025,11,Nov 2025
+1510,2025-11-18,Zapatillas urbanas,Calzado,1,41900,41900,María González,Instagram,Tarjeta débito,2025,11,Nov 2025
+1511,2025-11-18,Zapatillas urbanas,Calzado,1,42800,42800,Santiago Silva,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1512,2025-11-18,Ojotas,Calzado,3,9000,27000,Julieta Suárez,WhatsApp,Transferencia,2025,11,Nov 2025
+1513,2025-11-19,Zapatillas urbanas,Calzado,1,41700,41700,María González,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1514,2025-11-19,Vestido casual,Vestidos,1,21800,21800,Carlos Rodríguez,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1515,2025-11-19,Campera de jean,Camperas,1,39100,39100,Nicolás Romero,Local,Mercado Pago,2025,11,Nov 2025
+1516,2025-11-19,Gorra,Accesorios,1,6800,6800,Santiago Silva,Local,Tarjeta crédito,2025,11,Nov 2025
+1517,2025-11-19,Zapatillas urbanas,Calzado,1,38000,38000,Nicolás Romero,Local,Transferencia,2025,11,Nov 2025
+1518,2025-11-20,Buzo canguro,Buzos,1,17700,17700,Antonella Gómez,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1519,2025-11-20,Ojotas,Calzado,2,9000,18000,Franco Castro,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1520,2025-11-20,Vestido casual,Vestidos,1,20400,20400,Bruno Herrera,Local,Efectivo,2025,11,Nov 2025
+1521,2025-11-20,Buzo oversize,Buzos,1,19700,19700,Diego López,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1522,2025-11-20,Zapatillas urbanas,Calzado,1,40000,40000,Nicolás Romero,Local,Tarjeta crédito,2025,11,Nov 2025
+1523,2025-11-20,Campera inflable,Camperas,1,42500,42500,Franco Castro,Local,Mercado Pago,2025,11,Nov 2025
+1524,2025-11-21,Buzo oversize,Buzos,2,20500,41000,Julieta Suárez,Instagram,Transferencia,2025,11,Nov 2025
+1525,2025-11-21,Remera básica,Remeras,2,7800,15600,Agustina Ruiz,Local,Mercado Pago,2025,11,Nov 2025
+1526,2025-11-21,Mochila,Accesorios,2,27100,54200,Diego López,Instagram,Transferencia,2025,11,Nov 2025
+1527,2025-11-22,Campera inflable,Camperas,1,41700,41700,María González,Instagram,Tarjeta débito,2025,11,Nov 2025
+1528,2025-11-22,Gorra,Accesorios,2,7400,14800,Lucía Fernández,Local,Transferencia,2025,11,Nov 2025
+1529,2025-11-22,Zapatillas urbanas,Calzado,1,40500,40500,María González,Local,Tarjeta débito,2025,11,Nov 2025
+1530,2025-11-22,Ojotas,Calzado,1,8100,8100,Micaela Rojas,Local,Efectivo,2025,11,Nov 2025
+1531,2025-11-22,Zapatillas urbanas,Calzado,2,39200,78400,Nicolás Romero,Local,Transferencia,2025,11,Nov 2025
+1532,2025-11-22,Vestido casual,Vestidos,1,20400,20400,Nicolás Romero,WhatsApp,Transferencia,2025,11,Nov 2025
+1533,2025-11-22,Ojotas,Calzado,1,8800,8800,Sofía Martínez,Local,Transferencia,2025,11,Nov 2025
+1534,2025-11-22,Campera inflable,Camperas,2,41600,83200,Julieta Suárez,Local,Tarjeta débito,2025,11,Nov 2025
+1535,2025-11-23,Ojotas,Calzado,1,8800,8800,Consumidor Final,Instagram,Efectivo,2025,11,Nov 2025
+1536,2025-11-23,Buzo canguro,Buzos,2,18300,36600,Juan Pérez,Instagram,Efectivo,2025,11,Nov 2025
+1537,2025-11-23,Zapatillas urbanas,Calzado,1,43100,43100,Consumidor Final,Local,Transferencia,2025,11,Nov 2025
+1538,2025-11-23,Buzo canguro,Buzos,1,18300,18300,Valentina Sánchez,Instagram,Efectivo,2025,11,Nov 2025
+1539,2025-11-23,Campera de jean,Camperas,1,34800,34800,Santiago Silva,Instagram,Tarjeta débito,2025,11,Nov 2025
+1540,2025-11-23,Buzo canguro,Buzos,2,17900,35800,Carlos Rodríguez,Local,Efectivo,2025,11,Nov 2025
+1541,2025-11-23,Buzo oversize,Buzos,1,19500,19500,Micaela Rojas,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1542,2025-11-23,Ojotas,Calzado,1,8300,8300,Valentina Sánchez,Instagram,Transferencia,2025,11,Nov 2025
+1543,2025-11-24,Campera inflable,Camperas,1,40600,40600,Consumidor Final,Local,Mercado Pago,2025,11,Nov 2025
+1544,2025-11-24,Zapatillas urbanas,Calzado,1,43800,43800,Lucía Fernández,Instagram,Efectivo,2025,11,Nov 2025
+1545,2025-11-24,Mochila,Accesorios,1,26200,26200,Nicolás Romero,Local,Efectivo,2025,11,Nov 2025
+1546,2025-11-24,Remera estampada,Remeras,2,11300,22600,Federico Álvarez,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1547,2025-11-25,Cinturón cuero,Accesorios,2,11300,22600,Diego López,Local,Transferencia,2025,11,Nov 2025
+1548,2025-11-25,Vestido de fiesta,Vestidos,1,35300,35300,Agustina Ruiz,Local,Transferencia,2025,11,Nov 2025
+1549,2025-11-25,Buzo canguro,Buzos,3,18300,54900,Franco Castro,Instagram,Tarjeta débito,2025,11,Nov 2025
+1550,2025-11-25,Remera estampada,Remeras,1,11100,11100,Diego López,Local,Mercado Pago,2025,11,Nov 2025
+1551,2025-11-26,Buzo oversize,Buzos,2,21000,42000,Julieta Suárez,Instagram,Mercado Pago,2025,11,Nov 2025
+1552,2025-11-26,Remera básica,Remeras,2,8800,17600,Sofía Martínez,Instagram,Transferencia,2025,11,Nov 2025
+1553,2025-11-26,Remera estampada,Remeras,2,10600,21200,Consumidor Final,Instagram,Efectivo,2025,11,Nov 2025
+1554,2025-11-26,Ojotas,Calzado,2,8800,17600,Antonella Gómez,Local,Tarjeta crédito,2025,11,Nov 2025
+1555,2025-11-26,Vestido casual,Vestidos,1,22100,22100,Consumidor Final,Instagram,Tarjeta débito,2025,11,Nov 2025
+1556,2025-11-27,Zapatillas urbanas,Calzado,1,43100,43100,Santiago Silva,Local,Tarjeta débito,2025,11,Nov 2025
+1557,2025-11-27,Vestido casual,Vestidos,2,22600,45200,Lucía Fernández,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1558,2025-11-28,Jean chupín,Pantalones,1,24500,24500,Bruno Herrera,Instagram,Transferencia,2025,11,Nov 2025
+1559,2025-11-28,Cinturón cuero,Accesorios,1,12100,12100,Florencia Ortiz,Local,Transferencia,2025,11,Nov 2025
+1560,2025-11-28,Buzo oversize,Buzos,1,22000,22000,María González,Local,Transferencia,2025,11,Nov 2025
+1561,2025-11-28,Remera básica,Remeras,1,7700,7700,Consumidor Final,Instagram,Mercado Pago,2025,11,Nov 2025
+1562,2025-11-28,Zapatillas urbanas,Calzado,1,41000,41000,Florencia Ortiz,WhatsApp,Tarjeta crédito,2025,11,Nov 2025
+1563,2025-11-29,Cinturón cuero,Accesorios,1,12300,12300,Franco Castro,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1564,2025-11-29,Ojotas,Calzado,1,8200,8200,María González,Local,Tarjeta crédito,2025,11,Nov 2025
+1565,2025-11-29,Vestido casual,Vestidos,1,22100,22100,Consumidor Final,Local,Tarjeta débito,2025,11,Nov 2025
+1566,2025-11-29,Cinturón cuero,Accesorios,2,12600,25200,Consumidor Final,Instagram,Tarjeta débito,2025,11,Nov 2025
+1567,2025-11-29,Remera estampada,Remeras,2,10500,21000,Valentina Sánchez,Instagram,Efectivo,2025,11,Nov 2025
+1568,2025-11-29,Gorra,Accesorios,1,7800,7800,Antonella Gómez,Local,Transferencia,2025,11,Nov 2025
+1569,2025-11-29,Buzo oversize,Buzos,1,21900,21900,Consumidor Final,Instagram,Mercado Pago,2025,11,Nov 2025
+1570,2025-11-29,Ojotas,Calzado,1,9400,9400,Franco Castro,WhatsApp,Tarjeta débito,2025,11,Nov 2025
+1571,2025-11-29,Ojotas,Calzado,1,9100,9100,Consumidor Final,Local,Mercado Pago,2025,11,Nov 2025
+1572,2025-11-29,Vestido de fiesta,Vestidos,2,34100,68200,Santiago Silva,WhatsApp,Tarjeta débito,2025,11,Nov 2025
+1573,2025-11-30,Campera de jean,Camperas,1,36200,36200,Sofía Martínez,Local,Mercado Pago,2025,11,Nov 2025
+1574,2025-11-30,Ojotas,Calzado,2,8800,17600,Bruno Herrera,WhatsApp,Mercado Pago,2025,11,Nov 2025
+1575,2025-11-30,Zapatillas urbanas,Calzado,1,39100,39100,Federico Álvarez,WhatsApp,Tarjeta débito,2025,11,Nov 2025
+1576,2025-11-30,Ojotas,Calzado,1,9400,9400,Agustina Ruiz,Instagram,Tarjeta crédito,2025,11,Nov 2025
+1577,2025-11-30,Vestido casual,Vestidos,1,21700,21700,Tomás Molina,Instagram,Mercado Pago,2025,11,Nov 2025
+1578,2025-11-30,Campera de jean,Camperas,2,36600,73200,Consumidor Final,Local,Transferencia,2025,11,Nov 2025
+1579,2025-12-01,Jean chupín,Pantalones,1,26500,26500,Camila Torres,Local,Efectivo,2025,12,Dic 2025
+1580,2025-12-01,Ojotas,Calzado,2,8400,16800,Federico Álvarez,WhatsApp,Efectivo,2025,12,Dic 2025
+1581,2025-12-01,Vestido de fiesta,Vestidos,2,35400,70800,Bruno Herrera,Local,Mercado Pago,2025,12,Dic 2025
+1582,2025-12-01,Gorra,Accesorios,2,7500,15000,Juan Pérez,WhatsApp,Transferencia,2025,12,Dic 2025
+1583,2025-12-01,Buzo canguro,Buzos,3,20400,61200,Bruno Herrera,Local,Tarjeta crédito,2025,12,Dic 2025
+1584,2025-12-01,Jean chupín,Pantalones,1,26400,26400,Martín Díaz,WhatsApp,Tarjeta crédito,2025,12,Dic 2025
+1585,2025-12-01,Gorra,Accesorios,1,7600,7600,Valentina Sánchez,Local,Tarjeta débito,2025,12,Dic 2025
+1586,2025-12-02,Zapatillas urbanas,Calzado,1,43900,43900,Carlos Rodríguez,Local,Transferencia,2025,12,Dic 2025
+1587,2025-12-02,Campera de jean,Camperas,1,34900,34900,Camila Torres,Local,Transferencia,2025,12,Dic 2025
+1588,2025-12-02,Ojotas,Calzado,2,8200,16400,Santiago Silva,Local,Mercado Pago,2025,12,Dic 2025
+1589,2025-12-02,Cinturón cuero,Accesorios,1,12200,12200,Federico Álvarez,Local,Tarjeta crédito,2025,12,Dic 2025
+1590,2025-12-02,Vestido casual,Vestidos,1,20400,20400,Consumidor Final,Instagram,Transferencia,2025,12,Dic 2025
+1591,2025-12-02,Vestido casual,Vestidos,1,20100,20100,Valentina Sánchez,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1592,2025-12-02,Campera inflable,Camperas,1,46900,46900,Franco Castro,WhatsApp,Efectivo,2025,12,Dic 2025
+1593,2025-12-03,Jean chupín,Pantalones,2,25800,51600,Juan Pérez,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1594,2025-12-03,Buzo canguro,Buzos,2,20300,40600,Bruno Herrera,Instagram,Efectivo,2025,12,Dic 2025
+1595,2025-12-03,Mochila,Accesorios,1,28400,28400,Micaela Rojas,Local,Efectivo,2025,12,Dic 2025
+1596,2025-12-03,Campera de jean,Camperas,2,35300,70600,Carlos Rodríguez,Local,Mercado Pago,2025,12,Dic 2025
+1597,2025-12-03,Vestido casual,Vestidos,1,20000,20000,Valentina Sánchez,WhatsApp,Transferencia,2025,12,Dic 2025
+1598,2025-12-03,Cinturón cuero,Accesorios,1,12300,12300,Tomás Molina,Instagram,Efectivo,2025,12,Dic 2025
+1599,2025-12-03,Ojotas,Calzado,1,8100,8100,Juan Pérez,Local,Efectivo,2025,12,Dic 2025
+1600,2025-12-04,Jean clásico,Pantalones,2,23600,47200,Martín Díaz,WhatsApp,Transferencia,2025,12,Dic 2025
+1601,2025-12-04,Buzo canguro,Buzos,1,18700,18700,Julieta Suárez,Instagram,Mercado Pago,2025,12,Dic 2025
+1602,2025-12-04,Remera básica,Remeras,1,8400,8400,Antonella Gómez,Local,Efectivo,2025,12,Dic 2025
+1603,2025-12-04,Campera inflable,Camperas,2,41200,82400,Nicolás Romero,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1604,2025-12-04,Gorra,Accesorios,2,7200,14400,María González,Instagram,Mercado Pago,2025,12,Dic 2025
+1605,2025-12-04,Jean chupín,Pantalones,1,24900,24900,Bruno Herrera,Local,Tarjeta débito,2025,12,Dic 2025
+1606,2025-12-05,Gorra,Accesorios,2,7500,15000,María González,Instagram,Mercado Pago,2025,12,Dic 2025
+1607,2025-12-05,Jean clásico,Pantalones,1,21600,21600,Bruno Herrera,Instagram,Efectivo,2025,12,Dic 2025
+1608,2025-12-05,Campera de jean,Camperas,1,38400,38400,Valentina Sánchez,Local,Mercado Pago,2025,12,Dic 2025
+1609,2025-12-05,Jean clásico,Pantalones,1,22400,22400,Valentina Sánchez,Local,Mercado Pago,2025,12,Dic 2025
+1610,2025-12-05,Cinturón cuero,Accesorios,1,12700,12700,Bruno Herrera,Instagram,Mercado Pago,2025,12,Dic 2025
+1611,2025-12-06,Remera estampada,Remeras,1,10000,10000,Consumidor Final,Instagram,Transferencia,2025,12,Dic 2025
+1612,2025-12-06,Campera inflable,Camperas,1,45000,45000,Nicolás Romero,Instagram,Tarjeta débito,2025,12,Dic 2025
+1613,2025-12-06,Campera inflable,Camperas,1,42700,42700,Antonella Gómez,Local,Mercado Pago,2025,12,Dic 2025
+1614,2025-12-06,Campera inflable,Camperas,2,47000,94000,Agustina Ruiz,Local,Tarjeta débito,2025,12,Dic 2025
+1615,2025-12-06,Ojotas,Calzado,2,8700,17400,Sofía Martínez,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1616,2025-12-06,Mochila,Accesorios,1,27100,27100,Franco Castro,Instagram,Tarjeta débito,2025,12,Dic 2025
+1617,2025-12-06,Zapatillas urbanas,Calzado,1,43100,43100,Sofía Martínez,WhatsApp,Tarjeta débito,2025,12,Dic 2025
+1618,2025-12-06,Campera de jean,Camperas,2,37800,75600,María González,WhatsApp,Efectivo,2025,12,Dic 2025
+1619,2025-12-06,Cinturón cuero,Accesorios,1,12000,12000,Juan Pérez,Instagram,Mercado Pago,2025,12,Dic 2025
+1620,2025-12-06,Mochila,Accesorios,3,27200,81600,Federico Álvarez,Local,Mercado Pago,2025,12,Dic 2025
+1621,2025-12-06,Ojotas,Calzado,2,8300,16600,Lucía Fernández,Local,Mercado Pago,2025,12,Dic 2025
+1622,2025-12-06,Remera básica,Remeras,1,8700,8700,Santiago Silva,Instagram,Mercado Pago,2025,12,Dic 2025
+1623,2025-12-06,Jean clásico,Pantalones,1,22200,22200,Sofía Martínez,Instagram,Transferencia,2025,12,Dic 2025
+1624,2025-12-07,Gorra,Accesorios,1,6800,6800,Juan Pérez,Instagram,Mercado Pago,2025,12,Dic 2025
+1625,2025-12-07,Mochila,Accesorios,2,26800,53600,Juan Pérez,Local,Tarjeta crédito,2025,12,Dic 2025
+1626,2025-12-07,Remera estampada,Remeras,2,10800,21600,Camila Torres,Instagram,Mercado Pago,2025,12,Dic 2025
+1627,2025-12-07,Jean clásico,Pantalones,1,23000,23000,Lucía Fernández,Instagram,Transferencia,2025,12,Dic 2025
+1628,2025-12-07,Mochila,Accesorios,1,26900,26900,Federico Álvarez,Instagram,Transferencia,2025,12,Dic 2025
+1629,2025-12-07,Mochila,Accesorios,1,27300,27300,Consumidor Final,Local,Efectivo,2025,12,Dic 2025
+1630,2025-12-07,Vestido casual,Vestidos,1,20500,20500,Federico Álvarez,Instagram,Efectivo,2025,12,Dic 2025
+1631,2025-12-07,Zapatillas urbanas,Calzado,1,42900,42900,Franco Castro,Instagram,Transferencia,2025,12,Dic 2025
+1632,2025-12-07,Jean chupín,Pantalones,1,25900,25900,Martín Díaz,Local,Mercado Pago,2025,12,Dic 2025
+1633,2025-12-07,Vestido de fiesta,Vestidos,1,34800,34800,Consumidor Final,Instagram,Efectivo,2025,12,Dic 2025
+1634,2025-12-08,Jean clásico,Pantalones,1,22200,22200,Santiago Silva,WhatsApp,Efectivo,2025,12,Dic 2025
+1635,2025-12-08,Mochila,Accesorios,2,28000,56000,Lucía Fernández,Local,Mercado Pago,2025,12,Dic 2025
+1636,2025-12-08,Buzo oversize,Buzos,2,19400,38800,Santiago Silva,Local,Mercado Pago,2025,12,Dic 2025
+1637,2025-12-08,Cinturón cuero,Accesorios,2,12400,24800,Diego López,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1638,2025-12-08,Mochila,Accesorios,1,27700,27700,Julieta Suárez,Local,Efectivo,2025,12,Dic 2025
+1639,2025-12-09,Vestido casual,Vestidos,1,22500,22500,Diego López,Instagram,Mercado Pago,2025,12,Dic 2025
+1640,2025-12-09,Vestido de fiesta,Vestidos,1,35600,35600,Carlos Rodríguez,Local,Tarjeta débito,2025,12,Dic 2025
+1641,2025-12-09,Mochila,Accesorios,1,28700,28700,Tomás Molina,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1642,2025-12-09,Cinturón cuero,Accesorios,1,12200,12200,Franco Castro,Instagram,Transferencia,2025,12,Dic 2025
+1643,2025-12-09,Campera inflable,Camperas,1,45500,45500,Antonella Gómez,Local,Tarjeta débito,2025,12,Dic 2025
+1644,2025-12-09,Campera de jean,Camperas,1,35500,35500,Nicolás Romero,Instagram,Mercado Pago,2025,12,Dic 2025
+1645,2025-12-10,Buzo canguro,Buzos,1,17600,17600,María González,Instagram,Efectivo,2025,12,Dic 2025
+1646,2025-12-10,Vestido casual,Vestidos,1,22000,22000,Agustina Ruiz,Local,Efectivo,2025,12,Dic 2025
+1647,2025-12-10,Jean clásico,Pantalones,1,23700,23700,Bruno Herrera,Local,Tarjeta crédito,2025,12,Dic 2025
+1648,2025-12-10,Vestido de fiesta,Vestidos,1,35100,35100,Tomás Molina,Instagram,Mercado Pago,2025,12,Dic 2025
+1649,2025-12-10,Buzo oversize,Buzos,1,20700,20700,Nicolás Romero,Instagram,Transferencia,2025,12,Dic 2025
+1650,2025-12-10,Ojotas,Calzado,1,9300,9300,Consumidor Final,Local,Tarjeta débito,2025,12,Dic 2025
+1651,2025-12-10,Remera estampada,Remeras,1,10600,10600,Bruno Herrera,Instagram,Efectivo,2025,12,Dic 2025
+1652,2025-12-10,Jean clásico,Pantalones,1,23900,23900,Sofía Martínez,Instagram,Mercado Pago,2025,12,Dic 2025
+1653,2025-12-11,Jean chupín,Pantalones,1,25800,25800,Julieta Suárez,Instagram,Mercado Pago,2025,12,Dic 2025
+1654,2025-12-11,Campera de jean,Camperas,2,37600,75200,Diego López,Instagram,Transferencia,2025,12,Dic 2025
+1655,2025-12-11,Remera básica,Remeras,1,8500,8500,Nicolás Romero,Local,Mercado Pago,2025,12,Dic 2025
+1656,2025-12-11,Vestido casual,Vestidos,1,20600,20600,Juan Pérez,Local,Efectivo,2025,12,Dic 2025
+1657,2025-12-11,Jean clásico,Pantalones,1,22600,22600,Julieta Suárez,Local,Tarjeta débito,2025,12,Dic 2025
+1658,2025-12-12,Vestido casual,Vestidos,1,22100,22100,Bruno Herrera,Local,Mercado Pago,2025,12,Dic 2025
+1659,2025-12-12,Mochila,Accesorios,1,26700,26700,Martín Díaz,Instagram,Tarjeta débito,2025,12,Dic 2025
+1660,2025-12-12,Buzo oversize,Buzos,2,20700,41400,Tomás Molina,Instagram,Mercado Pago,2025,12,Dic 2025
+1661,2025-12-12,Remera estampada,Remeras,1,10500,10500,Consumidor Final,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1662,2025-12-12,Mochila,Accesorios,1,28500,28500,Florencia Ortiz,WhatsApp,Mercado Pago,2025,12,Dic 2025
+1663,2025-12-12,Buzo oversize,Buzos,2,21300,42600,Florencia Ortiz,Instagram,Mercado Pago,2025,12,Dic 2025
+1664,2025-12-13,Campera de jean,Camperas,1,37800,37800,Martín Díaz,WhatsApp,Transferencia,2025,12,Dic 2025
+1665,2025-12-13,Campera inflable,Camperas,1,40600,40600,Martín Díaz,Local,Transferencia,2025,12,Dic 2025
+1666,2025-12-13,Zapatillas urbanas,Calzado,2,40000,80000,Diego López,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1667,2025-12-13,Jean chupín,Pantalones,2,24400,48800,Valentina Sánchez,Instagram,Tarjeta débito,2025,12,Dic 2025
+1668,2025-12-13,Jean chupín,Pantalones,2,26800,53600,Valentina Sánchez,WhatsApp,Mercado Pago,2025,12,Dic 2025
+1669,2025-12-13,Campera inflable,Camperas,1,41200,41200,Franco Castro,Instagram,Mercado Pago,2025,12,Dic 2025
+1670,2025-12-13,Remera básica,Remeras,2,8100,16200,Antonella Gómez,WhatsApp,Transferencia,2025,12,Dic 2025
+1671,2025-12-13,Jean clásico,Pantalones,3,24900,74700,Martín Díaz,Instagram,Tarjeta débito,2025,12,Dic 2025
+1672,2025-12-13,Remera básica,Remeras,1,8200,8200,Juan Pérez,Instagram,Transferencia,2025,12,Dic 2025
+1673,2025-12-13,Cinturón cuero,Accesorios,1,11600,11600,Micaela Rojas,Instagram,Efectivo,2025,12,Dic 2025
+1674,2025-12-13,Remera básica,Remeras,1,8100,8100,Consumidor Final,Local,Tarjeta crédito,2025,12,Dic 2025
+1675,2025-12-14,Jean clásico,Pantalones,1,22500,22500,Santiago Silva,Local,Tarjeta débito,2025,12,Dic 2025
+1676,2025-12-14,Buzo oversize,Buzos,1,20200,20200,Federico Álvarez,WhatsApp,Tarjeta crédito,2025,12,Dic 2025
+1677,2025-12-14,Buzo oversize,Buzos,1,19300,19300,Martín Díaz,WhatsApp,Tarjeta crédito,2025,12,Dic 2025
+1678,2025-12-14,Gorra,Accesorios,1,7200,7200,Sofía Martínez,WhatsApp,Tarjeta débito,2025,12,Dic 2025
+1679,2025-12-14,Buzo oversize,Buzos,2,19500,39000,Micaela Rojas,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1680,2025-12-14,Gorra,Accesorios,1,7000,7000,Juan Pérez,Local,Tarjeta débito,2025,12,Dic 2025
+1681,2025-12-14,Remera básica,Remeras,1,8000,8000,Carlos Rodríguez,Local,Tarjeta crédito,2025,12,Dic 2025
+1682,2025-12-14,Campera de jean,Camperas,1,37400,37400,Camila Torres,Local,Transferencia,2025,12,Dic 2025
+1683,2025-12-14,Remera estampada,Remeras,1,11000,11000,Antonella Gómez,Instagram,Mercado Pago,2025,12,Dic 2025
+1684,2025-12-15,Campera inflable,Camperas,1,43900,43900,Florencia Ortiz,WhatsApp,Transferencia,2025,12,Dic 2025
+1685,2025-12-15,Vestido de fiesta,Vestidos,1,34800,34800,Consumidor Final,Local,Tarjeta crédito,2025,12,Dic 2025
+1686,2025-12-15,Buzo canguro,Buzos,1,19200,19200,Lucía Fernández,Local,Tarjeta crédito,2025,12,Dic 2025
+1687,2025-12-15,Jean chupín,Pantalones,1,25900,25900,Santiago Silva,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1688,2025-12-15,Mochila,Accesorios,1,28800,28800,Antonella Gómez,Instagram,Transferencia,2025,12,Dic 2025
+1689,2025-12-15,Buzo canguro,Buzos,1,20000,20000,Consumidor Final,Local,Tarjeta crédito,2025,12,Dic 2025
+1690,2025-12-15,Ojotas,Calzado,2,8200,16400,Carlos Rodríguez,Local,Transferencia,2025,12,Dic 2025
+1691,2025-12-16,Vestido casual,Vestidos,1,22300,22300,Lucía Fernández,Local,Mercado Pago,2025,12,Dic 2025
+1692,2025-12-16,Jean clásico,Pantalones,1,25000,25000,Martín Díaz,Local,Tarjeta crédito,2025,12,Dic 2025
+1693,2025-12-16,Buzo oversize,Buzos,1,19300,19300,María González,Local,Tarjeta crédito,2025,12,Dic 2025
+1694,2025-12-16,Cinturón cuero,Accesorios,2,12900,25800,Bruno Herrera,WhatsApp,Mercado Pago,2025,12,Dic 2025
+1695,2025-12-16,Buzo oversize,Buzos,1,21900,21900,Antonella Gómez,Instagram,Mercado Pago,2025,12,Dic 2025
+1696,2025-12-16,Buzo canguro,Buzos,1,19400,19400,Federico Álvarez,Instagram,Tarjeta débito,2025,12,Dic 2025
+1697,2025-12-16,Gorra,Accesorios,1,7100,7100,Sofía Martínez,Local,Efectivo,2025,12,Dic 2025
+1698,2025-12-16,Vestido casual,Vestidos,2,22600,45200,Franco Castro,Instagram,Transferencia,2025,12,Dic 2025
+1699,2025-12-17,Remera básica,Remeras,2,8700,17400,María González,Instagram,Tarjeta débito,2025,12,Dic 2025
+1700,2025-12-17,Buzo canguro,Buzos,2,18800,37600,Julieta Suárez,WhatsApp,Tarjeta débito,2025,12,Dic 2025
+1701,2025-12-17,Campera de jean,Camperas,1,37800,37800,Santiago Silva,WhatsApp,Tarjeta crédito,2025,12,Dic 2025
+1702,2025-12-17,Campera de jean,Camperas,1,37200,37200,Valentina Sánchez,WhatsApp,Tarjeta débito,2025,12,Dic 2025
+1703,2025-12-17,Jean clásico,Pantalones,1,23900,23900,Camila Torres,Instagram,Transferencia,2025,12,Dic 2025
+1704,2025-12-17,Jean chupín,Pantalones,1,24000,24000,María González,Local,Efectivo,2025,12,Dic 2025
+1705,2025-12-17,Campera de jean,Camperas,1,38300,38300,Martín Díaz,Local,Efectivo,2025,12,Dic 2025
+1706,2025-12-18,Buzo oversize,Buzos,1,20200,20200,Franco Castro,WhatsApp,Transferencia,2025,12,Dic 2025
+1707,2025-12-18,Ojotas,Calzado,2,8500,17000,Sofía Martínez,Local,Transferencia,2025,12,Dic 2025
+1708,2025-12-18,Remera estampada,Remeras,1,10200,10200,Camila Torres,WhatsApp,Efectivo,2025,12,Dic 2025
+1709,2025-12-18,Remera estampada,Remeras,3,11100,33300,Florencia Ortiz,Local,Efectivo,2025,12,Dic 2025
+1710,2025-12-18,Jean chupín,Pantalones,1,26400,26400,Valentina Sánchez,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1711,2025-12-19,Ojotas,Calzado,1,9400,9400,Camila Torres,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1712,2025-12-19,Jean chupín,Pantalones,1,23600,23600,Carlos Rodríguez,Local,Transferencia,2025,12,Dic 2025
+1713,2025-12-19,Campera inflable,Camperas,1,45900,45900,Julieta Suárez,Instagram,Efectivo,2025,12,Dic 2025
+1714,2025-12-19,Remera básica,Remeras,1,8500,8500,Sofía Martínez,Local,Efectivo,2025,12,Dic 2025
+1715,2025-12-19,Jean chupín,Pantalones,1,23800,23800,Juan Pérez,Local,Tarjeta débito,2025,12,Dic 2025
+1716,2025-12-19,Ojotas,Calzado,1,8200,8200,Agustina Ruiz,WhatsApp,Tarjeta crédito,2025,12,Dic 2025
+1717,2025-12-20,Gorra,Accesorios,2,7600,15200,Consumidor Final,Local,Tarjeta débito,2025,12,Dic 2025
+1718,2025-12-20,Campera de jean,Camperas,2,37000,74000,Nicolás Romero,Instagram,Transferencia,2025,12,Dic 2025
+1719,2025-12-20,Jean chupín,Pantalones,1,25500,25500,Florencia Ortiz,Local,Mercado Pago,2025,12,Dic 2025
+1720,2025-12-20,Mochila,Accesorios,2,25900,51800,Florencia Ortiz,Local,Tarjeta crédito,2025,12,Dic 2025
+1721,2025-12-20,Vestido casual,Vestidos,1,19800,19800,Julieta Suárez,Instagram,Efectivo,2025,12,Dic 2025
+1722,2025-12-20,Vestido de fiesta,Vestidos,2,35600,71200,Lucía Fernández,Instagram,Mercado Pago,2025,12,Dic 2025
+1723,2025-12-20,Cinturón cuero,Accesorios,1,12200,12200,Bruno Herrera,Local,Tarjeta crédito,2025,12,Dic 2025
+1724,2025-12-20,Campera inflable,Camperas,1,42700,42700,Consumidor Final,Instagram,Efectivo,2025,12,Dic 2025
+1725,2025-12-20,Cinturón cuero,Accesorios,2,11600,23200,Consumidor Final,Local,Tarjeta débito,2025,12,Dic 2025
+1726,2025-12-20,Remera estampada,Remeras,1,11000,11000,Franco Castro,Instagram,Mercado Pago,2025,12,Dic 2025
+1727,2025-12-21,Vestido de fiesta,Vestidos,2,31600,63200,Franco Castro,WhatsApp,Efectivo,2025,12,Dic 2025
+1728,2025-12-21,Buzo oversize,Buzos,2,19100,38200,Tomás Molina,WhatsApp,Efectivo,2025,12,Dic 2025
+1729,2025-12-21,Cinturón cuero,Accesorios,1,12200,12200,Nicolás Romero,Local,Tarjeta débito,2025,12,Dic 2025
+1730,2025-12-21,Vestido casual,Vestidos,1,22200,22200,Valentina Sánchez,Local,Tarjeta débito,2025,12,Dic 2025
+1731,2025-12-21,Vestido de fiesta,Vestidos,1,32400,32400,Tomás Molina,Instagram,Mercado Pago,2025,12,Dic 2025
+1732,2025-12-21,Campera inflable,Camperas,1,45200,45200,Carlos Rodríguez,Local,Tarjeta débito,2025,12,Dic 2025
+1733,2025-12-21,Vestido casual,Vestidos,1,20900,20900,Santiago Silva,Local,Tarjeta crédito,2025,12,Dic 2025
+1734,2025-12-21,Mochila,Accesorios,1,29400,29400,Federico Álvarez,Local,Transferencia,2025,12,Dic 2025
+1735,2025-12-21,Cinturón cuero,Accesorios,2,12400,24800,Valentina Sánchez,Local,Mercado Pago,2025,12,Dic 2025
+1736,2025-12-21,Mochila,Accesorios,2,26700,53400,Julieta Suárez,Local,Efectivo,2025,12,Dic 2025
+1737,2025-12-22,Campera de jean,Camperas,1,37200,37200,Nicolás Romero,Local,Tarjeta débito,2025,12,Dic 2025
+1738,2025-12-22,Jean chupín,Pantalones,2,23500,47000,Camila Torres,WhatsApp,Mercado Pago,2025,12,Dic 2025
+1739,2025-12-22,Vestido casual,Vestidos,1,21700,21700,Consumidor Final,Instagram,Tarjeta débito,2025,12,Dic 2025
+1740,2025-12-22,Jean clásico,Pantalones,1,24800,24800,Camila Torres,WhatsApp,Efectivo,2025,12,Dic 2025
+1741,2025-12-22,Vestido de fiesta,Vestidos,1,36300,36300,Agustina Ruiz,Instagram,Tarjeta débito,2025,12,Dic 2025
+1742,2025-12-22,Buzo oversize,Buzos,2,21100,42200,Carlos Rodríguez,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1743,2025-12-22,Remera básica,Remeras,2,8400,16800,Consumidor Final,Local,Tarjeta crédito,2025,12,Dic 2025
+1744,2025-12-23,Buzo canguro,Buzos,2,17900,35800,Santiago Silva,WhatsApp,Transferencia,2025,12,Dic 2025
+1745,2025-12-23,Remera básica,Remeras,1,7700,7700,Sofía Martínez,Local,Tarjeta débito,2025,12,Dic 2025
+1746,2025-12-23,Jean clásico,Pantalones,1,24200,24200,Florencia Ortiz,Instagram,Mercado Pago,2025,12,Dic 2025
+1747,2025-12-23,Vestido casual,Vestidos,1,21200,21200,Sofía Martínez,Local,Efectivo,2025,12,Dic 2025
+1748,2025-12-24,Buzo oversize,Buzos,1,19100,19100,Lucía Fernández,Local,Transferencia,2025,12,Dic 2025
+1749,2025-12-24,Gorra,Accesorios,1,7600,7600,Valentina Sánchez,Instagram,Mercado Pago,2025,12,Dic 2025
+1750,2025-12-24,Jean chupín,Pantalones,1,27300,27300,Martín Díaz,Local,Transferencia,2025,12,Dic 2025
+1751,2025-12-24,Campera inflable,Camperas,1,44400,44400,Consumidor Final,Local,Tarjeta crédito,2025,12,Dic 2025
+1752,2025-12-24,Campera inflable,Camperas,1,42800,42800,Nicolás Romero,Local,Tarjeta crédito,2025,12,Dic 2025
+1753,2025-12-24,Vestido de fiesta,Vestidos,2,35700,71400,Florencia Ortiz,Local,Tarjeta débito,2025,12,Dic 2025
+1754,2025-12-24,Jean chupín,Pantalones,1,24000,24000,Lucía Fernández,Local,Efectivo,2025,12,Dic 2025
+1755,2025-12-24,Jean chupín,Pantalones,2,27000,54000,Nicolás Romero,Local,Efectivo,2025,12,Dic 2025
+1756,2025-12-25,Campera inflable,Camperas,1,44100,44100,Micaela Rojas,Instagram,Mercado Pago,2025,12,Dic 2025
+1757,2025-12-25,Buzo oversize,Buzos,1,22000,22000,María González,Local,Mercado Pago,2025,12,Dic 2025
+1758,2025-12-25,Remera básica,Remeras,1,7700,7700,Santiago Silva,Local,Transferencia,2025,12,Dic 2025
+1759,2025-12-25,Zapatillas urbanas,Calzado,2,38200,76400,Federico Álvarez,WhatsApp,Efectivo,2025,12,Dic 2025
+1760,2025-12-25,Campera de jean,Camperas,2,37900,75800,Julieta Suárez,Instagram,Efectivo,2025,12,Dic 2025
+1761,2025-12-26,Mochila,Accesorios,1,28800,28800,Diego López,Local,Transferencia,2025,12,Dic 2025
+1762,2025-12-26,Vestido casual,Vestidos,2,19900,39800,Micaela Rojas,Local,Transferencia,2025,12,Dic 2025
+1763,2025-12-26,Buzo canguro,Buzos,2,17600,35200,Federico Álvarez,Instagram,Tarjeta débito,2025,12,Dic 2025
+1764,2025-12-26,Vestido casual,Vestidos,1,20000,20000,Julieta Suárez,WhatsApp,Efectivo,2025,12,Dic 2025
+1765,2025-12-26,Vestido casual,Vestidos,2,20500,41000,Julieta Suárez,Instagram,Efectivo,2025,12,Dic 2025
+1766,2025-12-26,Ojotas,Calzado,1,9400,9400,Martín Díaz,Local,Mercado Pago,2025,12,Dic 2025
+1767,2025-12-26,Jean clásico,Pantalones,1,22700,22700,Florencia Ortiz,Instagram,Tarjeta débito,2025,12,Dic 2025
+1768,2025-12-27,Zapatillas urbanas,Calzado,2,43200,86400,Micaela Rojas,WhatsApp,Transferencia,2025,12,Dic 2025
+1769,2025-12-27,Mochila,Accesorios,3,25800,77400,Diego López,Local,Mercado Pago,2025,12,Dic 2025
+1770,2025-12-27,Vestido casual,Vestidos,2,20200,40400,Sofía Martínez,Instagram,Tarjeta crédito,2025,12,Dic 2025
+1771,2025-12-27,Mochila,Accesorios,3,29200,87600,Camila Torres,Local,Tarjeta débito,2025,12,Dic 2025
+1772,2025-12-27,Remera estampada,Remeras,1,9900,9900,Santiago Silva,Local,Mercado Pago,2025,12,Dic 2025
+1773,2025-12-27,Vestido de fiesta,Vestidos,1,32700,32700,Federico Álvarez,Local,Transferencia,2025,12,Dic 2025
+1774,2025-12-27,Jean clásico,Pantalones,1,23800,23800,Federico Álvarez,Local,Transferencia,2025,12,Dic 2025
+1775,2025-12-27,Buzo oversize,Buzos,1,19400,19400,Tomás Molina,Instagram,Efectivo,2025,12,Dic 2025
+1776,2025-12-27,Mochila,Accesorios,1,26900,26900,Valentina Sánchez,Instagram,Efectivo,2025,12,Dic 2025
+1777,2025-12-28,Jean clásico,Pantalones,2,25100,50200,Franco Castro,Instagram,Transferencia,2025,12,Dic 2025
+1778,2025-12-28,Mochila,Accesorios,1,26900,26900,Consumidor Final,Instagram,Transferencia,2025,12,Dic 2025
+1779,2025-12-28,Ojotas,Calzado,1,8900,8900,Santiago Silva,Instagram,Efectivo,2025,12,Dic 2025
+1780,2025-12-28,Vestido casual,Vestidos,1,21300,21300,Martín Díaz,Instagram,Transferencia,2025,12,Dic 2025
+1781,2025-12-28,Ojotas,Calzado,1,8600,8600,Juan Pérez,Local,Transferencia,2025,12,Dic 2025
+1782,2025-12-28,Buzo canguro,Buzos,2,19800,39600,Diego López,Local,Mercado Pago,2025,12,Dic 2025
+1783,2025-12-28,Mochila,Accesorios,1,27400,27400,Consumidor Final,WhatsApp,Transferencia,2025,12,Dic 2025
+1784,2025-12-28,Remera estampada,Remeras,2,10100,20200,Bruno Herrera,Local,Transferencia,2025,12,Dic 2025
+1785,2025-12-29,Buzo oversize,Buzos,1,21100,21100,Florencia Ortiz,Local,Tarjeta crédito,2025,12,Dic 2025
+1786,2025-12-29,Ojotas,Calzado,1,9100,9100,Carlos Rodríguez,Local,Transferencia,2025,12,Dic 2025
+1787,2025-12-29,Zapatillas urbanas,Calzado,1,41100,41100,Micaela Rojas,Instagram,Tarjeta débito,2025,12,Dic 2025
+1788,2025-12-29,Buzo canguro,Buzos,1,17700,17700,Agustina Ruiz,Instagram,Tarjeta débito,2025,12,Dic 2025
+1789,2025-12-29,Jean clásico,Pantalones,2,22200,44400,Tomás Molina,Local,Transferencia,2025,12,Dic 2025
+1790,2025-12-30,Campera de jean,Camperas,1,34900,34900,Consumidor Final,Local,Mercado Pago,2025,12,Dic 2025
+1791,2025-12-30,Gorra,Accesorios,1,7300,7300,Bruno Herrera,WhatsApp,Mercado Pago,2025,12,Dic 2025
+1792,2025-12-30,Mochila,Accesorios,1,26100,26100,Florencia Ortiz,Local,Efectivo,2025,12,Dic 2025
+1793,2025-12-30,Vestido de fiesta,Vestidos,1,32800,32800,Santiago Silva,Instagram,Tarjeta débito,2025,12,Dic 2025
+1794,2025-12-30,Remera básica,Remeras,1,7700,7700,Sofía Martínez,WhatsApp,Mercado Pago,2025,12,Dic 2025
+1795,2025-12-30,Cinturón cuero,Accesorios,1,11900,11900,Consumidor Final,Local,Tarjeta débito,2025,12,Dic 2025
+1796,2025-12-31,Zapatillas urbanas,Calzado,1,41500,41500,Diego López,WhatsApp,Mercado Pago,2025,12,Dic 2025
+1797,2025-12-31,Campera inflable,Camperas,2,41100,82200,Federico Álvarez,WhatsApp,Efectivo,2025,12,Dic 2025
+1798,2025-12-31,Gorra,Accesorios,1,7400,7400,Sofía Martínez,Local,Tarjeta crédito,2025,12,Dic 2025
+1799,2025-12-31,Campera inflable,Camperas,1,44000,44000,Santiago Silva,Local,Mercado Pago,2025,12,Dic 2025
+1800,2025-12-31,Ojotas,Calzado,3,8800,26400,Consumidor Final,Instagram,Mercado Pago,2025,12,Dic 2025
+1801,2025-12-31,Mochila,Accesorios,2,28200,56400,Agustina Ruiz,Local,Mercado Pago,2025,12,Dic 2025
+1802,2026-01-01,Vestido de fiesta,Vestidos,1,32200,32200,Micaela Rojas,Instagram,Transferencia,2026,1,Ene 2026
+1803,2026-01-01,Buzo oversize,Buzos,2,21700,43400,Nicolás Romero,WhatsApp,Efectivo,2026,1,Ene 2026
+1804,2026-01-01,Remera estampada,Remeras,1,10900,10900,Consumidor Final,WhatsApp,Mercado Pago,2026,1,Ene 2026
+1805,2026-01-01,Buzo canguro,Buzos,1,18500,18500,Valentina Sánchez,Local,Tarjeta débito,2026,1,Ene 2026
+1806,2026-01-02,Remera estampada,Remeras,1,10700,10700,María González,Local,Tarjeta crédito,2026,1,Ene 2026
+1807,2026-01-02,Campera inflable,Camperas,1,44300,44300,Diego López,Local,Tarjeta crédito,2026,1,Ene 2026
+1808,2026-01-03,Mochila,Accesorios,1,29000,29000,Sofía Martínez,Instagram,Transferencia,2026,1,Ene 2026
+1809,2026-01-03,Mochila,Accesorios,2,29000,58000,Tomás Molina,WhatsApp,Efectivo,2026,1,Ene 2026
+1810,2026-01-03,Cinturón cuero,Accesorios,1,12300,12300,Bruno Herrera,Instagram,Tarjeta débito,2026,1,Ene 2026
+1811,2026-01-03,Vestido de fiesta,Vestidos,1,35700,35700,Federico Álvarez,Local,Tarjeta débito,2026,1,Ene 2026
+1812,2026-01-04,Buzo canguro,Buzos,1,20000,20000,Julieta Suárez,Local,Efectivo,2026,1,Ene 2026
+1813,2026-01-04,Cinturón cuero,Accesorios,2,11800,23600,Juan Pérez,Local,Efectivo,2026,1,Ene 2026
+1814,2026-01-04,Buzo oversize,Buzos,2,20100,40200,Nicolás Romero,Local,Tarjeta crédito,2026,1,Ene 2026
+1815,2026-01-04,Jean clásico,Pantalones,1,24400,24400,Lucía Fernández,Local,Efectivo,2026,1,Ene 2026
+1816,2026-01-04,Gorra,Accesorios,1,7300,7300,Franco Castro,Instagram,Mercado Pago,2026,1,Ene 2026
+1817,2026-01-05,Campera de jean,Camperas,2,35000,70000,Micaela Rojas,Instagram,Tarjeta débito,2026,1,Ene 2026
+1818,2026-01-05,Jean chupín,Pantalones,2,25200,50400,Micaela Rojas,Local,Tarjeta crédito,2026,1,Ene 2026
+1819,2026-01-05,Mochila,Accesorios,1,28800,28800,Agustina Ruiz,Instagram,Efectivo,2026,1,Ene 2026
+1820,2026-01-06,Ojotas,Calzado,1,8900,8900,Valentina Sánchez,Local,Tarjeta débito,2026,1,Ene 2026
+1821,2026-01-06,Campera de jean,Camperas,1,36000,36000,Carlos Rodríguez,Local,Tarjeta débito,2026,1,Ene 2026
+1822,2026-01-06,Campera de jean,Camperas,1,39700,39700,Carlos Rodríguez,Local,Tarjeta crédito,2026,1,Ene 2026
+1823,2026-01-06,Vestido casual,Vestidos,1,20300,20300,Nicolás Romero,Instagram,Tarjeta débito,2026,1,Ene 2026
+1824,2026-01-06,Remera estampada,Remeras,1,11400,11400,Juan Pérez,Local,Transferencia,2026,1,Ene 2026
+1825,2026-01-07,Mochila,Accesorios,1,25600,25600,Consumidor Final,Local,Tarjeta débito,2026,1,Ene 2026
+1826,2026-01-07,Ojotas,Calzado,1,8900,8900,Florencia Ortiz,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1827,2026-01-07,Campera inflable,Camperas,2,45300,90600,Bruno Herrera,Local,Transferencia,2026,1,Ene 2026
+1828,2026-01-07,Vestido de fiesta,Vestidos,1,35800,35800,Florencia Ortiz,Local,Tarjeta crédito,2026,1,Ene 2026
+1829,2026-01-08,Buzo oversize,Buzos,1,21900,21900,Consumidor Final,WhatsApp,Tarjeta crédito,2026,1,Ene 2026
+1830,2026-01-08,Mochila,Accesorios,1,26000,26000,Agustina Ruiz,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1831,2026-01-09,Buzo oversize,Buzos,1,19100,19100,Consumidor Final,Instagram,Tarjeta débito,2026,1,Ene 2026
+1832,2026-01-10,Vestido de fiesta,Vestidos,1,32000,32000,Carlos Rodríguez,Local,Efectivo,2026,1,Ene 2026
+1833,2026-01-10,Gorra,Accesorios,1,7300,7300,Martín Díaz,Instagram,Mercado Pago,2026,1,Ene 2026
+1834,2026-01-10,Jean clásico,Pantalones,3,23000,69000,Antonella Gómez,Local,Transferencia,2026,1,Ene 2026
+1835,2026-01-10,Vestido de fiesta,Vestidos,2,34400,68800,Lucía Fernández,Instagram,Mercado Pago,2026,1,Ene 2026
+1836,2026-01-10,Cinturón cuero,Accesorios,1,12400,12400,Bruno Herrera,Local,Transferencia,2026,1,Ene 2026
+1837,2026-01-11,Jean clásico,Pantalones,1,23100,23100,Santiago Silva,Instagram,Transferencia,2026,1,Ene 2026
+1838,2026-01-11,Campera inflable,Camperas,1,45000,45000,Consumidor Final,WhatsApp,Mercado Pago,2026,1,Ene 2026
+1839,2026-01-11,Mochila,Accesorios,2,28600,57200,Sofía Martínez,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1840,2026-01-11,Buzo canguro,Buzos,1,18900,18900,Agustina Ruiz,Local,Tarjeta crédito,2026,1,Ene 2026
+1841,2026-01-11,Mochila,Accesorios,2,27000,54000,Federico Álvarez,WhatsApp,Mercado Pago,2026,1,Ene 2026
+1842,2026-01-11,Remera básica,Remeras,1,8300,8300,Nicolás Romero,Local,Mercado Pago,2026,1,Ene 2026
+1843,2026-01-11,Remera básica,Remeras,1,8400,8400,Carlos Rodríguez,WhatsApp,Efectivo,2026,1,Ene 2026
+1844,2026-01-12,Buzo canguro,Buzos,1,19600,19600,Tomás Molina,Instagram,Tarjeta débito,2026,1,Ene 2026
+1845,2026-01-12,Buzo oversize,Buzos,1,20600,20600,Federico Álvarez,WhatsApp,Tarjeta débito,2026,1,Ene 2026
+1846,2026-01-12,Campera de jean,Camperas,3,38000,114000,Consumidor Final,Local,Efectivo,2026,1,Ene 2026
+1847,2026-01-13,Jean clásico,Pantalones,2,23400,46800,Sofía Martínez,Local,Transferencia,2026,1,Ene 2026
+1848,2026-01-13,Cinturón cuero,Accesorios,1,12700,12700,Tomás Molina,Instagram,Transferencia,2026,1,Ene 2026
+1849,2026-01-13,Vestido casual,Vestidos,1,22500,22500,Martín Díaz,Local,Mercado Pago,2026,1,Ene 2026
+1850,2026-01-13,Remera básica,Remeras,1,8700,8700,Micaela Rojas,Local,Mercado Pago,2026,1,Ene 2026
+1851,2026-01-13,Vestido de fiesta,Vestidos,1,36600,36600,Federico Álvarez,Local,Transferencia,2026,1,Ene 2026
+1852,2026-01-14,Ojotas,Calzado,2,9400,18800,Camila Torres,Instagram,Efectivo,2026,1,Ene 2026
+1853,2026-01-14,Vestido casual,Vestidos,2,20100,40200,Lucía Fernández,Instagram,Mercado Pago,2026,1,Ene 2026
+1854,2026-01-14,Gorra,Accesorios,1,7400,7400,Bruno Herrera,Instagram,Transferencia,2026,1,Ene 2026
+1855,2026-01-15,Buzo oversize,Buzos,1,20400,20400,Tomás Molina,Local,Tarjeta crédito,2026,1,Ene 2026
+1856,2026-01-15,Campera de jean,Camperas,1,38200,38200,Nicolás Romero,Instagram,Mercado Pago,2026,1,Ene 2026
+1857,2026-01-15,Campera de jean,Camperas,1,36900,36900,Juan Pérez,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1858,2026-01-16,Campera de jean,Camperas,1,34900,34900,Consumidor Final,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1859,2026-01-16,Jean clásico,Pantalones,1,22600,22600,Carlos Rodríguez,Instagram,Mercado Pago,2026,1,Ene 2026
+1860,2026-01-16,Ojotas,Calzado,1,8700,8700,Camila Torres,Instagram,Tarjeta débito,2026,1,Ene 2026
+1861,2026-01-16,Buzo oversize,Buzos,1,20600,20600,Consumidor Final,WhatsApp,Tarjeta débito,2026,1,Ene 2026
+1862,2026-01-17,Vestido de fiesta,Vestidos,2,32300,64600,Tomás Molina,Instagram,Tarjeta débito,2026,1,Ene 2026
+1863,2026-01-17,Zapatillas urbanas,Calzado,1,41800,41800,Federico Álvarez,Local,Tarjeta crédito,2026,1,Ene 2026
+1864,2026-01-17,Gorra,Accesorios,2,6800,13600,Franco Castro,Local,Mercado Pago,2026,1,Ene 2026
+1865,2026-01-18,Buzo canguro,Buzos,1,18000,18000,María González,Local,Transferencia,2026,1,Ene 2026
+1866,2026-01-18,Buzo canguro,Buzos,1,20400,20400,Juan Pérez,Local,Mercado Pago,2026,1,Ene 2026
+1867,2026-01-18,Zapatillas urbanas,Calzado,1,43100,43100,Camila Torres,Local,Tarjeta crédito,2026,1,Ene 2026
+1868,2026-01-18,Gorra,Accesorios,1,7500,7500,Martín Díaz,Instagram,Mercado Pago,2026,1,Ene 2026
+1869,2026-01-18,Gorra,Accesorios,1,7100,7100,Diego López,Local,Efectivo,2026,1,Ene 2026
+1870,2026-01-18,Zapatillas urbanas,Calzado,1,38200,38200,Micaela Rojas,Local,Transferencia,2026,1,Ene 2026
+1871,2026-01-19,Campera inflable,Camperas,1,42400,42400,María González,Instagram,Efectivo,2026,1,Ene 2026
+1872,2026-01-19,Vestido de fiesta,Vestidos,1,35900,35900,Carlos Rodríguez,Instagram,Efectivo,2026,1,Ene 2026
+1873,2026-01-19,Remera estampada,Remeras,2,10100,20200,Antonella Gómez,WhatsApp,Tarjeta débito,2026,1,Ene 2026
+1874,2026-01-19,Mochila,Accesorios,1,26000,26000,Lucía Fernández,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1875,2026-01-19,Gorra,Accesorios,1,7800,7800,Agustina Ruiz,Local,Efectivo,2026,1,Ene 2026
+1876,2026-01-20,Buzo canguro,Buzos,1,17700,17700,Camila Torres,Local,Efectivo,2026,1,Ene 2026
+1877,2026-01-20,Buzo oversize,Buzos,3,19500,58500,Franco Castro,Local,Mercado Pago,2026,1,Ene 2026
+1878,2026-01-20,Gorra,Accesorios,1,7400,7400,Consumidor Final,Local,Tarjeta crédito,2026,1,Ene 2026
+1879,2026-01-21,Remera estampada,Remeras,1,10000,10000,Florencia Ortiz,Local,Transferencia,2026,1,Ene 2026
+1880,2026-01-21,Jean clásico,Pantalones,1,21600,21600,Consumidor Final,Local,Tarjeta débito,2026,1,Ene 2026
+1881,2026-01-21,Ojotas,Calzado,1,8600,8600,Consumidor Final,Instagram,Transferencia,2026,1,Ene 2026
+1882,2026-01-22,Ojotas,Calzado,2,9200,18400,María González,Local,Transferencia,2026,1,Ene 2026
+1883,2026-01-23,Remera estampada,Remeras,1,11400,11400,Nicolás Romero,Local,Efectivo,2026,1,Ene 2026
+1884,2026-01-23,Campera inflable,Camperas,1,47000,47000,Consumidor Final,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1885,2026-01-23,Zapatillas urbanas,Calzado,1,41300,41300,Valentina Sánchez,Local,Transferencia,2026,1,Ene 2026
+1886,2026-01-24,Campera inflable,Camperas,1,46500,46500,Valentina Sánchez,Local,Tarjeta débito,2026,1,Ene 2026
+1887,2026-01-24,Remera básica,Remeras,2,8400,16800,Lucía Fernández,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1888,2026-01-24,Buzo oversize,Buzos,1,21500,21500,María González,Local,Efectivo,2026,1,Ene 2026
+1889,2026-01-24,Campera inflable,Camperas,2,40800,81600,Consumidor Final,WhatsApp,Mercado Pago,2026,1,Ene 2026
+1890,2026-01-24,Buzo oversize,Buzos,2,21600,43200,Antonella Gómez,Local,Efectivo,2026,1,Ene 2026
+1891,2026-01-24,Remera básica,Remeras,2,8300,16600,Consumidor Final,WhatsApp,Mercado Pago,2026,1,Ene 2026
+1892,2026-01-24,Remera básica,Remeras,1,8500,8500,Consumidor Final,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1893,2026-01-25,Cinturón cuero,Accesorios,2,12100,24200,Antonella Gómez,Local,Efectivo,2026,1,Ene 2026
+1894,2026-01-25,Remera estampada,Remeras,1,11200,11200,Valentina Sánchez,Local,Transferencia,2026,1,Ene 2026
+1895,2026-01-25,Campera inflable,Camperas,1,45100,45100,Agustina Ruiz,WhatsApp,Tarjeta débito,2026,1,Ene 2026
+1896,2026-01-25,Gorra,Accesorios,1,6900,6900,Consumidor Final,Local,Transferencia,2026,1,Ene 2026
+1897,2026-01-26,Jean clásico,Pantalones,1,24900,24900,Consumidor Final,Local,Mercado Pago,2026,1,Ene 2026
+1898,2026-01-26,Buzo canguro,Buzos,2,17600,35200,María González,Local,Efectivo,2026,1,Ene 2026
+1899,2026-01-26,Ojotas,Calzado,1,9300,9300,Franco Castro,Instagram,Tarjeta débito,2026,1,Ene 2026
+1900,2026-01-26,Jean clásico,Pantalones,1,23500,23500,Diego López,Instagram,Efectivo,2026,1,Ene 2026
+1901,2026-01-27,Vestido de fiesta,Vestidos,1,34100,34100,Nicolás Romero,Local,Efectivo,2026,1,Ene 2026
+1902,2026-01-27,Vestido casual,Vestidos,1,20200,20200,Carlos Rodríguez,Instagram,Mercado Pago,2026,1,Ene 2026
+1903,2026-01-27,Vestido casual,Vestidos,1,22300,22300,Camila Torres,Local,Efectivo,2026,1,Ene 2026
+1904,2026-01-27,Gorra,Accesorios,1,7700,7700,Franco Castro,Local,Efectivo,2026,1,Ene 2026
+1905,2026-01-28,Jean chupín,Pantalones,1,24700,24700,Florencia Ortiz,Local,Efectivo,2026,1,Ene 2026
+1906,2026-01-28,Mochila,Accesorios,1,25900,25900,Consumidor Final,Instagram,Efectivo,2026,1,Ene 2026
+1907,2026-01-28,Mochila,Accesorios,1,27100,27100,Tomás Molina,Local,Tarjeta crédito,2026,1,Ene 2026
+1908,2026-01-28,Jean chupín,Pantalones,2,24700,49400,Consumidor Final,Instagram,Tarjeta débito,2026,1,Ene 2026
+1909,2026-01-29,Buzo canguro,Buzos,2,17800,35600,Juan Pérez,WhatsApp,Tarjeta débito,2026,1,Ene 2026
+1910,2026-01-29,Jean chupín,Pantalones,2,25200,50400,Sofía Martínez,Instagram,Tarjeta débito,2026,1,Ene 2026
+1911,2026-01-29,Zapatillas urbanas,Calzado,1,39500,39500,Juan Pérez,Instagram,Efectivo,2026,1,Ene 2026
+1912,2026-01-30,Buzo oversize,Buzos,1,19400,19400,Nicolás Romero,Instagram,Mercado Pago,2026,1,Ene 2026
+1913,2026-01-30,Mochila,Accesorios,1,29300,29300,Lucía Fernández,Local,Mercado Pago,2026,1,Ene 2026
+1914,2026-01-30,Buzo oversize,Buzos,2,19600,39200,Florencia Ortiz,Local,Transferencia,2026,1,Ene 2026
+1915,2026-01-31,Ojotas,Calzado,2,8400,16800,Martín Díaz,WhatsApp,Mercado Pago,2026,1,Ene 2026
+1916,2026-01-31,Jean clásico,Pantalones,2,24800,49600,Juan Pérez,Local,Transferencia,2026,1,Ene 2026
+1917,2026-01-31,Ojotas,Calzado,2,8100,16200,Franco Castro,WhatsApp,Efectivo,2026,1,Ene 2026
+1918,2026-01-31,Buzo oversize,Buzos,1,19200,19200,Tomás Molina,WhatsApp,Tarjeta débito,2026,1,Ene 2026
+1919,2026-01-31,Campera inflable,Camperas,1,44900,44900,Consumidor Final,Instagram,Tarjeta crédito,2026,1,Ene 2026
+1920,2026-01-31,Jean clásico,Pantalones,2,24700,49400,María González,WhatsApp,Transferencia,2026,1,Ene 2026
+1921,2026-02-01,Buzo canguro,Buzos,1,20100,20100,María González,WhatsApp,Efectivo,2026,2,Feb 2026
+1922,2026-02-01,Buzo canguro,Buzos,2,18500,37000,Consumidor Final,Local,Tarjeta crédito,2026,2,Feb 2026
+1923,2026-02-01,Ojotas,Calzado,2,8800,17600,Lucía Fernández,Instagram,Tarjeta crédito,2026,2,Feb 2026
+1924,2026-02-01,Ojotas,Calzado,2,8800,17600,Federico Álvarez,WhatsApp,Efectivo,2026,2,Feb 2026
+1925,2026-02-01,Buzo canguro,Buzos,1,19400,19400,Diego López,Instagram,Efectivo,2026,2,Feb 2026
+1926,2026-02-01,Vestido casual,Vestidos,2,20500,41000,Martín Díaz,Instagram,Transferencia,2026,2,Feb 2026
+1927,2026-02-02,Ojotas,Calzado,2,8900,17800,Valentina Sánchez,Instagram,Tarjeta débito,2026,2,Feb 2026
+1928,2026-02-03,Vestido casual,Vestidos,1,20700,20700,Consumidor Final,Local,Transferencia,2026,2,Feb 2026
+1929,2026-02-04,Vestido casual,Vestidos,1,20200,20200,Bruno Herrera,WhatsApp,Transferencia,2026,2,Feb 2026
+1930,2026-02-04,Vestido de fiesta,Vestidos,1,35000,35000,Lucía Fernández,Local,Transferencia,2026,2,Feb 2026
+1931,2026-02-04,Remera estampada,Remeras,1,11400,11400,Lucía Fernández,Local,Tarjeta crédito,2026,2,Feb 2026
+1932,2026-02-04,Remera estampada,Remeras,1,10700,10700,Micaela Rojas,WhatsApp,Efectivo,2026,2,Feb 2026
+1933,2026-02-04,Campera de jean,Camperas,1,38100,38100,Franco Castro,Local,Transferencia,2026,2,Feb 2026
+1934,2026-02-04,Ojotas,Calzado,1,8500,8500,Consumidor Final,WhatsApp,Tarjeta débito,2026,2,Feb 2026
+1935,2026-02-05,Campera inflable,Camperas,1,42800,42800,Agustina Ruiz,Instagram,Mercado Pago,2026,2,Feb 2026
+1936,2026-02-05,Cinturón cuero,Accesorios,1,12100,12100,Nicolás Romero,Local,Tarjeta crédito,2026,2,Feb 2026
+1937,2026-02-05,Jean chupín,Pantalones,1,27200,27200,Juan Pérez,Local,Tarjeta crédito,2026,2,Feb 2026
+1938,2026-02-05,Buzo oversize,Buzos,3,20800,62400,Bruno Herrera,Local,Tarjeta débito,2026,2,Feb 2026
+1939,2026-02-06,Cinturón cuero,Accesorios,2,12900,25800,Diego López,Local,Efectivo,2026,2,Feb 2026
+1940,2026-02-07,Buzo oversize,Buzos,1,19500,19500,Juan Pérez,Instagram,Tarjeta crédito,2026,2,Feb 2026
+1941,2026-02-07,Jean clásico,Pantalones,1,23500,23500,Nicolás Romero,Local,Efectivo,2026,2,Feb 2026
+1942,2026-02-07,Buzo canguro,Buzos,2,19800,39600,Agustina Ruiz,Local,Mercado Pago,2026,2,Feb 2026
+1943,2026-02-07,Vestido casual,Vestidos,1,22100,22100,Nicolás Romero,WhatsApp,Mercado Pago,2026,2,Feb 2026
+1944,2026-02-07,Zapatillas urbanas,Calzado,1,41400,41400,Florencia Ortiz,Local,Efectivo,2026,2,Feb 2026
+1945,2026-02-07,Ojotas,Calzado,1,8200,8200,Carlos Rodríguez,Local,Transferencia,2026,2,Feb 2026
+1946,2026-02-07,Vestido de fiesta,Vestidos,2,33800,67600,Consumidor Final,Local,Tarjeta débito,2026,2,Feb 2026
+1947,2026-02-08,Vestido de fiesta,Vestidos,1,35600,35600,Valentina Sánchez,Local,Mercado Pago,2026,2,Feb 2026
+1948,2026-02-08,Cinturón cuero,Accesorios,1,12500,12500,Consumidor Final,Instagram,Tarjeta débito,2026,2,Feb 2026
+1949,2026-02-08,Buzo oversize,Buzos,1,20800,20800,Federico Álvarez,Local,Transferencia,2026,2,Feb 2026
+1950,2026-02-08,Campera inflable,Camperas,1,40600,40600,Nicolás Romero,WhatsApp,Mercado Pago,2026,2,Feb 2026
+1951,2026-02-08,Remera estampada,Remeras,1,11400,11400,Tomás Molina,WhatsApp,Tarjeta crédito,2026,2,Feb 2026
+1952,2026-02-09,Mochila,Accesorios,1,29000,29000,Consumidor Final,Instagram,Efectivo,2026,2,Feb 2026
+1953,2026-02-09,Jean clásico,Pantalones,1,23300,23300,Agustina Ruiz,Local,Mercado Pago,2026,2,Feb 2026
+1954,2026-02-09,Gorra,Accesorios,1,6800,6800,Camila Torres,Local,Mercado Pago,2026,2,Feb 2026
+1955,2026-02-09,Buzo oversize,Buzos,2,21300,42600,Consumidor Final,Local,Transferencia,2026,2,Feb 2026
+1956,2026-02-10,Campera de jean,Camperas,1,34400,34400,Antonella Gómez,Local,Mercado Pago,2026,2,Feb 2026
+1957,2026-02-10,Ojotas,Calzado,1,8100,8100,Consumidor Final,Local,Transferencia,2026,2,Feb 2026
+1958,2026-02-10,Remera estampada,Remeras,1,11400,11400,Franco Castro,WhatsApp,Tarjeta débito,2026,2,Feb 2026
+1959,2026-02-10,Remera básica,Remeras,1,8000,8000,Lucía Fernández,Instagram,Tarjeta crédito,2026,2,Feb 2026
+1960,2026-02-10,Vestido de fiesta,Vestidos,1,33800,33800,Franco Castro,WhatsApp,Efectivo,2026,2,Feb 2026
+1961,2026-02-11,Remera básica,Remeras,2,7900,15800,Consumidor Final,Local,Tarjeta débito,2026,2,Feb 2026
+1962,2026-02-12,Campera inflable,Camperas,1,42300,42300,Federico Álvarez,Local,Tarjeta crédito,2026,2,Feb 2026
+1963,2026-02-12,Vestido casual,Vestidos,1,20100,20100,Diego López,Instagram,Mercado Pago,2026,2,Feb 2026
+1964,2026-02-12,Gorra,Accesorios,1,7100,7100,Nicolás Romero,Local,Tarjeta crédito,2026,2,Feb 2026
+1965,2026-02-12,Remera estampada,Remeras,1,10500,10500,Consumidor Final,Local,Tarjeta crédito,2026,2,Feb 2026
+1966,2026-02-13,Campera inflable,Camperas,2,41600,83200,Micaela Rojas,Local,Tarjeta débito,2026,2,Feb 2026
+1967,2026-02-14,Gorra,Accesorios,2,7400,14800,Micaela Rojas,WhatsApp,Mercado Pago,2026,2,Feb 2026
+1968,2026-02-14,Ojotas,Calzado,2,8300,16600,Lucía Fernández,Local,Tarjeta débito,2026,2,Feb 2026
+1969,2026-02-14,Mochila,Accesorios,1,26700,26700,Sofía Martínez,WhatsApp,Mercado Pago,2026,2,Feb 2026
+1970,2026-02-14,Vestido casual,Vestidos,2,20900,41800,María González,Instagram,Efectivo,2026,2,Feb 2026
+1971,2026-02-14,Jean chupín,Pantalones,1,26100,26100,Nicolás Romero,Local,Tarjeta débito,2026,2,Feb 2026
+1972,2026-02-14,Remera estampada,Remeras,1,11200,11200,Consumidor Final,Local,Transferencia,2026,2,Feb 2026
+1973,2026-02-15,Remera estampada,Remeras,1,11000,11000,Franco Castro,Local,Tarjeta crédito,2026,2,Feb 2026
+1974,2026-02-15,Remera básica,Remeras,1,8500,8500,Carlos Rodríguez,WhatsApp,Tarjeta débito,2026,2,Feb 2026
+1975,2026-02-15,Vestido de fiesta,Vestidos,2,32500,65000,Lucía Fernández,Local,Tarjeta crédito,2026,2,Feb 2026
+1976,2026-02-15,Vestido de fiesta,Vestidos,1,32300,32300,Santiago Silva,Local,Mercado Pago,2026,2,Feb 2026
+1977,2026-02-15,Remera estampada,Remeras,1,10900,10900,Consumidor Final,Local,Tarjeta débito,2026,2,Feb 2026
+1978,2026-02-16,Campera de jean,Camperas,1,38500,38500,Consumidor Final,Instagram,Tarjeta débito,2026,2,Feb 2026
+1979,2026-02-16,Mochila,Accesorios,1,28200,28200,Antonella Gómez,Local,Efectivo,2026,2,Feb 2026
+1980,2026-02-17,Buzo canguro,Buzos,1,19100,19100,Agustina Ruiz,Local,Efectivo,2026,2,Feb 2026
+1981,2026-02-17,Vestido casual,Vestidos,1,22300,22300,Bruno Herrera,Instagram,Efectivo,2026,2,Feb 2026
+1982,2026-02-17,Campera inflable,Camperas,1,43100,43100,Nicolás Romero,Instagram,Transferencia,2026,2,Feb 2026
+1983,2026-02-18,Jean chupín,Pantalones,1,24500,24500,Valentina Sánchez,WhatsApp,Transferencia,2026,2,Feb 2026
+1984,2026-02-18,Zapatillas urbanas,Calzado,1,37900,37900,Carlos Rodríguez,Local,Mercado Pago,2026,2,Feb 2026
+1985,2026-02-18,Zapatillas urbanas,Calzado,1,38600,38600,Antonella Gómez,WhatsApp,Tarjeta débito,2026,2,Feb 2026
+1986,2026-02-18,Remera estampada,Remeras,1,10200,10200,Julieta Suárez,Local,Transferencia,2026,2,Feb 2026
+1987,2026-02-19,Ojotas,Calzado,2,8900,17800,Julieta Suárez,Local,Mercado Pago,2026,2,Feb 2026
+1988,2026-02-19,Buzo canguro,Buzos,3,19000,57000,Consumidor Final,Instagram,Efectivo,2026,2,Feb 2026
+1989,2026-02-19,Campera de jean,Camperas,1,35500,35500,María González,Local,Efectivo,2026,2,Feb 2026
+1990,2026-02-20,Cinturón cuero,Accesorios,1,12500,12500,Julieta Suárez,Instagram,Tarjeta crédito,2026,2,Feb 2026
+1991,2026-02-20,Jean clásico,Pantalones,1,23800,23800,Micaela Rojas,Instagram,Transferencia,2026,2,Feb 2026
+1992,2026-02-21,Buzo oversize,Buzos,1,20600,20600,Bruno Herrera,Instagram,Efectivo,2026,2,Feb 2026
+1993,2026-02-21,Buzo canguro,Buzos,2,17900,35800,Julieta Suárez,Local,Efectivo,2026,2,Feb 2026
+1994,2026-02-21,Remera básica,Remeras,1,8500,8500,Diego López,Instagram,Tarjeta débito,2026,2,Feb 2026
+1995,2026-02-21,Campera de jean,Camperas,2,37000,74000,Consumidor Final,Instagram,Mercado Pago,2026,2,Feb 2026
+1996,2026-02-21,Zapatillas urbanas,Calzado,1,40800,40800,Diego López,Instagram,Transferencia,2026,2,Feb 2026
+1997,2026-02-21,Campera de jean,Camperas,1,39700,39700,Federico Álvarez,Instagram,Tarjeta crédito,2026,2,Feb 2026
+1998,2026-02-22,Campera inflable,Camperas,1,44500,44500,Consumidor Final,Local,Mercado Pago,2026,2,Feb 2026
+1999,2026-02-22,Remera básica,Remeras,2,8400,16800,Tomás Molina,Local,Tarjeta crédito,2026,2,Feb 2026
+2000,2026-02-22,Buzo canguro,Buzos,1,19500,19500,Nicolás Romero,Instagram,Efectivo,2026,2,Feb 2026
+2001,2026-02-22,Cinturón cuero,Accesorios,1,11900,11900,Consumidor Final,Local,Transferencia,2026,2,Feb 2026
+2002,2026-02-22,Zapatillas urbanas,Calzado,2,41400,82800,Camila Torres,Local,Transferencia,2026,2,Feb 2026
+2003,2026-02-22,Vestido de fiesta,Vestidos,1,33200,33200,Agustina Ruiz,Instagram,Transferencia,2026,2,Feb 2026
+2004,2026-02-22,Remera estampada,Remeras,1,10200,10200,Agustina Ruiz,Local,Tarjeta crédito,2026,2,Feb 2026
+2005,2026-02-23,Buzo oversize,Buzos,1,22000,22000,Consumidor Final,WhatsApp,Tarjeta débito,2026,2,Feb 2026
+2006,2026-02-23,Campera de jean,Camperas,1,35900,35900,Martín Díaz,Instagram,Efectivo,2026,2,Feb 2026
+2007,2026-02-24,Ojotas,Calzado,2,8200,16400,Lucía Fernández,Instagram,Mercado Pago,2026,2,Feb 2026
+2008,2026-02-24,Buzo oversize,Buzos,1,20000,20000,Consumidor Final,WhatsApp,Mercado Pago,2026,2,Feb 2026
+2009,2026-02-24,Gorra,Accesorios,1,7500,7500,Tomás Molina,Local,Mercado Pago,2026,2,Feb 2026
+2010,2026-02-24,Vestido casual,Vestidos,1,22300,22300,María González,Instagram,Mercado Pago,2026,2,Feb 2026
+2011,2026-02-25,Jean chupín,Pantalones,1,26600,26600,Camila Torres,WhatsApp,Mercado Pago,2026,2,Feb 2026
+2012,2026-02-25,Gorra,Accesorios,1,7600,7600,Antonella Gómez,Instagram,Efectivo,2026,2,Feb 2026
+2013,2026-02-25,Vestido casual,Vestidos,1,21300,21300,Nicolás Romero,WhatsApp,Transferencia,2026,2,Feb 2026
+2014,2026-02-25,Campera inflable,Camperas,2,46700,93400,Tomás Molina,Local,Tarjeta crédito,2026,2,Feb 2026
+2015,2026-02-26,Zapatillas urbanas,Calzado,1,42100,42100,Martín Díaz,Local,Tarjeta débito,2026,2,Feb 2026
+2016,2026-02-27,Campera de jean,Camperas,1,37400,37400,Juan Pérez,Local,Tarjeta crédito,2026,2,Feb 2026
+2017,2026-02-27,Jean clásico,Pantalones,1,24400,24400,Bruno Herrera,Local,Efectivo,2026,2,Feb 2026
+2018,2026-02-27,Ojotas,Calzado,1,8100,8100,Lucía Fernández,Local,Tarjeta crédito,2026,2,Feb 2026
+2019,2026-02-27,Cinturón cuero,Accesorios,1,13000,13000,Lucía Fernández,Local,Tarjeta débito,2026,2,Feb 2026
+2020,2026-02-27,Jean chupín,Pantalones,1,26300,26300,Micaela Rojas,Instagram,Mercado Pago,2026,2,Feb 2026
+2021,2026-02-28,Gorra,Accesorios,2,7000,14000,Martín Díaz,Instagram,Tarjeta crédito,2026,2,Feb 2026
+2022,2026-02-28,Campera inflable,Camperas,2,45500,91000,Martín Díaz,WhatsApp,Tarjeta débito,2026,2,Feb 2026
+2023,2026-02-28,Jean clásico,Pantalones,1,22400,22400,Tomás Molina,Local,Mercado Pago,2026,2,Feb 2026
+2024,2026-02-28,Remera básica,Remeras,1,8100,8100,Agustina Ruiz,Instagram,Transferencia,2026,2,Feb 2026
+2025,2026-02-28,Zapatillas urbanas,Calzado,1,39500,39500,Sofía Martínez,Local,Tarjeta crédito,2026,2,Feb 2026
+2026,2026-02-28,Cinturón cuero,Accesorios,1,12500,12500,Juan Pérez,WhatsApp,Efectivo,2026,2,Feb 2026
+2027,2026-03-01,Jean chupín,Pantalones,1,24900,24900,Federico Álvarez,WhatsApp,Efectivo,2026,3,Mar 2026
+2028,2026-03-01,Vestido casual,Vestidos,2,22600,45200,Julieta Suárez,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2029,2026-03-01,Campera de jean,Camperas,1,38900,38900,Valentina Sánchez,WhatsApp,Tarjeta débito,2026,3,Mar 2026
+2030,2026-03-01,Mochila,Accesorios,1,26500,26500,Tomás Molina,Instagram,Tarjeta crédito,2026,3,Mar 2026
+2031,2026-03-01,Cinturón cuero,Accesorios,1,12700,12700,Tomás Molina,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2032,2026-03-02,Ojotas,Calzado,1,9300,9300,Consumidor Final,Local,Tarjeta crédito,2026,3,Mar 2026
+2033,2026-03-03,Vestido de fiesta,Vestidos,2,34400,68800,María González,Instagram,Tarjeta débito,2026,3,Mar 2026
+2034,2026-03-03,Zapatillas urbanas,Calzado,1,41800,41800,Consumidor Final,Local,Tarjeta crédito,2026,3,Mar 2026
+2035,2026-03-04,Campera inflable,Camperas,1,41200,41200,Sofía Martínez,WhatsApp,Transferencia,2026,3,Mar 2026
+2036,2026-03-04,Gorra,Accesorios,2,7300,14600,Sofía Martínez,Local,Mercado Pago,2026,3,Mar 2026
+2037,2026-03-04,Cinturón cuero,Accesorios,1,11800,11800,Consumidor Final,Local,Transferencia,2026,3,Mar 2026
+2038,2026-03-05,Mochila,Accesorios,1,25300,25300,Consumidor Final,Instagram,Mercado Pago,2026,3,Mar 2026
+2039,2026-03-05,Zapatillas urbanas,Calzado,1,38400,38400,Camila Torres,Instagram,Tarjeta débito,2026,3,Mar 2026
+2040,2026-03-05,Remera básica,Remeras,1,8200,8200,Lucía Fernández,WhatsApp,Tarjeta débito,2026,3,Mar 2026
+2041,2026-03-05,Vestido de fiesta,Vestidos,1,35300,35300,Florencia Ortiz,WhatsApp,Transferencia,2026,3,Mar 2026
+2042,2026-03-05,Remera estampada,Remeras,1,10200,10200,Camila Torres,Local,Transferencia,2026,3,Mar 2026
+2043,2026-03-05,Buzo canguro,Buzos,1,20100,20100,Nicolás Romero,Instagram,Tarjeta débito,2026,3,Mar 2026
+2044,2026-03-06,Buzo canguro,Buzos,1,19900,19900,Consumidor Final,WhatsApp,Tarjeta débito,2026,3,Mar 2026
+2045,2026-03-07,Campera inflable,Camperas,1,44900,44900,Consumidor Final,Instagram,Tarjeta crédito,2026,3,Mar 2026
+2046,2026-03-07,Ojotas,Calzado,1,8400,8400,Tomás Molina,Instagram,Tarjeta crédito,2026,3,Mar 2026
+2047,2026-03-07,Remera estampada,Remeras,1,10000,10000,Martín Díaz,Instagram,Tarjeta crédito,2026,3,Mar 2026
+2048,2026-03-07,Vestido de fiesta,Vestidos,2,36600,73200,Juan Pérez,Local,Mercado Pago,2026,3,Mar 2026
+2049,2026-03-08,Vestido de fiesta,Vestidos,1,36600,36600,Sofía Martínez,WhatsApp,Mercado Pago,2026,3,Mar 2026
+2050,2026-03-08,Remera básica,Remeras,1,8000,8000,Agustina Ruiz,WhatsApp,Tarjeta débito,2026,3,Mar 2026
+2051,2026-03-08,Remera estampada,Remeras,1,10800,10800,Consumidor Final,Local,Efectivo,2026,3,Mar 2026
+2052,2026-03-08,Jean clásico,Pantalones,1,25100,25100,Federico Álvarez,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2053,2026-03-09,Cinturón cuero,Accesorios,2,11700,23400,Diego López,Local,Transferencia,2026,3,Mar 2026
+2054,2026-03-09,Gorra,Accesorios,3,7400,22200,Florencia Ortiz,Local,Tarjeta débito,2026,3,Mar 2026
+2055,2026-03-09,Remera básica,Remeras,1,7700,7700,Florencia Ortiz,Local,Transferencia,2026,3,Mar 2026
+2056,2026-03-09,Remera básica,Remeras,1,8900,8900,Florencia Ortiz,Instagram,Tarjeta débito,2026,3,Mar 2026
+2057,2026-03-10,Remera estampada,Remeras,1,10200,10200,Diego López,Instagram,Tarjeta crédito,2026,3,Mar 2026
+2058,2026-03-10,Vestido de fiesta,Vestidos,2,34600,69200,María González,Instagram,Mercado Pago,2026,3,Mar 2026
+2059,2026-03-10,Jean clásico,Pantalones,1,21900,21900,Carlos Rodríguez,WhatsApp,Efectivo,2026,3,Mar 2026
+2060,2026-03-11,Remera estampada,Remeras,1,10900,10900,Agustina Ruiz,Local,Efectivo,2026,3,Mar 2026
+2061,2026-03-11,Buzo oversize,Buzos,2,21000,42000,Camila Torres,Instagram,Efectivo,2026,3,Mar 2026
+2062,2026-03-12,Campera inflable,Camperas,3,44900,134700,Agustina Ruiz,WhatsApp,Mercado Pago,2026,3,Mar 2026
+2063,2026-03-12,Jean clásico,Pantalones,1,21800,21800,Agustina Ruiz,Instagram,Efectivo,2026,3,Mar 2026
+2064,2026-03-12,Vestido casual,Vestidos,3,21100,63300,Diego López,Local,Transferencia,2026,3,Mar 2026
+2065,2026-03-12,Remera estampada,Remeras,1,10200,10200,Julieta Suárez,Local,Tarjeta débito,2026,3,Mar 2026
+2066,2026-03-12,Remera estampada,Remeras,1,11200,11200,Nicolás Romero,WhatsApp,Mercado Pago,2026,3,Mar 2026
+2067,2026-03-12,Jean clásico,Pantalones,1,21900,21900,Valentina Sánchez,Instagram,Transferencia,2026,3,Mar 2026
+2068,2026-03-12,Buzo oversize,Buzos,1,20800,20800,Consumidor Final,Local,Tarjeta crédito,2026,3,Mar 2026
+2069,2026-03-13,Buzo canguro,Buzos,1,19100,19100,Martín Díaz,Instagram,Tarjeta débito,2026,3,Mar 2026
+2070,2026-03-13,Mochila,Accesorios,1,27800,27800,Nicolás Romero,Instagram,Efectivo,2026,3,Mar 2026
+2071,2026-03-14,Mochila,Accesorios,2,26500,53000,Nicolás Romero,WhatsApp,Mercado Pago,2026,3,Mar 2026
+2072,2026-03-14,Buzo canguro,Buzos,1,17700,17700,Consumidor Final,Local,Efectivo,2026,3,Mar 2026
+2073,2026-03-14,Vestido casual,Vestidos,1,20100,20100,Antonella Gómez,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2074,2026-03-14,Campera de jean,Camperas,1,38600,38600,Consumidor Final,Instagram,Transferencia,2026,3,Mar 2026
+2075,2026-03-14,Jean clásico,Pantalones,2,24600,49200,Consumidor Final,Local,Tarjeta crédito,2026,3,Mar 2026
+2076,2026-03-15,Gorra,Accesorios,1,7500,7500,Diego López,Local,Efectivo,2026,3,Mar 2026
+2077,2026-03-15,Ojotas,Calzado,3,8500,25500,Tomás Molina,Instagram,Efectivo,2026,3,Mar 2026
+2078,2026-03-15,Buzo canguro,Buzos,1,18100,18100,Julieta Suárez,WhatsApp,Mercado Pago,2026,3,Mar 2026
+2079,2026-03-15,Ojotas,Calzado,1,8900,8900,Federico Álvarez,Instagram,Transferencia,2026,3,Mar 2026
+2080,2026-03-15,Gorra,Accesorios,1,6900,6900,Consumidor Final,Local,Efectivo,2026,3,Mar 2026
+2081,2026-03-16,Ojotas,Calzado,3,9300,27900,Sofía Martínez,Instagram,Transferencia,2026,3,Mar 2026
+2082,2026-03-16,Cinturón cuero,Accesorios,1,12700,12700,Nicolás Romero,Instagram,Tarjeta débito,2026,3,Mar 2026
+2083,2026-03-16,Buzo oversize,Buzos,1,19300,19300,Florencia Ortiz,WhatsApp,Transferencia,2026,3,Mar 2026
+2084,2026-03-16,Remera básica,Remeras,2,8400,16800,Antonella Gómez,WhatsApp,Transferencia,2026,3,Mar 2026
+2085,2026-03-16,Remera básica,Remeras,1,7800,7800,Tomás Molina,WhatsApp,Transferencia,2026,3,Mar 2026
+2086,2026-03-16,Ojotas,Calzado,1,9100,9100,Juan Pérez,Instagram,Transferencia,2026,3,Mar 2026
+2087,2026-03-17,Mochila,Accesorios,1,28600,28600,Juan Pérez,Instagram,Transferencia,2026,3,Mar 2026
+2088,2026-03-18,Vestido de fiesta,Vestidos,1,31800,31800,Tomás Molina,WhatsApp,Efectivo,2026,3,Mar 2026
+2089,2026-03-18,Buzo oversize,Buzos,1,20900,20900,Tomás Molina,Local,Tarjeta crédito,2026,3,Mar 2026
+2090,2026-03-18,Ojotas,Calzado,1,8600,8600,Martín Díaz,Instagram,Tarjeta crédito,2026,3,Mar 2026
+2091,2026-03-19,Ojotas,Calzado,1,8300,8300,Julieta Suárez,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2092,2026-03-19,Gorra,Accesorios,1,7800,7800,Valentina Sánchez,Local,Efectivo,2026,3,Mar 2026
+2093,2026-03-19,Zapatillas urbanas,Calzado,1,38900,38900,Franco Castro,Local,Transferencia,2026,3,Mar 2026
+2094,2026-03-19,Buzo oversize,Buzos,1,19600,19600,Consumidor Final,Local,Tarjeta crédito,2026,3,Mar 2026
+2095,2026-03-19,Campera inflable,Camperas,1,41700,41700,Micaela Rojas,Local,Efectivo,2026,3,Mar 2026
+2096,2026-03-19,Campera inflable,Camperas,1,44700,44700,Consumidor Final,Local,Tarjeta crédito,2026,3,Mar 2026
+2097,2026-03-20,Campera inflable,Camperas,2,45700,91400,Bruno Herrera,Local,Tarjeta débito,2026,3,Mar 2026
+2098,2026-03-20,Cinturón cuero,Accesorios,1,12200,12200,Juan Pérez,WhatsApp,Transferencia,2026,3,Mar 2026
+2099,2026-03-21,Gorra,Accesorios,1,6900,6900,Carlos Rodríguez,WhatsApp,Efectivo,2026,3,Mar 2026
+2100,2026-03-21,Vestido casual,Vestidos,1,21900,21900,Federico Álvarez,Local,Tarjeta crédito,2026,3,Mar 2026
+2101,2026-03-21,Ojotas,Calzado,1,8800,8800,Carlos Rodríguez,Local,Tarjeta crédito,2026,3,Mar 2026
+2102,2026-03-21,Campera inflable,Camperas,2,41300,82600,Tomás Molina,Instagram,Efectivo,2026,3,Mar 2026
+2103,2026-03-21,Jean chupín,Pantalones,2,25200,50400,Diego López,Local,Tarjeta crédito,2026,3,Mar 2026
+2104,2026-03-21,Ojotas,Calzado,2,8600,17200,Sofía Martínez,Instagram,Mercado Pago,2026,3,Mar 2026
+2105,2026-03-21,Buzo canguro,Buzos,2,18000,36000,Tomás Molina,WhatsApp,Mercado Pago,2026,3,Mar 2026
+2106,2026-03-22,Gorra,Accesorios,1,7800,7800,María González,Instagram,Mercado Pago,2026,3,Mar 2026
+2107,2026-03-22,Remera estampada,Remeras,1,10400,10400,Diego López,Local,Transferencia,2026,3,Mar 2026
+2108,2026-03-23,Zapatillas urbanas,Calzado,1,41400,41400,Micaela Rojas,WhatsApp,Transferencia,2026,3,Mar 2026
+2109,2026-03-23,Buzo canguro,Buzos,2,19600,39200,Agustina Ruiz,WhatsApp,Efectivo,2026,3,Mar 2026
+2110,2026-03-23,Cinturón cuero,Accesorios,1,12200,12200,Julieta Suárez,Local,Tarjeta débito,2026,3,Mar 2026
+2111,2026-03-24,Mochila,Accesorios,1,28500,28500,Federico Álvarez,WhatsApp,Transferencia,2026,3,Mar 2026
+2112,2026-03-25,Remera estampada,Remeras,1,10500,10500,Sofía Martínez,Instagram,Mercado Pago,2026,3,Mar 2026
+2113,2026-03-25,Campera de jean,Camperas,1,37100,37100,Agustina Ruiz,Instagram,Tarjeta débito,2026,3,Mar 2026
+2114,2026-03-25,Remera básica,Remeras,1,8700,8700,Martín Díaz,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2115,2026-03-25,Ojotas,Calzado,1,8800,8800,Federico Álvarez,Local,Mercado Pago,2026,3,Mar 2026
+2116,2026-03-26,Campera inflable,Camperas,1,45600,45600,Florencia Ortiz,Local,Efectivo,2026,3,Mar 2026
+2117,2026-03-27,Gorra,Accesorios,2,7400,14800,Bruno Herrera,WhatsApp,Tarjeta débito,2026,3,Mar 2026
+2118,2026-03-28,Campera inflable,Camperas,1,45000,45000,Antonella Gómez,Instagram,Transferencia,2026,3,Mar 2026
+2119,2026-03-28,Vestido casual,Vestidos,2,20100,40200,Valentina Sánchez,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2120,2026-03-28,Buzo oversize,Buzos,1,21100,21100,Lucía Fernández,Local,Transferencia,2026,3,Mar 2026
+2121,2026-03-28,Mochila,Accesorios,1,26100,26100,Consumidor Final,Instagram,Transferencia,2026,3,Mar 2026
+2122,2026-03-28,Vestido de fiesta,Vestidos,1,35600,35600,Antonella Gómez,Instagram,Transferencia,2026,3,Mar 2026
+2123,2026-03-28,Buzo oversize,Buzos,1,21900,21900,Tomás Molina,WhatsApp,Tarjeta débito,2026,3,Mar 2026
+2124,2026-03-28,Vestido casual,Vestidos,1,22100,22100,Consumidor Final,Instagram,Mercado Pago,2026,3,Mar 2026
+2125,2026-03-29,Buzo oversize,Buzos,1,19400,19400,Carlos Rodríguez,Instagram,Transferencia,2026,3,Mar 2026
+2126,2026-03-29,Remera estampada,Remeras,1,10800,10800,Consumidor Final,Local,Tarjeta crédito,2026,3,Mar 2026
+2127,2026-03-29,Campera de jean,Camperas,3,35900,107700,Sofía Martínez,Local,Mercado Pago,2026,3,Mar 2026
+2128,2026-03-29,Buzo canguro,Buzos,1,20200,20200,Valentina Sánchez,Local,Transferencia,2026,3,Mar 2026
+2129,2026-03-29,Remera básica,Remeras,1,8100,8100,Tomás Molina,Instagram,Tarjeta crédito,2026,3,Mar 2026
+2130,2026-03-29,Vestido de fiesta,Vestidos,1,33300,33300,Santiago Silva,Local,Tarjeta débito,2026,3,Mar 2026
+2131,2026-03-29,Vestido casual,Vestidos,1,22300,22300,Sofía Martínez,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2132,2026-03-30,Remera estampada,Remeras,2,11000,22000,Martín Díaz,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2133,2026-03-30,Vestido casual,Vestidos,1,22000,22000,Camila Torres,Instagram,Tarjeta débito,2026,3,Mar 2026
+2134,2026-03-30,Ojotas,Calzado,1,9000,9000,Nicolás Romero,Instagram,Efectivo,2026,3,Mar 2026
+2135,2026-03-30,Zapatillas urbanas,Calzado,1,39000,39000,Antonella Gómez,Instagram,Mercado Pago,2026,3,Mar 2026
+2136,2026-03-31,Vestido casual,Vestidos,2,20200,40400,Diego López,WhatsApp,Tarjeta crédito,2026,3,Mar 2026
+2137,2026-04-01,Gorra,Accesorios,1,7700,7700,Antonella Gómez,Local,Mercado Pago,2026,4,Abr 2026
+2138,2026-04-01,Vestido de fiesta,Vestidos,1,34600,34600,María González,Local,Tarjeta débito,2026,4,Abr 2026
+2139,2026-04-01,Buzo canguro,Buzos,1,19100,19100,Lucía Fernández,Local,Efectivo,2026,4,Abr 2026
+2140,2026-04-02,Jean clásico,Pantalones,1,21900,21900,Tomás Molina,Instagram,Efectivo,2026,4,Abr 2026
+2141,2026-04-02,Vestido de fiesta,Vestidos,3,32500,97500,Nicolás Romero,Local,Tarjeta crédito,2026,4,Abr 2026
+2142,2026-04-03,Jean clásico,Pantalones,1,22800,22800,Carlos Rodríguez,Local,Tarjeta débito,2026,4,Abr 2026
+2143,2026-04-03,Gorra,Accesorios,1,7000,7000,Micaela Rojas,Local,Efectivo,2026,4,Abr 2026
+2144,2026-04-03,Campera de jean,Camperas,1,36800,36800,Franco Castro,Local,Tarjeta débito,2026,4,Abr 2026
+2145,2026-04-04,Vestido casual,Vestidos,3,22000,66000,Bruno Herrera,Instagram,Tarjeta débito,2026,4,Abr 2026
+2146,2026-04-04,Campera de jean,Camperas,1,36700,36700,Micaela Rojas,Local,Tarjeta débito,2026,4,Abr 2026
+2147,2026-04-04,Campera inflable,Camperas,1,41600,41600,Tomás Molina,WhatsApp,Mercado Pago,2026,4,Abr 2026
+2148,2026-04-04,Buzo oversize,Buzos,1,21500,21500,Santiago Silva,Local,Tarjeta débito,2026,4,Abr 2026
+2149,2026-04-04,Remera básica,Remeras,1,8800,8800,Camila Torres,WhatsApp,Transferencia,2026,4,Abr 2026
+2150,2026-04-04,Campera inflable,Camperas,2,41900,83800,Nicolás Romero,Local,Mercado Pago,2026,4,Abr 2026
+2151,2026-04-04,Vestido de fiesta,Vestidos,1,32000,32000,Sofía Martínez,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2152,2026-04-05,Mochila,Accesorios,1,27800,27800,Agustina Ruiz,WhatsApp,Tarjeta crédito,2026,4,Abr 2026
+2153,2026-04-05,Zapatillas urbanas,Calzado,1,42500,42500,Martín Díaz,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2154,2026-04-05,Campera inflable,Camperas,1,47000,47000,Sofía Martínez,Instagram,Efectivo,2026,4,Abr 2026
+2155,2026-04-05,Vestido de fiesta,Vestidos,1,36200,36200,Tomás Molina,Instagram,Transferencia,2026,4,Abr 2026
+2156,2026-04-05,Gorra,Accesorios,1,6800,6800,Lucía Fernández,Instagram,Transferencia,2026,4,Abr 2026
+2157,2026-04-05,Zapatillas urbanas,Calzado,1,43900,43900,Santiago Silva,Local,Tarjeta débito,2026,4,Abr 2026
+2158,2026-04-06,Remera básica,Remeras,1,8100,8100,María González,Local,Efectivo,2026,4,Abr 2026
+2159,2026-04-06,Gorra,Accesorios,1,7800,7800,Lucía Fernández,WhatsApp,Tarjeta crédito,2026,4,Abr 2026
+2160,2026-04-06,Gorra,Accesorios,2,7000,14000,Federico Álvarez,Local,Transferencia,2026,4,Abr 2026
+2161,2026-04-06,Mochila,Accesorios,2,27700,55400,Consumidor Final,WhatsApp,Transferencia,2026,4,Abr 2026
+2162,2026-04-06,Remera estampada,Remeras,2,10800,21600,Bruno Herrera,Local,Mercado Pago,2026,4,Abr 2026
+2163,2026-04-07,Zapatillas urbanas,Calzado,1,41400,41400,Consumidor Final,Local,Efectivo,2026,4,Abr 2026
+2164,2026-04-08,Cinturón cuero,Accesorios,1,12200,12200,Valentina Sánchez,WhatsApp,Efectivo,2026,4,Abr 2026
+2165,2026-04-08,Ojotas,Calzado,1,8900,8900,Florencia Ortiz,Local,Transferencia,2026,4,Abr 2026
+2166,2026-04-08,Zapatillas urbanas,Calzado,1,41900,41900,Agustina Ruiz,Local,Transferencia,2026,4,Abr 2026
+2167,2026-04-08,Campera de jean,Camperas,1,37200,37200,Micaela Rojas,Instagram,Tarjeta débito,2026,4,Abr 2026
+2168,2026-04-08,Remera básica,Remeras,1,8200,8200,María González,Local,Tarjeta crédito,2026,4,Abr 2026
+2169,2026-04-08,Remera estampada,Remeras,2,11200,22400,Martín Díaz,WhatsApp,Transferencia,2026,4,Abr 2026
+2170,2026-04-09,Remera estampada,Remeras,2,10200,20400,Lucía Fernández,Instagram,Efectivo,2026,4,Abr 2026
+2171,2026-04-09,Remera básica,Remeras,1,8700,8700,Agustina Ruiz,WhatsApp,Tarjeta débito,2026,4,Abr 2026
+2172,2026-04-09,Remera estampada,Remeras,1,11500,11500,Agustina Ruiz,Instagram,Tarjeta débito,2026,4,Abr 2026
+2173,2026-04-09,Remera estampada,Remeras,2,10900,21800,Florencia Ortiz,Instagram,Efectivo,2026,4,Abr 2026
+2174,2026-04-09,Remera básica,Remeras,2,8100,16200,Lucía Fernández,Instagram,Efectivo,2026,4,Abr 2026
+2175,2026-04-09,Mochila,Accesorios,2,25400,50800,Tomás Molina,Local,Efectivo,2026,4,Abr 2026
+2176,2026-04-10,Buzo canguro,Buzos,1,19400,19400,Santiago Silva,Instagram,Mercado Pago,2026,4,Abr 2026
+2177,2026-04-10,Remera básica,Remeras,1,8200,8200,Santiago Silva,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2178,2026-04-11,Zapatillas urbanas,Calzado,2,42700,85400,Agustina Ruiz,Instagram,Efectivo,2026,4,Abr 2026
+2179,2026-04-11,Remera estampada,Remeras,1,11100,11100,Valentina Sánchez,WhatsApp,Tarjeta débito,2026,4,Abr 2026
+2180,2026-04-11,Zapatillas urbanas,Calzado,1,40000,40000,Santiago Silva,Local,Tarjeta débito,2026,4,Abr 2026
+2181,2026-04-11,Jean clásico,Pantalones,2,21800,43600,Tomás Molina,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2182,2026-04-11,Campera de jean,Camperas,1,37300,37300,Consumidor Final,Instagram,Mercado Pago,2026,4,Abr 2026
+2183,2026-04-11,Campera inflable,Camperas,1,47000,47000,Sofía Martínez,Local,Mercado Pago,2026,4,Abr 2026
+2184,2026-04-12,Remera básica,Remeras,1,7900,7900,Valentina Sánchez,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2185,2026-04-12,Jean chupín,Pantalones,1,26100,26100,Santiago Silva,Instagram,Mercado Pago,2026,4,Abr 2026
+2186,2026-04-12,Vestido de fiesta,Vestidos,3,34700,104100,Diego López,Local,Efectivo,2026,4,Abr 2026
+2187,2026-04-12,Buzo oversize,Buzos,1,18900,18900,Martín Díaz,Instagram,Tarjeta débito,2026,4,Abr 2026
+2188,2026-04-12,Jean chupín,Pantalones,1,26400,26400,Julieta Suárez,Local,Tarjeta débito,2026,4,Abr 2026
+2189,2026-04-12,Cinturón cuero,Accesorios,3,11900,35700,Consumidor Final,Local,Efectivo,2026,4,Abr 2026
+2190,2026-04-12,Jean clásico,Pantalones,1,22300,22300,Federico Álvarez,Local,Efectivo,2026,4,Abr 2026
+2191,2026-04-13,Jean chupín,Pantalones,1,24100,24100,Diego López,Local,Mercado Pago,2026,4,Abr 2026
+2192,2026-04-13,Jean chupín,Pantalones,1,23500,23500,Carlos Rodríguez,Local,Tarjeta débito,2026,4,Abr 2026
+2193,2026-04-14,Remera estampada,Remeras,1,10200,10200,Federico Álvarez,WhatsApp,Tarjeta débito,2026,4,Abr 2026
+2194,2026-04-14,Vestido casual,Vestidos,3,23100,69300,Lucía Fernández,Local,Tarjeta débito,2026,4,Abr 2026
+2195,2026-04-15,Gorra,Accesorios,1,7300,7300,Agustina Ruiz,Instagram,Tarjeta débito,2026,4,Abr 2026
+2196,2026-04-15,Mochila,Accesorios,1,27800,27800,Bruno Herrera,Local,Tarjeta débito,2026,4,Abr 2026
+2197,2026-04-15,Campera inflable,Camperas,1,44700,44700,Sofía Martínez,WhatsApp,Mercado Pago,2026,4,Abr 2026
+2198,2026-04-15,Mochila,Accesorios,1,28300,28300,Santiago Silva,Local,Mercado Pago,2026,4,Abr 2026
+2199,2026-04-15,Buzo canguro,Buzos,2,19400,38800,Franco Castro,Instagram,Tarjeta débito,2026,4,Abr 2026
+2200,2026-04-16,Ojotas,Calzado,1,9400,9400,Antonella Gómez,Local,Mercado Pago,2026,4,Abr 2026
+2201,2026-04-16,Zapatillas urbanas,Calzado,1,39200,39200,Martín Díaz,Local,Tarjeta crédito,2026,4,Abr 2026
+2202,2026-04-16,Buzo canguro,Buzos,2,19200,38400,Federico Álvarez,Local,Efectivo,2026,4,Abr 2026
+2203,2026-04-17,Jean clásico,Pantalones,2,22700,45400,Martín Díaz,Instagram,Transferencia,2026,4,Abr 2026
+2204,2026-04-17,Vestido casual,Vestidos,1,21200,21200,Tomás Molina,Local,Transferencia,2026,4,Abr 2026
+2205,2026-04-17,Campera inflable,Camperas,1,40700,40700,Camila Torres,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2206,2026-04-17,Mochila,Accesorios,1,28700,28700,Lucía Fernández,Instagram,Tarjeta débito,2026,4,Abr 2026
+2207,2026-04-17,Remera estampada,Remeras,1,10500,10500,Agustina Ruiz,Local,Tarjeta crédito,2026,4,Abr 2026
+2208,2026-04-18,Gorra,Accesorios,1,7100,7100,Sofía Martínez,WhatsApp,Mercado Pago,2026,4,Abr 2026
+2209,2026-04-18,Mochila,Accesorios,1,28400,28400,Federico Álvarez,Instagram,Transferencia,2026,4,Abr 2026
+2210,2026-04-18,Buzo canguro,Buzos,2,19800,39600,Consumidor Final,Instagram,Tarjeta débito,2026,4,Abr 2026
+2211,2026-04-18,Cinturón cuero,Accesorios,1,11700,11700,Franco Castro,Local,Mercado Pago,2026,4,Abr 2026
+2212,2026-04-18,Gorra,Accesorios,1,7300,7300,Agustina Ruiz,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2213,2026-04-18,Cinturón cuero,Accesorios,1,12700,12700,Valentina Sánchez,Local,Mercado Pago,2026,4,Abr 2026
+2214,2026-04-19,Remera básica,Remeras,1,8400,8400,Consumidor Final,WhatsApp,Efectivo,2026,4,Abr 2026
+2215,2026-04-19,Buzo oversize,Buzos,2,21500,43000,Tomás Molina,Local,Transferencia,2026,4,Abr 2026
+2216,2026-04-19,Gorra,Accesorios,2,7400,14800,María González,Instagram,Efectivo,2026,4,Abr 2026
+2217,2026-04-19,Mochila,Accesorios,1,29300,29300,Antonella Gómez,Instagram,Mercado Pago,2026,4,Abr 2026
+2218,2026-04-19,Mochila,Accesorios,1,28800,28800,Valentina Sánchez,WhatsApp,Efectivo,2026,4,Abr 2026
+2219,2026-04-19,Vestido casual,Vestidos,1,21400,21400,Florencia Ortiz,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2220,2026-04-19,Remera estampada,Remeras,1,11000,11000,Santiago Silva,Instagram,Tarjeta débito,2026,4,Abr 2026
+2221,2026-04-19,Jean chupín,Pantalones,1,27200,27200,Martín Díaz,Local,Mercado Pago,2026,4,Abr 2026
+2222,2026-04-19,Remera estampada,Remeras,1,10500,10500,Consumidor Final,Local,Transferencia,2026,4,Abr 2026
+2223,2026-04-20,Jean clásico,Pantalones,1,23300,23300,Consumidor Final,WhatsApp,Tarjeta débito,2026,4,Abr 2026
+2224,2026-04-21,Jean clásico,Pantalones,2,22700,45400,Franco Castro,Local,Mercado Pago,2026,4,Abr 2026
+2225,2026-04-21,Campera de jean,Camperas,1,37100,37100,Camila Torres,Local,Tarjeta débito,2026,4,Abr 2026
+2226,2026-04-21,Buzo oversize,Buzos,1,20200,20200,Micaela Rojas,Local,Mercado Pago,2026,4,Abr 2026
+2227,2026-04-21,Mochila,Accesorios,1,27100,27100,Consumidor Final,Local,Transferencia,2026,4,Abr 2026
+2228,2026-04-21,Campera inflable,Camperas,2,45300,90600,Santiago Silva,WhatsApp,Tarjeta débito,2026,4,Abr 2026
+2229,2026-04-21,Buzo canguro,Buzos,1,20200,20200,Florencia Ortiz,Local,Tarjeta débito,2026,4,Abr 2026
+2230,2026-04-22,Ojotas,Calzado,2,8400,16800,Camila Torres,WhatsApp,Mercado Pago,2026,4,Abr 2026
+2231,2026-04-22,Campera de jean,Camperas,1,34600,34600,Valentina Sánchez,WhatsApp,Transferencia,2026,4,Abr 2026
+2232,2026-04-22,Gorra,Accesorios,1,7900,7900,Consumidor Final,Local,Tarjeta crédito,2026,4,Abr 2026
+2233,2026-04-23,Buzo canguro,Buzos,1,18300,18300,Florencia Ortiz,Local,Transferencia,2026,4,Abr 2026
+2234,2026-04-23,Buzo canguro,Buzos,1,18700,18700,Juan Pérez,Local,Efectivo,2026,4,Abr 2026
+2235,2026-04-23,Ojotas,Calzado,2,8500,17000,Franco Castro,Instagram,Efectivo,2026,4,Abr 2026
+2236,2026-04-24,Buzo oversize,Buzos,1,21500,21500,Diego López,WhatsApp,Mercado Pago,2026,4,Abr 2026
+2237,2026-04-24,Remera estampada,Remeras,1,10100,10100,Diego López,Local,Efectivo,2026,4,Abr 2026
+2238,2026-04-25,Zapatillas urbanas,Calzado,1,40600,40600,Juan Pérez,WhatsApp,Mercado Pago,2026,4,Abr 2026
+2239,2026-04-25,Jean chupín,Pantalones,1,23600,23600,Micaela Rojas,Instagram,Efectivo,2026,4,Abr 2026
+2240,2026-04-25,Buzo canguro,Buzos,1,18800,18800,Juan Pérez,Instagram,Tarjeta débito,2026,4,Abr 2026
+2241,2026-04-25,Mochila,Accesorios,1,29000,29000,María González,Local,Efectivo,2026,4,Abr 2026
+2242,2026-04-25,Campera inflable,Camperas,2,45100,90200,Consumidor Final,WhatsApp,Efectivo,2026,4,Abr 2026
+2243,2026-04-25,Gorra,Accesorios,2,7500,15000,Juan Pérez,Local,Efectivo,2026,4,Abr 2026
+2244,2026-04-26,Zapatillas urbanas,Calzado,1,39100,39100,Tomás Molina,Local,Tarjeta débito,2026,4,Abr 2026
+2245,2026-04-26,Remera estampada,Remeras,1,10200,10200,Agustina Ruiz,Local,Tarjeta débito,2026,4,Abr 2026
+2246,2026-04-26,Buzo oversize,Buzos,1,21000,21000,Santiago Silva,Local,Efectivo,2026,4,Abr 2026
+2247,2026-04-26,Mochila,Accesorios,1,26500,26500,Carlos Rodríguez,Instagram,Mercado Pago,2026,4,Abr 2026
+2248,2026-04-26,Jean clásico,Pantalones,1,21900,21900,Julieta Suárez,Instagram,Tarjeta débito,2026,4,Abr 2026
+2249,2026-04-26,Campera inflable,Camperas,1,45600,45600,Franco Castro,Local,Efectivo,2026,4,Abr 2026
+2250,2026-04-26,Vestido de fiesta,Vestidos,2,33900,67800,Martín Díaz,Instagram,Efectivo,2026,4,Abr 2026
+2251,2026-04-27,Jean chupín,Pantalones,1,26400,26400,Consumidor Final,Local,Transferencia,2026,4,Abr 2026
+2252,2026-04-27,Gorra,Accesorios,1,6800,6800,Consumidor Final,Instagram,Tarjeta débito,2026,4,Abr 2026
+2253,2026-04-28,Remera básica,Remeras,1,8600,8600,Florencia Ortiz,Instagram,Tarjeta crédito,2026,4,Abr 2026
+2254,2026-04-28,Jean clásico,Pantalones,1,23900,23900,Micaela Rojas,Instagram,Transferencia,2026,4,Abr 2026
+2255,2026-04-28,Zapatillas urbanas,Calzado,2,42500,85000,Agustina Ruiz,Local,Tarjeta débito,2026,4,Abr 2026
+2256,2026-04-28,Vestido casual,Vestidos,1,22800,22800,Martín Díaz,Instagram,Transferencia,2026,4,Abr 2026
+2257,2026-04-29,Vestido casual,Vestidos,1,21300,21300,Consumidor Final,WhatsApp,Efectivo,2026,4,Abr 2026
+2258,2026-04-29,Jean chupín,Pantalones,1,27300,27300,Sofía Martínez,Local,Mercado Pago,2026,4,Abr 2026
+2259,2026-04-29,Vestido casual,Vestidos,2,22900,45800,Lucía Fernández,Local,Transferencia,2026,4,Abr 2026
+2260,2026-04-29,Campera de jean,Camperas,1,35300,35300,Santiago Silva,Local,Tarjeta crédito,2026,4,Abr 2026
+2261,2026-04-30,Jean chupín,Pantalones,1,26400,26400,Consumidor Final,WhatsApp,Transferencia,2026,4,Abr 2026
+2262,2026-05-01,Buzo canguro,Buzos,1,18800,18800,Tomás Molina,Instagram,Transferencia,2026,5,May 2026
+2263,2026-05-01,Remera básica,Remeras,2,8200,16400,Consumidor Final,WhatsApp,Tarjeta crédito,2026,5,May 2026
+2264,2026-05-02,Ojotas,Calzado,1,8600,8600,Nicolás Romero,Local,Mercado Pago,2026,5,May 2026
+2265,2026-05-02,Buzo oversize,Buzos,1,19300,19300,Sofía Martínez,WhatsApp,Efectivo,2026,5,May 2026
+2266,2026-05-02,Remera básica,Remeras,2,8600,17200,Julieta Suárez,WhatsApp,Transferencia,2026,5,May 2026
+2267,2026-05-02,Ojotas,Calzado,1,8800,8800,Antonella Gómez,Local,Efectivo,2026,5,May 2026
+2268,2026-05-02,Mochila,Accesorios,1,29100,29100,Tomás Molina,WhatsApp,Tarjeta crédito,2026,5,May 2026
+2269,2026-05-02,Vestido casual,Vestidos,2,21900,43800,Juan Pérez,Instagram,Transferencia,2026,5,May 2026
+2270,2026-05-03,Ojotas,Calzado,1,8700,8700,Federico Álvarez,Instagram,Efectivo,2026,5,May 2026
+2271,2026-05-03,Ojotas,Calzado,1,8300,8300,Sofía Martínez,Local,Mercado Pago,2026,5,May 2026
+2272,2026-05-03,Vestido de fiesta,Vestidos,3,35900,107700,Consumidor Final,Instagram,Transferencia,2026,5,May 2026
+2273,2026-05-03,Buzo canguro,Buzos,2,20400,40800,Consumidor Final,WhatsApp,Transferencia,2026,5,May 2026
+2274,2026-05-03,Jean clásico,Pantalones,2,22500,45000,Bruno Herrera,Instagram,Transferencia,2026,5,May 2026
+2275,2026-05-03,Vestido de fiesta,Vestidos,1,33700,33700,Lucía Fernández,Local,Mercado Pago,2026,5,May 2026
+2276,2026-05-04,Jean clásico,Pantalones,1,22400,22400,Nicolás Romero,Local,Tarjeta débito,2026,5,May 2026
+2277,2026-05-04,Cinturón cuero,Accesorios,1,11400,11400,Tomás Molina,Instagram,Tarjeta crédito,2026,5,May 2026
+2278,2026-05-04,Ojotas,Calzado,1,8300,8300,Sofía Martínez,Local,Tarjeta débito,2026,5,May 2026
+2279,2026-05-04,Vestido casual,Vestidos,2,21300,42600,Diego López,Local,Tarjeta débito,2026,5,May 2026
+2280,2026-05-05,Gorra,Accesorios,2,7000,14000,Tomás Molina,Local,Mercado Pago,2026,5,May 2026
+2281,2026-05-05,Remera estampada,Remeras,2,10200,20400,Julieta Suárez,Local,Efectivo,2026,5,May 2026
+2282,2026-05-06,Buzo oversize,Buzos,1,21300,21300,Consumidor Final,Local,Efectivo,2026,5,May 2026
+2283,2026-05-06,Zapatillas urbanas,Calzado,1,44000,44000,Consumidor Final,Instagram,Efectivo,2026,5,May 2026
+2284,2026-05-06,Buzo canguro,Buzos,1,20400,20400,Franco Castro,Instagram,Tarjeta crédito,2026,5,May 2026
+2285,2026-05-07,Vestido de fiesta,Vestidos,1,33400,33400,Agustina Ruiz,WhatsApp,Tarjeta crédito,2026,5,May 2026
+2286,2026-05-07,Zapatillas urbanas,Calzado,1,41600,41600,Agustina Ruiz,WhatsApp,Efectivo,2026,5,May 2026
+2287,2026-05-07,Buzo oversize,Buzos,2,20200,40400,Sofía Martínez,Local,Efectivo,2026,5,May 2026
+2288,2026-05-07,Cinturón cuero,Accesorios,1,13000,13000,Martín Díaz,Local,Mercado Pago,2026,5,May 2026
+2289,2026-05-07,Zapatillas urbanas,Calzado,1,40800,40800,Valentina Sánchez,Local,Tarjeta crédito,2026,5,May 2026
+2290,2026-05-08,Remera básica,Remeras,3,8600,25800,Martín Díaz,Instagram,Transferencia,2026,5,May 2026
+2291,2026-05-08,Ojotas,Calzado,1,8200,8200,Franco Castro,WhatsApp,Efectivo,2026,5,May 2026
+2292,2026-05-08,Ojotas,Calzado,1,8900,8900,Micaela Rojas,WhatsApp,Mercado Pago,2026,5,May 2026
+2293,2026-05-08,Remera básica,Remeras,1,8700,8700,Bruno Herrera,WhatsApp,Transferencia,2026,5,May 2026
+2294,2026-05-08,Jean clásico,Pantalones,2,25000,50000,Bruno Herrera,Local,Tarjeta débito,2026,5,May 2026
+2295,2026-05-09,Jean clásico,Pantalones,2,24000,48000,Consumidor Final,Local,Efectivo,2026,5,May 2026
+2296,2026-05-09,Jean clásico,Pantalones,2,22800,45600,Camila Torres,Local,Tarjeta crédito,2026,5,May 2026
+2297,2026-05-09,Zapatillas urbanas,Calzado,1,43500,43500,Consumidor Final,Local,Mercado Pago,2026,5,May 2026
+2298,2026-05-09,Zapatillas urbanas,Calzado,2,38400,76800,Martín Díaz,WhatsApp,Mercado Pago,2026,5,May 2026
+2299,2026-05-09,Remera estampada,Remeras,1,10500,10500,Julieta Suárez,Instagram,Mercado Pago,2026,5,May 2026
+2300,2026-05-09,Cinturón cuero,Accesorios,1,11700,11700,Nicolás Romero,Local,Efectivo,2026,5,May 2026
+2301,2026-05-09,Campera inflable,Camperas,2,46800,93600,Carlos Rodríguez,Instagram,Tarjeta débito,2026,5,May 2026
+2302,2026-05-10,Vestido de fiesta,Vestidos,2,33100,66200,Valentina Sánchez,WhatsApp,Transferencia,2026,5,May 2026
+2303,2026-05-10,Campera inflable,Camperas,2,45900,91800,Sofía Martínez,Instagram,Mercado Pago,2026,5,May 2026
+2304,2026-05-10,Vestido de fiesta,Vestidos,1,33600,33600,Florencia Ortiz,Local,Tarjeta crédito,2026,5,May 2026
+2305,2026-05-10,Cinturón cuero,Accesorios,1,12500,12500,Consumidor Final,Local,Efectivo,2026,5,May 2026
+2306,2026-05-10,Vestido de fiesta,Vestidos,1,34100,34100,Camila Torres,WhatsApp,Mercado Pago,2026,5,May 2026
+2307,2026-05-10,Buzo oversize,Buzos,1,19600,19600,Julieta Suárez,Local,Tarjeta crédito,2026,5,May 2026
+2308,2026-05-10,Jean clásico,Pantalones,2,22400,44800,Martín Díaz,Instagram,Efectivo,2026,5,May 2026
+2309,2026-05-10,Mochila,Accesorios,2,26000,52000,Julieta Suárez,Local,Tarjeta débito,2026,5,May 2026
+2310,2026-05-10,Remera básica,Remeras,1,8100,8100,Federico Álvarez,Instagram,Transferencia,2026,5,May 2026
+2311,2026-05-11,Remera estampada,Remeras,1,10400,10400,Valentina Sánchez,Instagram,Mercado Pago,2026,5,May 2026
+2312,2026-05-12,Gorra,Accesorios,2,7700,15400,Consumidor Final,WhatsApp,Tarjeta crédito,2026,5,May 2026
+2313,2026-05-12,Buzo oversize,Buzos,1,20700,20700,Franco Castro,Local,Tarjeta débito,2026,5,May 2026
+2314,2026-05-12,Jean chupín,Pantalones,1,26300,26300,María González,Local,Mercado Pago,2026,5,May 2026
+2315,2026-05-13,Remera estampada,Remeras,1,11500,11500,Consumidor Final,WhatsApp,Transferencia,2026,5,May 2026
+2316,2026-05-13,Zapatillas urbanas,Calzado,2,43600,87200,Consumidor Final,WhatsApp,Tarjeta débito,2026,5,May 2026
+2317,2026-05-13,Remera básica,Remeras,1,8300,8300,Tomás Molina,WhatsApp,Transferencia,2026,5,May 2026
+2318,2026-05-13,Jean chupín,Pantalones,1,24300,24300,Santiago Silva,WhatsApp,Transferencia,2026,5,May 2026
+2319,2026-05-14,Zapatillas urbanas,Calzado,1,42700,42700,Julieta Suárez,Local,Transferencia,2026,5,May 2026
+2320,2026-05-14,Campera inflable,Camperas,1,41300,41300,Consumidor Final,Instagram,Mercado Pago,2026,5,May 2026
+2321,2026-05-14,Jean chupín,Pantalones,1,25600,25600,Camila Torres,Instagram,Efectivo,2026,5,May 2026
+2322,2026-05-14,Gorra,Accesorios,1,7200,7200,Tomás Molina,Local,Tarjeta débito,2026,5,May 2026
+2323,2026-05-15,Remera estampada,Remeras,1,11100,11100,Bruno Herrera,Local,Efectivo,2026,5,May 2026
+2324,2026-05-16,Gorra,Accesorios,2,7300,14600,Antonella Gómez,Instagram,Efectivo,2026,5,May 2026
+2325,2026-05-16,Gorra,Accesorios,2,7800,15600,Diego López,WhatsApp,Tarjeta débito,2026,5,May 2026
+2326,2026-05-16,Remera básica,Remeras,1,8700,8700,Consumidor Final,Local,Tarjeta débito,2026,5,May 2026
+2327,2026-05-16,Zapatillas urbanas,Calzado,1,41300,41300,Juan Pérez,Local,Efectivo,2026,5,May 2026
+2328,2026-05-16,Vestido casual,Vestidos,1,23000,23000,María González,Local,Efectivo,2026,5,May 2026
+2329,2026-05-17,Vestido casual,Vestidos,2,20800,41600,Sofía Martínez,Instagram,Tarjeta crédito,2026,5,May 2026
+2330,2026-05-17,Vestido casual,Vestidos,2,23100,46200,Micaela Rojas,Local,Efectivo,2026,5,May 2026
+2331,2026-05-17,Zapatillas urbanas,Calzado,2,39300,78600,Nicolás Romero,WhatsApp,Tarjeta débito,2026,5,May 2026
+2332,2026-05-17,Jean clásico,Pantalones,1,22400,22400,Sofía Martínez,Instagram,Transferencia,2026,5,May 2026
+2333,2026-05-17,Remera estampada,Remeras,1,10300,10300,Diego López,Local,Efectivo,2026,5,May 2026
+2334,2026-05-17,Campera de jean,Camperas,1,39600,39600,Consumidor Final,Local,Tarjeta crédito,2026,5,May 2026
+2335,2026-05-17,Zapatillas urbanas,Calzado,1,39000,39000,Micaela Rojas,Instagram,Transferencia,2026,5,May 2026
+2336,2026-05-17,Cinturón cuero,Accesorios,1,13100,13100,María González,WhatsApp,Tarjeta débito,2026,5,May 2026
+2337,2026-05-17,Remera estampada,Remeras,1,10800,10800,Tomás Molina,Local,Efectivo,2026,5,May 2026
+2338,2026-05-18,Campera de jean,Camperas,1,38700,38700,Carlos Rodríguez,Local,Tarjeta débito,2026,5,May 2026
+2339,2026-05-18,Buzo canguro,Buzos,3,19800,59400,Consumidor Final,Instagram,Tarjeta crédito,2026,5,May 2026
+2340,2026-05-18,Vestido de fiesta,Vestidos,2,34100,68200,Antonella Gómez,WhatsApp,Mercado Pago,2026,5,May 2026
+2341,2026-05-19,Campera de jean,Camperas,1,39300,39300,Julieta Suárez,Local,Mercado Pago,2026,5,May 2026
+2342,2026-05-19,Vestido casual,Vestidos,1,22600,22600,Sofía Martínez,Local,Mercado Pago,2026,5,May 2026
+2343,2026-05-19,Ojotas,Calzado,1,8300,8300,Camila Torres,Local,Tarjeta crédito,2026,5,May 2026
+2344,2026-05-19,Ojotas,Calzado,2,9000,18000,Florencia Ortiz,Local,Tarjeta crédito,2026,5,May 2026
+2345,2026-05-19,Gorra,Accesorios,1,7100,7100,Micaela Rojas,WhatsApp,Tarjeta débito,2026,5,May 2026
+2346,2026-05-20,Campera de jean,Camperas,1,36000,36000,Consumidor Final,Local,Tarjeta débito,2026,5,May 2026
+2347,2026-05-20,Remera estampada,Remeras,1,10000,10000,Bruno Herrera,WhatsApp,Efectivo,2026,5,May 2026
+2348,2026-05-20,Buzo canguro,Buzos,1,20300,20300,Consumidor Final,Instagram,Mercado Pago,2026,5,May 2026
+2349,2026-05-21,Ojotas,Calzado,1,8100,8100,María González,Instagram,Mercado Pago,2026,5,May 2026
+2350,2026-05-21,Ojotas,Calzado,1,9400,9400,Micaela Rojas,Instagram,Efectivo,2026,5,May 2026
+2351,2026-05-21,Vestido de fiesta,Vestidos,1,32400,32400,Micaela Rojas,WhatsApp,Tarjeta débito,2026,5,May 2026
+2352,2026-05-21,Remera estampada,Remeras,1,10100,10100,Juan Pérez,Local,Transferencia,2026,5,May 2026
+2353,2026-05-21,Jean clásico,Pantalones,1,22000,22000,Martín Díaz,WhatsApp,Efectivo,2026,5,May 2026
+2354,2026-05-21,Campera de jean,Camperas,1,35900,35900,Antonella Gómez,Local,Tarjeta crédito,2026,5,May 2026
+2355,2026-05-22,Vestido casual,Vestidos,2,19900,39800,Santiago Silva,WhatsApp,Efectivo,2026,5,May 2026
+2356,2026-05-22,Campera inflable,Camperas,1,43600,43600,Carlos Rodríguez,Local,Tarjeta débito,2026,5,May 2026
+2357,2026-05-22,Buzo canguro,Buzos,1,17800,17800,Lucía Fernández,Instagram,Tarjeta débito,2026,5,May 2026
+2358,2026-05-22,Buzo canguro,Buzos,1,19000,19000,Camila Torres,Local,Transferencia,2026,5,May 2026
+2359,2026-05-22,Campera inflable,Camperas,1,43400,43400,Camila Torres,Local,Transferencia,2026,5,May 2026
+2360,2026-05-22,Zapatillas urbanas,Calzado,2,38800,77600,Tomás Molina,Local,Tarjeta débito,2026,5,May 2026
+2361,2026-05-22,Remera estampada,Remeras,1,10000,10000,Agustina Ruiz,WhatsApp,Tarjeta débito,2026,5,May 2026
+2362,2026-05-23,Zapatillas urbanas,Calzado,1,40800,40800,Camila Torres,Local,Transferencia,2026,5,May 2026
+2363,2026-05-23,Vestido casual,Vestidos,1,22000,22000,Consumidor Final,Instagram,Transferencia,2026,5,May 2026
+2364,2026-05-23,Vestido casual,Vestidos,2,22200,44400,Sofía Martínez,Local,Efectivo,2026,5,May 2026
+2365,2026-05-23,Gorra,Accesorios,1,6900,6900,Martín Díaz,Local,Tarjeta crédito,2026,5,May 2026
+2366,2026-05-23,Buzo canguro,Buzos,3,19700,59100,Nicolás Romero,Local,Efectivo,2026,5,May 2026
+2367,2026-05-24,Jean clásico,Pantalones,2,22300,44600,Carlos Rodríguez,WhatsApp,Tarjeta débito,2026,5,May 2026
+2368,2026-05-24,Zapatillas urbanas,Calzado,2,39000,78000,Carlos Rodríguez,Instagram,Mercado Pago,2026,5,May 2026
+2369,2026-05-24,Vestido de fiesta,Vestidos,1,36700,36700,Sofía Martínez,Local,Tarjeta débito,2026,5,May 2026
+2370,2026-05-24,Buzo canguro,Buzos,1,20400,20400,Tomás Molina,Local,Tarjeta débito,2026,5,May 2026
+2371,2026-05-24,Remera estampada,Remeras,2,10500,21000,Martín Díaz,Local,Transferencia,2026,5,May 2026
+2372,2026-05-24,Buzo oversize,Buzos,1,20200,20200,Consumidor Final,Local,Tarjeta crédito,2026,5,May 2026
+2373,2026-05-24,Campera de jean,Camperas,2,38300,76600,Juan Pérez,Local,Efectivo,2026,5,May 2026
+2374,2026-05-25,Remera básica,Remeras,1,8100,8100,Camila Torres,WhatsApp,Efectivo,2026,5,May 2026
+2375,2026-05-25,Buzo canguro,Buzos,1,20300,20300,Nicolás Romero,Local,Efectivo,2026,5,May 2026
+2376,2026-05-25,Zapatillas urbanas,Calzado,1,43200,43200,Federico Álvarez,Instagram,Mercado Pago,2026,5,May 2026
+2377,2026-05-26,Zapatillas urbanas,Calzado,1,41500,41500,Consumidor Final,Local,Mercado Pago,2026,5,May 2026
+2378,2026-05-26,Remera estampada,Remeras,1,11500,11500,Valentina Sánchez,Local,Transferencia,2026,5,May 2026
+2379,2026-05-27,Mochila,Accesorios,1,29200,29200,Nicolás Romero,Instagram,Tarjeta débito,2026,5,May 2026
+2380,2026-05-27,Vestido casual,Vestidos,2,19900,39800,Bruno Herrera,Instagram,Mercado Pago,2026,5,May 2026
+2381,2026-05-27,Campera inflable,Camperas,2,43500,87000,Tomás Molina,Local,Transferencia,2026,5,May 2026
+2382,2026-05-28,Gorra,Accesorios,1,7400,7400,Sofía Martínez,Local,Mercado Pago,2026,5,May 2026
+2383,2026-05-29,Remera básica,Remeras,2,8500,17000,Julieta Suárez,Instagram,Mercado Pago,2026,5,May 2026
+2384,2026-05-29,Cinturón cuero,Accesorios,1,11400,11400,Micaela Rojas,Local,Transferencia,2026,5,May 2026
+2385,2026-05-29,Buzo canguro,Buzos,1,18200,18200,Consumidor Final,Instagram,Mercado Pago,2026,5,May 2026
+2386,2026-05-30,Gorra,Accesorios,1,7300,7300,Camila Torres,Local,Tarjeta débito,2026,5,May 2026
+2387,2026-05-30,Campera de jean,Camperas,2,37300,74600,Juan Pérez,Instagram,Tarjeta crédito,2026,5,May 2026
+2388,2026-05-30,Remera básica,Remeras,1,8900,8900,Sofía Martínez,Local,Efectivo,2026,5,May 2026
+2389,2026-05-30,Zapatillas urbanas,Calzado,3,44000,132000,Carlos Rodríguez,Local,Tarjeta crédito,2026,5,May 2026
+2390,2026-05-30,Zapatillas urbanas,Calzado,1,40100,40100,Consumidor Final,Instagram,Mercado Pago,2026,5,May 2026
+2391,2026-05-30,Campera de jean,Camperas,2,36500,73000,Agustina Ruiz,WhatsApp,Efectivo,2026,5,May 2026
+2392,2026-05-31,Cinturón cuero,Accesorios,1,12600,12600,Camila Torres,WhatsApp,Mercado Pago,2026,5,May 2026
+2393,2026-05-31,Zapatillas urbanas,Calzado,3,42700,128100,Carlos Rodríguez,Instagram,Transferencia,2026,5,May 2026
+2394,2026-05-31,Zapatillas urbanas,Calzado,1,41700,41700,Valentina Sánchez,WhatsApp,Tarjeta débito,2026,5,May 2026
+2395,2026-05-31,Campera inflable,Camperas,1,44400,44400,Julieta Suárez,Local,Tarjeta débito,2026,5,May 2026
+2396,2026-06-01,Jean clásico,Pantalones,2,21900,43800,Diego López,WhatsApp,Tarjeta débito,2026,6,Jun 2026
+2397,2026-06-01,Jean chupín,Pantalones,1,27100,27100,Nicolás Romero,Local,Tarjeta débito,2026,6,Jun 2026
+2398,2026-06-01,Mochila,Accesorios,1,26900,26900,Lucía Fernández,Local,Transferencia,2026,6,Jun 2026
+2399,2026-06-01,Jean chupín,Pantalones,1,25900,25900,Micaela Rojas,Local,Efectivo,2026,6,Jun 2026
+2400,2026-06-02,Vestido de fiesta,Vestidos,1,33500,33500,Consumidor Final,Local,Efectivo,2026,6,Jun 2026
+2401,2026-06-02,Jean clásico,Pantalones,1,21900,21900,Consumidor Final,Instagram,Efectivo,2026,6,Jun 2026
+2402,2026-06-03,Gorra,Accesorios,1,7600,7600,Lucía Fernández,Local,Transferencia,2026,6,Jun 2026
+2403,2026-06-03,Gorra,Accesorios,1,7200,7200,Agustina Ruiz,Instagram,Tarjeta débito,2026,6,Jun 2026
+2404,2026-06-03,Remera básica,Remeras,1,8000,8000,María González,WhatsApp,Efectivo,2026,6,Jun 2026
+2405,2026-06-03,Vestido casual,Vestidos,1,21500,21500,Sofía Martínez,Local,Tarjeta débito,2026,6,Jun 2026
+2406,2026-06-04,Remera básica,Remeras,1,8100,8100,Nicolás Romero,Local,Transferencia,2026,6,Jun 2026
+2407,2026-06-04,Zapatillas urbanas,Calzado,2,43000,86000,Consumidor Final,Local,Efectivo,2026,6,Jun 2026
+2408,2026-06-04,Jean chupín,Pantalones,1,27100,27100,Santiago Silva,Local,Tarjeta crédito,2026,6,Jun 2026
+2409,2026-06-04,Mochila,Accesorios,2,25600,51200,Consumidor Final,Local,Transferencia,2026,6,Jun 2026
+2410,2026-06-05,Zapatillas urbanas,Calzado,1,43400,43400,Santiago Silva,WhatsApp,Tarjeta crédito,2026,6,Jun 2026
+2411,2026-06-05,Mochila,Accesorios,1,29000,29000,Camila Torres,WhatsApp,Efectivo,2026,6,Jun 2026
+2412,2026-06-06,Gorra,Accesorios,1,7800,7800,Consumidor Final,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2413,2026-06-06,Jean clásico,Pantalones,1,24200,24200,Franco Castro,WhatsApp,Efectivo,2026,6,Jun 2026
+2414,2026-06-06,Vestido de fiesta,Vestidos,1,35300,35300,Consumidor Final,Local,Tarjeta débito,2026,6,Jun 2026
+2415,2026-06-06,Jean clásico,Pantalones,2,22900,45800,Franco Castro,Instagram,Transferencia,2026,6,Jun 2026
+2416,2026-06-06,Vestido de fiesta,Vestidos,2,33300,66600,Martín Díaz,Local,Mercado Pago,2026,6,Jun 2026
+2417,2026-06-06,Buzo oversize,Buzos,1,20500,20500,Martín Díaz,Local,Mercado Pago,2026,6,Jun 2026
+2418,2026-06-06,Ojotas,Calzado,1,8900,8900,Martín Díaz,Instagram,Tarjeta débito,2026,6,Jun 2026
+2419,2026-06-07,Cinturón cuero,Accesorios,1,12300,12300,Carlos Rodríguez,Local,Tarjeta crédito,2026,6,Jun 2026
+2420,2026-06-07,Campera inflable,Camperas,2,46400,92800,Nicolás Romero,Instagram,Mercado Pago,2026,6,Jun 2026
+2421,2026-06-07,Mochila,Accesorios,2,26200,52400,Juan Pérez,Instagram,Efectivo,2026,6,Jun 2026
+2422,2026-06-07,Ojotas,Calzado,2,8600,17200,Consumidor Final,WhatsApp,Tarjeta crédito,2026,6,Jun 2026
+2423,2026-06-07,Remera básica,Remeras,2,8500,17000,Consumidor Final,WhatsApp,Tarjeta débito,2026,6,Jun 2026
+2424,2026-06-07,Remera básica,Remeras,1,7800,7800,María González,Instagram,Transferencia,2026,6,Jun 2026
+2425,2026-06-07,Jean clásico,Pantalones,2,23300,46600,Consumidor Final,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2426,2026-06-08,Buzo oversize,Buzos,1,20000,20000,María González,Local,Tarjeta débito,2026,6,Jun 2026
+2427,2026-06-08,Remera básica,Remeras,2,7700,15400,Micaela Rojas,Local,Transferencia,2026,6,Jun 2026
+2428,2026-06-08,Cinturón cuero,Accesorios,1,13000,13000,Camila Torres,WhatsApp,Mercado Pago,2026,6,Jun 2026
+2429,2026-06-08,Campera de jean,Camperas,2,36600,73200,Lucía Fernández,Instagram,Tarjeta débito,2026,6,Jun 2026
+2430,2026-06-08,Ojotas,Calzado,1,8900,8900,Diego López,WhatsApp,Mercado Pago,2026,6,Jun 2026
+2431,2026-06-09,Ojotas,Calzado,1,8500,8500,Julieta Suárez,Local,Tarjeta crédito,2026,6,Jun 2026
+2432,2026-06-09,Zapatillas urbanas,Calzado,1,39500,39500,Consumidor Final,Local,Tarjeta crédito,2026,6,Jun 2026
+2433,2026-06-09,Remera básica,Remeras,1,7900,7900,Consumidor Final,Local,Efectivo,2026,6,Jun 2026
+2434,2026-06-10,Gorra,Accesorios,2,7000,14000,Juan Pérez,Local,Efectivo,2026,6,Jun 2026
+2435,2026-06-10,Vestido de fiesta,Vestidos,1,34500,34500,Juan Pérez,Local,Efectivo,2026,6,Jun 2026
+2436,2026-06-10,Campera de jean,Camperas,1,36200,36200,Julieta Suárez,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2437,2026-06-10,Gorra,Accesorios,1,7200,7200,Consumidor Final,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2438,2026-06-11,Remera estampada,Remeras,1,11200,11200,Consumidor Final,Instagram,Transferencia,2026,6,Jun 2026
+2439,2026-06-11,Vestido de fiesta,Vestidos,2,31700,63400,Florencia Ortiz,Local,Efectivo,2026,6,Jun 2026
+2440,2026-06-12,Ojotas,Calzado,1,8400,8400,Sofía Martínez,Instagram,Tarjeta débito,2026,6,Jun 2026
+2441,2026-06-12,Vestido casual,Vestidos,1,22200,22200,Agustina Ruiz,Local,Tarjeta débito,2026,6,Jun 2026
+2442,2026-06-12,Campera inflable,Camperas,1,44700,44700,Juan Pérez,WhatsApp,Transferencia,2026,6,Jun 2026
+2443,2026-06-12,Jean chupín,Pantalones,1,25800,25800,Consumidor Final,Local,Transferencia,2026,6,Jun 2026
+2444,2026-06-12,Remera estampada,Remeras,2,10100,20200,Bruno Herrera,WhatsApp,Efectivo,2026,6,Jun 2026
+2445,2026-06-13,Jean clásico,Pantalones,2,22200,44400,Federico Álvarez,Local,Efectivo,2026,6,Jun 2026
+2446,2026-06-13,Jean clásico,Pantalones,2,23300,46600,Camila Torres,Instagram,Transferencia,2026,6,Jun 2026
+2447,2026-06-13,Zapatillas urbanas,Calzado,2,43700,87400,Franco Castro,Local,Tarjeta crédito,2026,6,Jun 2026
+2448,2026-06-13,Buzo canguro,Buzos,1,19400,19400,Florencia Ortiz,Local,Mercado Pago,2026,6,Jun 2026
+2449,2026-06-13,Campera inflable,Camperas,1,45100,45100,Camila Torres,WhatsApp,Efectivo,2026,6,Jun 2026
+2450,2026-06-13,Vestido de fiesta,Vestidos,3,31800,95400,Bruno Herrera,Local,Efectivo,2026,6,Jun 2026
+2451,2026-06-14,Campera de jean,Camperas,1,37400,37400,Martín Díaz,Local,Transferencia,2026,6,Jun 2026
+2452,2026-06-14,Zapatillas urbanas,Calzado,1,40700,40700,Florencia Ortiz,Local,Tarjeta débito,2026,6,Jun 2026
+2453,2026-06-14,Ojotas,Calzado,1,9400,9400,Tomás Molina,Local,Tarjeta crédito,2026,6,Jun 2026
+2454,2026-06-14,Remera estampada,Remeras,1,11500,11500,Franco Castro,Local,Transferencia,2026,6,Jun 2026
+2455,2026-06-14,Remera básica,Remeras,1,8900,8900,Consumidor Final,Local,Mercado Pago,2026,6,Jun 2026
+2456,2026-06-14,Remera básica,Remeras,3,8600,25800,Consumidor Final,WhatsApp,Transferencia,2026,6,Jun 2026
+2457,2026-06-14,Buzo oversize,Buzos,1,19600,19600,Consumidor Final,Instagram,Transferencia,2026,6,Jun 2026
+2458,2026-06-15,Remera estampada,Remeras,1,10400,10400,Consumidor Final,WhatsApp,Transferencia,2026,6,Jun 2026
+2459,2026-06-15,Cinturón cuero,Accesorios,1,11700,11700,Diego López,WhatsApp,Efectivo,2026,6,Jun 2026
+2460,2026-06-15,Mochila,Accesorios,2,26600,53200,Diego López,Local,Transferencia,2026,6,Jun 2026
+2461,2026-06-15,Buzo oversize,Buzos,1,21100,21100,Tomás Molina,Local,Mercado Pago,2026,6,Jun 2026
+2462,2026-06-16,Buzo canguro,Buzos,2,19200,38400,Valentina Sánchez,Local,Mercado Pago,2026,6,Jun 2026
+2463,2026-06-16,Vestido de fiesta,Vestidos,1,35000,35000,Agustina Ruiz,Local,Transferencia,2026,6,Jun 2026
+2464,2026-06-16,Mochila,Accesorios,1,28800,28800,Consumidor Final,WhatsApp,Transferencia,2026,6,Jun 2026
+2465,2026-06-16,Campera de jean,Camperas,1,34200,34200,Sofía Martínez,Instagram,Mercado Pago,2026,6,Jun 2026
+2466,2026-06-16,Remera estampada,Remeras,1,11100,11100,Bruno Herrera,Instagram,Mercado Pago,2026,6,Jun 2026
+2467,2026-06-16,Buzo canguro,Buzos,1,18200,18200,Antonella Gómez,WhatsApp,Tarjeta crédito,2026,6,Jun 2026
+2468,2026-06-17,Mochila,Accesorios,1,28600,28600,Consumidor Final,Instagram,Transferencia,2026,6,Jun 2026
+2469,2026-06-17,Buzo canguro,Buzos,1,18600,18600,Micaela Rojas,WhatsApp,Tarjeta crédito,2026,6,Jun 2026
+2470,2026-06-17,Remera estampada,Remeras,2,10700,21400,Bruno Herrera,Instagram,Mercado Pago,2026,6,Jun 2026
+2471,2026-06-17,Buzo canguro,Buzos,1,20000,20000,Tomás Molina,Instagram,Mercado Pago,2026,6,Jun 2026
+2472,2026-06-18,Mochila,Accesorios,2,25600,51200,Consumidor Final,WhatsApp,Efectivo,2026,6,Jun 2026
+2473,2026-06-18,Zapatillas urbanas,Calzado,1,43700,43700,Consumidor Final,Instagram,Mercado Pago,2026,6,Jun 2026
+2474,2026-06-18,Mochila,Accesorios,1,27900,27900,Juan Pérez,Instagram,Transferencia,2026,6,Jun 2026
+2475,2026-06-18,Jean chupín,Pantalones,1,25200,25200,Valentina Sánchez,WhatsApp,Efectivo,2026,6,Jun 2026
+2476,2026-06-19,Buzo oversize,Buzos,1,21500,21500,Julieta Suárez,Local,Tarjeta crédito,2026,6,Jun 2026
+2477,2026-06-19,Gorra,Accesorios,1,7100,7100,Camila Torres,Local,Transferencia,2026,6,Jun 2026
+2478,2026-06-20,Zapatillas urbanas,Calzado,1,43500,43500,María González,Local,Tarjeta crédito,2026,6,Jun 2026
+2479,2026-06-20,Cinturón cuero,Accesorios,2,12800,25600,Agustina Ruiz,Local,Mercado Pago,2026,6,Jun 2026
+2480,2026-06-20,Buzo canguro,Buzos,1,20400,20400,Julieta Suárez,WhatsApp,Mercado Pago,2026,6,Jun 2026
+2481,2026-06-20,Buzo canguro,Buzos,1,19400,19400,Diego López,Local,Tarjeta crédito,2026,6,Jun 2026
+2482,2026-06-20,Vestido casual,Vestidos,1,20600,20600,Sofía Martínez,Instagram,Mercado Pago,2026,6,Jun 2026
+2483,2026-06-20,Gorra,Accesorios,1,7600,7600,Bruno Herrera,Local,Tarjeta crédito,2026,6,Jun 2026
+2484,2026-06-20,Jean chupín,Pantalones,1,23500,23500,Consumidor Final,Instagram,Tarjeta débito,2026,6,Jun 2026
+2485,2026-06-20,Remera básica,Remeras,1,8300,8300,Antonella Gómez,Local,Tarjeta débito,2026,6,Jun 2026
+2486,2026-06-20,Buzo oversize,Buzos,1,21300,21300,Martín Díaz,Local,Mercado Pago,2026,6,Jun 2026
+2487,2026-06-21,Gorra,Accesorios,2,7600,15200,Camila Torres,Local,Tarjeta débito,2026,6,Jun 2026
+2488,2026-06-21,Zapatillas urbanas,Calzado,1,44000,44000,Carlos Rodríguez,Instagram,Mercado Pago,2026,6,Jun 2026
+2489,2026-06-21,Remera estampada,Remeras,1,10400,10400,Lucía Fernández,Local,Tarjeta crédito,2026,6,Jun 2026
+2490,2026-06-21,Mochila,Accesorios,2,26800,53600,María González,Local,Transferencia,2026,6,Jun 2026
+2491,2026-06-21,Zapatillas urbanas,Calzado,1,42100,42100,Agustina Ruiz,Instagram,Transferencia,2026,6,Jun 2026
+2492,2026-06-21,Gorra,Accesorios,1,7100,7100,Antonella Gómez,Instagram,Efectivo,2026,6,Jun 2026
+2493,2026-06-21,Remera estampada,Remeras,3,11500,34500,Santiago Silva,Instagram,Efectivo,2026,6,Jun 2026
+2494,2026-06-21,Jean clásico,Pantalones,1,22500,22500,Consumidor Final,Instagram,Mercado Pago,2026,6,Jun 2026
+2495,2026-06-22,Remera básica,Remeras,1,8600,8600,Federico Álvarez,Local,Tarjeta débito,2026,6,Jun 2026
+2496,2026-06-22,Remera básica,Remeras,1,7900,7900,Sofía Martínez,Local,Transferencia,2026,6,Jun 2026
+2497,2026-06-23,Ojotas,Calzado,1,8500,8500,Franco Castro,Local,Transferencia,2026,6,Jun 2026
+2498,2026-06-23,Mochila,Accesorios,1,25900,25900,Camila Torres,WhatsApp,Efectivo,2026,6,Jun 2026
+2499,2026-06-23,Vestido de fiesta,Vestidos,2,34600,69200,Valentina Sánchez,WhatsApp,Transferencia,2026,6,Jun 2026
+2500,2026-06-23,Buzo canguro,Buzos,2,18800,37600,Agustina Ruiz,Instagram,Mercado Pago,2026,6,Jun 2026
+2501,2026-06-24,Buzo canguro,Buzos,1,19200,19200,Lucía Fernández,Local,Efectivo,2026,6,Jun 2026
+2502,2026-06-24,Vestido casual,Vestidos,1,21200,21200,Micaela Rojas,Local,Efectivo,2026,6,Jun 2026
+2503,2026-06-24,Remera estampada,Remeras,1,10400,10400,Federico Álvarez,Local,Tarjeta débito,2026,6,Jun 2026
+2504,2026-06-24,Zapatillas urbanas,Calzado,1,38700,38700,María González,Local,Efectivo,2026,6,Jun 2026
+2505,2026-06-24,Ojotas,Calzado,1,8700,8700,Martín Díaz,Instagram,Transferencia,2026,6,Jun 2026
+2506,2026-06-25,Jean chupín,Pantalones,1,24500,24500,Lucía Fernández,Instagram,Transferencia,2026,6,Jun 2026
+2507,2026-06-25,Zapatillas urbanas,Calzado,2,39800,79600,Valentina Sánchez,Local,Transferencia,2026,6,Jun 2026
+2508,2026-06-25,Buzo oversize,Buzos,1,19800,19800,Consumidor Final,Instagram,Mercado Pago,2026,6,Jun 2026
+2509,2026-06-25,Campera inflable,Camperas,1,42100,42100,Consumidor Final,Local,Mercado Pago,2026,6,Jun 2026
+2510,2026-06-26,Remera básica,Remeras,2,8000,16000,Julieta Suárez,Local,Mercado Pago,2026,6,Jun 2026
+2511,2026-06-26,Mochila,Accesorios,1,26600,26600,Consumidor Final,Instagram,Transferencia,2026,6,Jun 2026
+2512,2026-06-26,Ojotas,Calzado,1,8500,8500,Lucía Fernández,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2513,2026-06-26,Buzo oversize,Buzos,1,20100,20100,Florencia Ortiz,Instagram,Efectivo,2026,6,Jun 2026
+2514,2026-06-26,Cinturón cuero,Accesorios,1,12400,12400,Consumidor Final,Local,Efectivo,2026,6,Jun 2026
+2515,2026-06-27,Cinturón cuero,Accesorios,1,12100,12100,Valentina Sánchez,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2516,2026-06-27,Cinturón cuero,Accesorios,2,13100,26200,Juan Pérez,Local,Efectivo,2026,6,Jun 2026
+2517,2026-06-27,Remera estampada,Remeras,1,10400,10400,Santiago Silva,Instagram,Transferencia,2026,6,Jun 2026
+2518,2026-06-27,Campera de jean,Camperas,1,39500,39500,Carlos Rodríguez,Local,Tarjeta débito,2026,6,Jun 2026
+2519,2026-06-27,Gorra,Accesorios,1,7700,7700,Florencia Ortiz,Instagram,Mercado Pago,2026,6,Jun 2026
+2520,2026-06-27,Vestido casual,Vestidos,1,21400,21400,Camila Torres,Local,Transferencia,2026,6,Jun 2026
+2521,2026-06-27,Jean chupín,Pantalones,1,26400,26400,Federico Álvarez,Instagram,Tarjeta débito,2026,6,Jun 2026
+2522,2026-06-27,Zapatillas urbanas,Calzado,1,43200,43200,Lucía Fernández,WhatsApp,Efectivo,2026,6,Jun 2026
+2523,2026-06-27,Jean chupín,Pantalones,1,24200,24200,Valentina Sánchez,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2524,2026-06-27,Jean chupín,Pantalones,2,26400,52800,Agustina Ruiz,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2525,2026-06-28,Ojotas,Calzado,1,8300,8300,Sofía Martínez,Local,Tarjeta crédito,2026,6,Jun 2026
+2526,2026-06-28,Buzo canguro,Buzos,3,20100,60300,Julieta Suárez,Local,Tarjeta crédito,2026,6,Jun 2026
+2527,2026-06-28,Buzo canguro,Buzos,1,18400,18400,Carlos Rodríguez,Local,Efectivo,2026,6,Jun 2026
+2528,2026-06-28,Ojotas,Calzado,1,8100,8100,Camila Torres,Local,Mercado Pago,2026,6,Jun 2026
+2529,2026-06-28,Buzo oversize,Buzos,1,19300,19300,Federico Álvarez,Local,Tarjeta débito,2026,6,Jun 2026
+2530,2026-06-28,Buzo canguro,Buzos,1,19000,19000,Consumidor Final,Local,Efectivo,2026,6,Jun 2026
+2531,2026-06-28,Remera básica,Remeras,1,8600,8600,Nicolás Romero,Local,Tarjeta débito,2026,6,Jun 2026
+2532,2026-06-28,Vestido de fiesta,Vestidos,1,34700,34700,Carlos Rodríguez,Instagram,Tarjeta débito,2026,6,Jun 2026
+2533,2026-06-28,Remera estampada,Remeras,1,10000,10000,Consumidor Final,Local,Efectivo,2026,6,Jun 2026
+2534,2026-06-28,Vestido casual,Vestidos,1,20500,20500,Julieta Suárez,Local,Efectivo,2026,6,Jun 2026
+2535,2026-06-28,Jean chupín,Pantalones,2,26800,53600,Valentina Sánchez,Local,Tarjeta débito,2026,6,Jun 2026
+2536,2026-06-29,Vestido de fiesta,Vestidos,1,31500,31500,Santiago Silva,Instagram,Tarjeta crédito,2026,6,Jun 2026
+2537,2026-06-29,Cinturón cuero,Accesorios,2,11700,23400,Lucía Fernández,Local,Tarjeta crédito,2026,6,Jun 2026
+2538,2026-06-29,Mochila,Accesorios,1,29200,29200,Tomás Molina,Local,Tarjeta débito,2026,6,Jun 2026
+2539,2026-06-30,Campera de jean,Camperas,2,35200,70400,María González,Instagram,Transferencia,2026,6,Jun 2026
+2540,2026-06-30,Vestido de fiesta,Vestidos,1,36100,36100,Juan Pérez,WhatsApp,Mercado Pago,2026,6,Jun 2026
+2541,2026-06-30,Zapatillas urbanas,Calzado,3,43100,129300,Diego López,Instagram,Efectivo,2026,6,Jun 2026
+2542,2026-06-30,Remera estampada,Remeras,1,11100,11100,Federico Álvarez,WhatsApp,Tarjeta crédito,2026,6,Jun 2026
+2543,2026-06-30,Zapatillas urbanas,Calzado,1,40100,40100,Consumidor Final,Local,Tarjeta crédito,2026,6,Jun 2026
+2544,2026-07-01,Cinturón cuero,Accesorios,2,12800,25600,Camila Torres,Instagram,Efectivo,2026,7,Jul 2026
+2545,2026-07-01,Jean clásico,Pantalones,3,24700,74100,Sofía Martínez,Local,Efectivo,2026,7,Jul 2026
+2546,2026-07-01,Jean chupín,Pantalones,1,26100,26100,Valentina Sánchez,Instagram,Tarjeta débito,2026,7,Jul 2026
+2547,2026-07-01,Mochila,Accesorios,3,27900,83700,Bruno Herrera,WhatsApp,Transferencia,2026,7,Jul 2026
+2548,2026-07-01,Mochila,Accesorios,1,26300,26300,Agustina Ruiz,Local,Transferencia,2026,7,Jul 2026
+2549,2026-07-01,Campera de jean,Camperas,1,34400,34400,Agustina Ruiz,WhatsApp,Efectivo,2026,7,Jul 2026
+2550,2026-07-02,Buzo canguro,Buzos,2,19200,38400,Federico Álvarez,Local,Efectivo,2026,7,Jul 2026
+2551,2026-07-02,Buzo oversize,Buzos,2,19400,38800,Micaela Rojas,WhatsApp,Mercado Pago,2026,7,Jul 2026
+2552,2026-07-03,Buzo oversize,Buzos,1,21400,21400,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2553,2026-07-03,Cinturón cuero,Accesorios,1,11300,11300,Tomás Molina,Local,Efectivo,2026,7,Jul 2026
+2554,2026-07-03,Remera básica,Remeras,1,8100,8100,Micaela Rojas,Instagram,Mercado Pago,2026,7,Jul 2026
+2555,2026-07-04,Jean clásico,Pantalones,3,24200,72600,Consumidor Final,Instagram,Transferencia,2026,7,Jul 2026
+2556,2026-07-04,Vestido de fiesta,Vestidos,2,33000,66000,Consumidor Final,WhatsApp,Tarjeta débito,2026,7,Jul 2026
+2557,2026-07-04,Gorra,Accesorios,1,7200,7200,Carlos Rodríguez,WhatsApp,Tarjeta crédito,2026,7,Jul 2026
+2558,2026-07-04,Vestido de fiesta,Vestidos,1,34500,34500,Agustina Ruiz,WhatsApp,Tarjeta débito,2026,7,Jul 2026
+2559,2026-07-04,Zapatillas urbanas,Calzado,2,39400,78800,Valentina Sánchez,Local,Efectivo,2026,7,Jul 2026
+2560,2026-07-04,Campera de jean,Camperas,1,37800,37800,Julieta Suárez,Instagram,Transferencia,2026,7,Jul 2026
+2561,2026-07-04,Remera estampada,Remeras,1,10600,10600,Federico Álvarez,Instagram,Transferencia,2026,7,Jul 2026
+2562,2026-07-05,Buzo oversize,Buzos,1,20700,20700,Tomás Molina,Local,Tarjeta débito,2026,7,Jul 2026
+2563,2026-07-05,Vestido de fiesta,Vestidos,2,35600,71200,Federico Álvarez,Local,Mercado Pago,2026,7,Jul 2026
+2564,2026-07-05,Mochila,Accesorios,1,26400,26400,Julieta Suárez,Local,Efectivo,2026,7,Jul 2026
+2565,2026-07-05,Buzo oversize,Buzos,2,21700,43400,Juan Pérez,Local,Tarjeta crédito,2026,7,Jul 2026
+2566,2026-07-06,Cinturón cuero,Accesorios,3,11500,34500,Nicolás Romero,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2567,2026-07-06,Cinturón cuero,Accesorios,1,12600,12600,Juan Pérez,Instagram,Mercado Pago,2026,7,Jul 2026
+2568,2026-07-06,Jean clásico,Pantalones,1,25100,25100,Consumidor Final,WhatsApp,Tarjeta débito,2026,7,Jul 2026
+2569,2026-07-06,Campera de jean,Camperas,1,38300,38300,Franco Castro,Instagram,Tarjeta débito,2026,7,Jul 2026
+2570,2026-07-06,Remera estampada,Remeras,1,10200,10200,Micaela Rojas,Local,Tarjeta débito,2026,7,Jul 2026
+2571,2026-07-07,Vestido casual,Vestidos,1,20000,20000,Consumidor Final,Local,Tarjeta débito,2026,7,Jul 2026
+2572,2026-07-07,Cinturón cuero,Accesorios,1,12800,12800,Santiago Silva,Instagram,Mercado Pago,2026,7,Jul 2026
+2573,2026-07-07,Remera estampada,Remeras,1,10900,10900,Martín Díaz,Local,Mercado Pago,2026,7,Jul 2026
+2574,2026-07-07,Jean chupín,Pantalones,1,24500,24500,Antonella Gómez,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2575,2026-07-08,Buzo canguro,Buzos,1,19900,19900,Tomás Molina,Local,Tarjeta crédito,2026,7,Jul 2026
+2576,2026-07-08,Buzo oversize,Buzos,1,20100,20100,Juan Pérez,Instagram,Mercado Pago,2026,7,Jul 2026
+2577,2026-07-08,Buzo oversize,Buzos,1,21800,21800,Florencia Ortiz,WhatsApp,Transferencia,2026,7,Jul 2026
+2578,2026-07-08,Campera de jean,Camperas,1,35100,35100,Micaela Rojas,Local,Mercado Pago,2026,7,Jul 2026
+2579,2026-07-09,Zapatillas urbanas,Calzado,1,41900,41900,Florencia Ortiz,Instagram,Tarjeta débito,2026,7,Jul 2026
+2580,2026-07-09,Campera de jean,Camperas,2,38000,76000,Lucía Fernández,WhatsApp,Transferencia,2026,7,Jul 2026
+2581,2026-07-09,Buzo canguro,Buzos,3,19300,57900,Micaela Rojas,Instagram,Mercado Pago,2026,7,Jul 2026
+2582,2026-07-09,Campera de jean,Camperas,1,36000,36000,Federico Álvarez,Instagram,Transferencia,2026,7,Jul 2026
+2583,2026-07-10,Remera estampada,Remeras,1,11300,11300,Carlos Rodríguez,Instagram,Transferencia,2026,7,Jul 2026
+2584,2026-07-10,Mochila,Accesorios,1,26600,26600,Martín Díaz,Local,Tarjeta débito,2026,7,Jul 2026
+2585,2026-07-10,Ojotas,Calzado,2,9100,18200,Lucía Fernández,Local,Tarjeta crédito,2026,7,Jul 2026
+2586,2026-07-10,Remera estampada,Remeras,1,11100,11100,Federico Álvarez,Instagram,Efectivo,2026,7,Jul 2026
+2587,2026-07-11,Ojotas,Calzado,1,8300,8300,Bruno Herrera,Local,Tarjeta crédito,2026,7,Jul 2026
+2588,2026-07-11,Buzo oversize,Buzos,1,19800,19800,Diego López,Local,Mercado Pago,2026,7,Jul 2026
+2589,2026-07-11,Gorra,Accesorios,2,6800,13600,Consumidor Final,WhatsApp,Efectivo,2026,7,Jul 2026
+2590,2026-07-11,Jean chupín,Pantalones,1,23900,23900,Consumidor Final,Instagram,Mercado Pago,2026,7,Jul 2026
+2591,2026-07-11,Vestido casual,Vestidos,2,20900,41800,Micaela Rojas,Instagram,Tarjeta débito,2026,7,Jul 2026
+2592,2026-07-11,Vestido de fiesta,Vestidos,2,34100,68200,Bruno Herrera,WhatsApp,Efectivo,2026,7,Jul 2026
+2593,2026-07-11,Buzo oversize,Buzos,1,20100,20100,Consumidor Final,Local,Mercado Pago,2026,7,Jul 2026
+2594,2026-07-11,Campera de jean,Camperas,1,37000,37000,Consumidor Final,Instagram,Efectivo,2026,7,Jul 2026
+2595,2026-07-11,Jean chupín,Pantalones,2,24500,49000,Julieta Suárez,Instagram,Efectivo,2026,7,Jul 2026
+2596,2026-07-12,Cinturón cuero,Accesorios,2,13100,26200,Consumidor Final,Instagram,Mercado Pago,2026,7,Jul 2026
+2597,2026-07-12,Mochila,Accesorios,1,26500,26500,Bruno Herrera,Instagram,Efectivo,2026,7,Jul 2026
+2598,2026-07-12,Vestido de fiesta,Vestidos,1,36300,36300,María González,Local,Transferencia,2026,7,Jul 2026
+2599,2026-07-12,Campera de jean,Camperas,1,39300,39300,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2600,2026-07-12,Mochila,Accesorios,2,29000,58000,Consumidor Final,Instagram,Mercado Pago,2026,7,Jul 2026
+2601,2026-07-12,Mochila,Accesorios,1,28700,28700,Federico Álvarez,WhatsApp,Transferencia,2026,7,Jul 2026
+2602,2026-07-12,Vestido de fiesta,Vestidos,2,36400,72800,Franco Castro,WhatsApp,Tarjeta crédito,2026,7,Jul 2026
+2603,2026-07-13,Buzo oversize,Buzos,1,20900,20900,Nicolás Romero,Instagram,Tarjeta débito,2026,7,Jul 2026
+2604,2026-07-13,Remera básica,Remeras,2,7700,15400,Valentina Sánchez,Instagram,Transferencia,2026,7,Jul 2026
+2605,2026-07-13,Zapatillas urbanas,Calzado,1,37900,37900,Julieta Suárez,Instagram,Tarjeta débito,2026,7,Jul 2026
+2606,2026-07-13,Buzo canguro,Buzos,2,19200,38400,Consumidor Final,Local,Mercado Pago,2026,7,Jul 2026
+2607,2026-07-14,Mochila,Accesorios,1,26000,26000,Juan Pérez,Local,Efectivo,2026,7,Jul 2026
+2608,2026-07-14,Vestido de fiesta,Vestidos,1,33700,33700,Bruno Herrera,Instagram,Efectivo,2026,7,Jul 2026
+2609,2026-07-14,Cinturón cuero,Accesorios,2,12800,25600,Consumidor Final,Local,Tarjeta débito,2026,7,Jul 2026
+2610,2026-07-15,Vestido de fiesta,Vestidos,1,32800,32800,Santiago Silva,Local,Efectivo,2026,7,Jul 2026
+2611,2026-07-15,Zapatillas urbanas,Calzado,1,39400,39400,Franco Castro,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2612,2026-07-15,Mochila,Accesorios,2,26100,52200,Federico Álvarez,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2613,2026-07-15,Cinturón cuero,Accesorios,1,12200,12200,Bruno Herrera,Instagram,Efectivo,2026,7,Jul 2026
+2614,2026-07-16,Campera inflable,Camperas,2,45300,90600,Camila Torres,Local,Tarjeta débito,2026,7,Jul 2026
+2615,2026-07-16,Cinturón cuero,Accesorios,3,11700,35100,Valentina Sánchez,Local,Tarjeta débito,2026,7,Jul 2026
+2616,2026-07-16,Remera básica,Remeras,3,8500,25500,Florencia Ortiz,WhatsApp,Efectivo,2026,7,Jul 2026
+2617,2026-07-16,Buzo oversize,Buzos,2,19800,39600,Nicolás Romero,WhatsApp,Efectivo,2026,7,Jul 2026
+2618,2026-07-16,Remera básica,Remeras,1,8400,8400,Julieta Suárez,Local,Efectivo,2026,7,Jul 2026
+2619,2026-07-17,Zapatillas urbanas,Calzado,1,38100,38100,Bruno Herrera,Instagram,Efectivo,2026,7,Jul 2026
+2620,2026-07-17,Mochila,Accesorios,1,29000,29000,Camila Torres,WhatsApp,Mercado Pago,2026,7,Jul 2026
+2621,2026-07-17,Jean chupín,Pantalones,2,24700,49400,Tomás Molina,WhatsApp,Efectivo,2026,7,Jul 2026
+2622,2026-07-17,Gorra,Accesorios,1,7200,7200,Nicolás Romero,WhatsApp,Mercado Pago,2026,7,Jul 2026
+2623,2026-07-18,Buzo oversize,Buzos,1,21200,21200,Camila Torres,Local,Transferencia,2026,7,Jul 2026
+2624,2026-07-18,Buzo oversize,Buzos,2,21800,43600,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2625,2026-07-18,Remera estampada,Remeras,3,11200,33600,Antonella Gómez,Local,Mercado Pago,2026,7,Jul 2026
+2626,2026-07-18,Campera de jean,Camperas,1,38000,38000,Santiago Silva,Local,Tarjeta crédito,2026,7,Jul 2026
+2627,2026-07-18,Vestido de fiesta,Vestidos,1,35900,35900,Florencia Ortiz,Instagram,Transferencia,2026,7,Jul 2026
+2628,2026-07-18,Remera básica,Remeras,1,8900,8900,Bruno Herrera,Local,Efectivo,2026,7,Jul 2026
+2629,2026-07-18,Vestido de fiesta,Vestidos,2,33000,66000,Agustina Ruiz,WhatsApp,Transferencia,2026,7,Jul 2026
+2630,2026-07-18,Jean clásico,Pantalones,1,24400,24400,Franco Castro,Local,Tarjeta débito,2026,7,Jul 2026
+2631,2026-07-18,Jean clásico,Pantalones,2,24000,48000,Juan Pérez,Local,Mercado Pago,2026,7,Jul 2026
+2632,2026-07-19,Remera básica,Remeras,1,7900,7900,Camila Torres,WhatsApp,Efectivo,2026,7,Jul 2026
+2633,2026-07-19,Zapatillas urbanas,Calzado,2,43200,86400,Juan Pérez,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2634,2026-07-19,Remera estampada,Remeras,1,10600,10600,Martín Díaz,Local,Mercado Pago,2026,7,Jul 2026
+2635,2026-07-19,Campera inflable,Camperas,2,45100,90200,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2636,2026-07-19,Jean clásico,Pantalones,1,23800,23800,Tomás Molina,WhatsApp,Tarjeta crédito,2026,7,Jul 2026
+2637,2026-07-19,Buzo oversize,Buzos,2,19800,39600,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2638,2026-07-19,Mochila,Accesorios,1,27700,27700,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2639,2026-07-19,Vestido casual,Vestidos,2,22200,44400,Federico Álvarez,WhatsApp,Transferencia,2026,7,Jul 2026
+2640,2026-07-19,Cinturón cuero,Accesorios,1,12500,12500,Lucía Fernández,WhatsApp,Tarjeta débito,2026,7,Jul 2026
+2641,2026-07-20,Vestido de fiesta,Vestidos,1,34500,34500,Tomás Molina,Instagram,Efectivo,2026,7,Jul 2026
+2642,2026-07-20,Cinturón cuero,Accesorios,2,12700,25400,Micaela Rojas,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2643,2026-07-20,Campera de jean,Camperas,1,37500,37500,Agustina Ruiz,Local,Tarjeta crédito,2026,7,Jul 2026
+2644,2026-07-21,Remera estampada,Remeras,1,10600,10600,Tomás Molina,Local,Tarjeta crédito,2026,7,Jul 2026
+2645,2026-07-21,Vestido casual,Vestidos,1,22800,22800,Santiago Silva,Local,Transferencia,2026,7,Jul 2026
+2646,2026-07-21,Jean chupín,Pantalones,1,26600,26600,Consumidor Final,Instagram,Transferencia,2026,7,Jul 2026
+2647,2026-07-21,Zapatillas urbanas,Calzado,1,38700,38700,Nicolás Romero,Local,Efectivo,2026,7,Jul 2026
+2648,2026-07-22,Remera estampada,Remeras,1,10700,10700,Consumidor Final,Instagram,Tarjeta débito,2026,7,Jul 2026
+2649,2026-07-22,Mochila,Accesorios,1,27100,27100,Tomás Molina,Local,Mercado Pago,2026,7,Jul 2026
+2650,2026-07-22,Ojotas,Calzado,2,9100,18200,Consumidor Final,Local,Transferencia,2026,7,Jul 2026
+2651,2026-07-22,Remera básica,Remeras,1,8900,8900,Consumidor Final,WhatsApp,Transferencia,2026,7,Jul 2026
+2652,2026-07-22,Mochila,Accesorios,1,25700,25700,Martín Díaz,Instagram,Efectivo,2026,7,Jul 2026
+2653,2026-07-23,Campera inflable,Camperas,1,44700,44700,Juan Pérez,Local,Tarjeta crédito,2026,7,Jul 2026
+2654,2026-07-23,Buzo oversize,Buzos,2,20900,41800,Tomás Molina,Local,Transferencia,2026,7,Jul 2026
+2655,2026-07-23,Ojotas,Calzado,1,8300,8300,Micaela Rojas,Local,Efectivo,2026,7,Jul 2026
+2656,2026-07-24,Vestido de fiesta,Vestidos,1,35000,35000,Agustina Ruiz,Local,Mercado Pago,2026,7,Jul 2026
+2657,2026-07-24,Ojotas,Calzado,1,9400,9400,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2658,2026-07-24,Remera básica,Remeras,1,8800,8800,Tomás Molina,Local,Transferencia,2026,7,Jul 2026
+2659,2026-07-24,Campera inflable,Camperas,2,46900,93800,Consumidor Final,WhatsApp,Tarjeta débito,2026,7,Jul 2026
+2660,2026-07-24,Buzo canguro,Buzos,1,19200,19200,Carlos Rodríguez,Local,Tarjeta débito,2026,7,Jul 2026
+2661,2026-07-24,Remera estampada,Remeras,1,10700,10700,Diego López,Local,Tarjeta crédito,2026,7,Jul 2026
+2662,2026-07-25,Mochila,Accesorios,1,26400,26400,Consumidor Final,Instagram,Mercado Pago,2026,7,Jul 2026
+2663,2026-07-25,Gorra,Accesorios,1,7400,7400,Consumidor Final,WhatsApp,Mercado Pago,2026,7,Jul 2026
+2664,2026-07-25,Gorra,Accesorios,1,7300,7300,Federico Álvarez,Local,Mercado Pago,2026,7,Jul 2026
+2665,2026-07-25,Buzo canguro,Buzos,2,19100,38200,Nicolás Romero,WhatsApp,Efectivo,2026,7,Jul 2026
+2666,2026-07-25,Buzo oversize,Buzos,2,20500,41000,Consumidor Final,Local,Tarjeta crédito,2026,7,Jul 2026
+2667,2026-07-25,Ojotas,Calzado,1,9400,9400,Martín Díaz,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2668,2026-07-25,Jean clásico,Pantalones,1,22600,22600,Micaela Rojas,Instagram,Efectivo,2026,7,Jul 2026
+2669,2026-07-25,Ojotas,Calzado,1,9300,9300,Consumidor Final,Local,Mercado Pago,2026,7,Jul 2026
+2670,2026-07-25,Campera inflable,Camperas,1,44300,44300,Juan Pérez,WhatsApp,Efectivo,2026,7,Jul 2026
+2671,2026-07-25,Jean chupín,Pantalones,1,24900,24900,Valentina Sánchez,Local,Tarjeta débito,2026,7,Jul 2026
+2672,2026-07-26,Buzo oversize,Buzos,2,21200,42400,Valentina Sánchez,Instagram,Efectivo,2026,7,Jul 2026
+2673,2026-07-26,Vestido casual,Vestidos,2,22300,44600,Consumidor Final,Local,Mercado Pago,2026,7,Jul 2026
+2674,2026-07-26,Vestido de fiesta,Vestidos,1,32400,32400,Camila Torres,Instagram,Mercado Pago,2026,7,Jul 2026
+2675,2026-07-26,Jean chupín,Pantalones,1,25300,25300,Diego López,WhatsApp,Tarjeta débito,2026,7,Jul 2026
+2676,2026-07-26,Mochila,Accesorios,1,27200,27200,Julieta Suárez,Instagram,Mercado Pago,2026,7,Jul 2026
+2677,2026-07-26,Buzo oversize,Buzos,1,19600,19600,Nicolás Romero,Local,Transferencia,2026,7,Jul 2026
+2678,2026-07-26,Campera inflable,Camperas,1,43400,43400,Agustina Ruiz,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2679,2026-07-27,Gorra,Accesorios,2,7700,15400,Santiago Silva,Local,Tarjeta débito,2026,7,Jul 2026
+2680,2026-07-27,Remera básica,Remeras,1,8300,8300,Tomás Molina,Local,Tarjeta crédito,2026,7,Jul 2026
+2681,2026-07-27,Campera de jean,Camperas,1,36500,36500,Tomás Molina,Local,Efectivo,2026,7,Jul 2026
+2682,2026-07-28,Campera de jean,Camperas,1,35400,35400,Juan Pérez,Local,Transferencia,2026,7,Jul 2026
+2683,2026-07-28,Jean chupín,Pantalones,1,24000,24000,Carlos Rodríguez,WhatsApp,Mercado Pago,2026,7,Jul 2026
+2684,2026-07-29,Vestido casual,Vestidos,1,22200,22200,Lucía Fernández,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2685,2026-07-29,Mochila,Accesorios,1,28400,28400,Consumidor Final,Local,Tarjeta débito,2026,7,Jul 2026
+2686,2026-07-29,Campera inflable,Camperas,1,47200,47200,Julieta Suárez,WhatsApp,Tarjeta débito,2026,7,Jul 2026
+2687,2026-07-30,Campera de jean,Camperas,2,39400,78800,Valentina Sánchez,Instagram,Tarjeta débito,2026,7,Jul 2026
+2688,2026-07-30,Remera básica,Remeras,1,7700,7700,Carlos Rodríguez,Instagram,Transferencia,2026,7,Jul 2026
+2689,2026-07-30,Remera básica,Remeras,1,8000,8000,Martín Díaz,Local,Efectivo,2026,7,Jul 2026
+2690,2026-07-30,Cinturón cuero,Accesorios,2,12500,25000,Consumidor Final,Instagram,Tarjeta crédito,2026,7,Jul 2026
+2691,2026-07-31,Vestido casual,Vestidos,2,22300,44600,María González,Instagram,Mercado Pago,2026,7,Jul 2026
+2692,2026-07-31,Vestido de fiesta,Vestidos,2,32000,64000,Julieta Suárez,Local,Mercado Pago,2026,7,Jul 2026
+2693,2026-07-31,Cinturón cuero,Accesorios,1,11900,11900,María González,Local,Transferencia,2026,7,Jul 2026
+2694,2026-07-31,Jean chupín,Pantalones,1,27200,27200,Julieta Suárez,Local,Efectivo,2026,7,Jul 2026
