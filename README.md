@@ -42,5 +42,5 @@ Estoy formándome como Data Analyst / Data Scientist, con base en soporte técni
 Support) y fundamentos de desarrollo web (HTML). Ofrezco servicios de análisis de datos,
 automatización de reportes y soporte técnico remoto para pequeños negocios.
 
-📧 Contacto: [tu email]
-💼 LinkedIn: [tu perfil]
+📧 Contacto: [matiasinfante43@gmail.com]
+💼 LinkedIn: [https://www.linkedin.com/in/mat%C3%ADasinfante/]
