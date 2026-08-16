@@ -2,7 +2,7 @@
 
 Formación en curso: Data Analyst & Data Scientist · Google IT Support Certificate · HTML
 
-Este portfolio muestra 4 proyectos aplicados a un mismo negocio ficticio ("Estilo Urbano",
+Este portfolio muestra 5 proyectos aplicados a un mismo negocio ficticio ("Estilo Urbano",
 una tienda de ropa), simulando el trabajo completo que le ofrecería a una pyme real: desde
 ordenar y limpiar sus datos, hasta armar reportes automáticos y entender qué piensan sus clientes.
 
