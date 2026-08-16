@@ -1,46 +1,47 @@
-# Portfolio de Análisis de Datos — [Infante Matias]
+# Segmentación de clientes con Machine Learning (RFM + K-Means)
 
-Formación en curso: Data Analyst & Data Scientist · Google IT Support Certificate · HTML
+## El problema
 
-Este portfolio muestra 4 proyectos aplicados a un mismo negocio ficticio ("Estilo Urbano",
-una tienda de ropa), simulando el trabajo completo que le ofrecería a una pyme real: desde
-ordenar y limpiar sus datos, hasta armar reportes automáticos y entender qué piensan sus clientes.
+Todo negocio con clientes recurrentes se hace la misma pregunta: ¿a quién le doy prioridad?
+Tratar a todos los clientes igual desperdicia recursos — un beneficio pensado para retener a un
+cliente VIP no tiene sentido gastarlo en alguien que ya dejó de comprar hace meses, y viceversa.
 
-Todos los datasets son sintéticos (generados con fines demostrativos), pero el código, los
-procesos y los insights son 100% reales y aplicables a un negocio real con sus propios datos.
+## La solución
 
-## 📊 Proyecto 1: Dashboard de ventas
-**[Ver proyecto](./proyecto1_dashboard_ventas)** · Excel
+Este proyecto usa un algoritmo real de Machine Learning (K-Means) para agrupar automáticamente
+a los clientes según su comportamiento de compra, sin reglas armadas a mano. El resultado es
+un mapa claro de a quién priorizar, a quién recuperar, y a quién mantener activo.
 
-Dashboard con KPIs, evolución mensual, top productos y clientes — todo con fórmulas dinámicas
-que se actualizan solas al agregar nuevos datos.
+## Cómo funciona (resumen técnico)
 
-## 🧹 Proyecto 2: Limpieza de base de datos de clientes
-**[Ver proyecto](./proyecto2_limpieza_datos)** · Python (pandas)
+1. **RFM**: por cada cliente se calculan 3 métricas — Recencia (hace cuánto no compra),
+   Frecuencia (cuántas veces compró) y Monto (cuánto gastó en total).
+2. **Selección de k**: en vez de elegir a ojo cuántos segmentos armar, se prueban varias opciones
+   (de 2 a 6) y se elige la que mejor separa a los clientes entre sí, usando el coeficiente de silueta.
+3. **K-Means**: algoritmo de clustering que agrupa a los clientes según sus métricas RFM.
+4. **Interpretación de negocio**: cada cluster se nombra según su perfil (VIP, Frecuente, Regular,
+   En riesgo) y se traduce en una recomendación de acción concreta.
 
-De 52 registros con nombres mal escritos, teléfonos en formatos distintos y clientes duplicados,
-a una base de 30 clientes limpia y confiable. Incluye reporte explicando cada decisión tomada.
+## Resultado
 
-## ⚙️ Proyecto 3: Automatización de reportes
-**[Ver proyecto](./proyecto3_automatizacion_reportes)** · Python (pandas + reportlab)
+Con 20 clientes analizados se identificaron 4 segmentos:
+- **VIP** (7 clientes): compran seguido y gastan más — priorizarlos con beneficios exclusivos.
+- **Regular** (10 clientes): base sólida, candidatos a subir de categoría con más comunicación.
+- **En riesgo — alto valor** (1 cliente): gastaba mucho y dejó de comprar — prioridad de recuperación.
+- **En riesgo — bajo valor** (2 clientes): también inactivos, pero de menor impacto si se pierden.
 
-Un script que genera un reporte PDF ejecutivo con un solo comando, a partir de cualquier archivo
-de ventas. Reemplaza horas de armado manual semana a semana.
+## Por qué es valioso como servicio
 
-## 💬 Proyecto 4: Análisis de opiniones de clientes
-**[Ver proyecto](./proyecto4_analisis_reviews)** · Python (análisis de texto)
+- Es Machine Learning real (no solo fórmulas ni reglas fijas), demostrando manejo de librerías
+  como scikit-learn.
+- El resultado es 100% accionable: se puede entregar la lista de clientes por segmento para
+  usar directamente en una campaña de WhatsApp/email/Instagram.
+- Se adapta a cualquier negocio con historial de compras por cliente (no solo retail).
 
-Clasificación de sentimiento y detección automática de temas sobre 111 reviews de clientes,
-identificando que "Envío" es el principal punto de fricción — el tipo de insight que le permite
-a un negocio priorizar en qué mejorar primero.
+## Archivos
 
----
-
-## Sobre mí
-
-Estoy formándome como Data Analyst / Data Scientist, con base en soporte técnico (Google IT
-Support) y fundamentos de desarrollo web (HTML). Ofrezco servicios de análisis de datos,
-automatización de reportes y soporte técnico remoto para pequeños negocios.
-
-📧 Contacto: [matiasinfante43@gmail.com]
-💼 LinkedIn: [https://www.linkedin.com/in/mat%C3%ADasinfante/]
+- `segmentacion_clientes.py` — cálculo de RFM y clustering.
+- `generar_reporte_segmentacion.py` — genera los gráficos y el PDF final.
+- `clientes_segmentados.csv` — listado de clientes con su segmento asignado (el entregable
+  más importante para el cliente real).
+- `reporte_segmentacion.pdf` — reporte visual con interpretación y recomendaciones de negocio.
